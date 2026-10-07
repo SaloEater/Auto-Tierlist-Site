@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tierlist</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="panel-open">
+  <button type="button" id="settings-toggle" class="settings-toggle" aria-controls="panel" aria-expanded="true">
+    <svg class="icon-gear" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+      <path fill="currentColor" d="M19.4 13a7.6 7.6 0 0 0 .1-1 7.6 7.6 0 0 0-.1-1l2.1-1.6a.5.5 0 0 0 .1-.6l-2-3.5a.5.5 0 0 0-.6-.2l-2.5 1a7.3 7.3 0 0 0-1.7-1l-.4-2.6a.5.5 0 0 0-.5-.4h-4a.5.5 0 0 0-.5.4l-.4 2.6a7.3 7.3 0 0 0-1.7 1l-2.5-1a.5.5 0 0 0-.6.2l-2 3.5a.5.5 0 0 0 .1.6L4.6 11a7.6 7.6 0 0 0 0 2l-2.1 1.6a.5.5 0 0 0-.1.6l2 3.5a.5.5 0 0 0 .6.2l2.5-1a7.3 7.3 0 0 0 1.7 1l.4 2.6a.5.5 0 0 0 .5.4h4a.5.5 0 0 0 .5-.4l.4-2.6a7.3 7.3 0 0 0 1.7-1l2.5 1a.5.5 0 0 0 .6-.2l2-3.5a.5.5 0 0 0-.1-.6L19.4 13zM12 15.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7z"/>
+    </svg>
+    <svg class="icon-close" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+      <path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" d="M6 6l12 12M18 6L6 18"/>
+    </svg>
+  </button>
+
+  <aside id="panel" class="panel">
+    <h1 data-i18n="title">Tierlist</h1>
+
+    <section class="control">
+      <label for="lang" data-i18n="language">Language</label>
+      <select id="lang"></select>
+    </section>
+
+    <section class="control">
+      <span class="label" data-i18n="view">View</span>
+      <div class="segmented" id="mode">
+        <button type="button" data-value="crafted" data-i18n="crafted">Crafted</button>
+        <button type="button" data-value="tiered" data-i18n="tiered">Tiered</button>
+      </div>
+      <div class="segmented" id="type">
+        <button type="button" data-value="weapons" data-i18n="weapons">Weapons</button>
+        <button type="button" data-value="armor" data-i18n="armor">Armor</button>
+      </div>
+    </section>
+
+    <section class="control">
+      <label for="search" data-i18n="search">Search</label>
+      <input id="search" type="search" autocomplete="off">
+      <div class="hint" id="search-count"></div>
+    </section>
+
+    <section class="control" id="tier-filter-control">
+      <label for="tier-filter" data-i18n="tierFilter">Armageddon tier</label>
+      <select id="tier-filter"></select>
+      <label class="check">
+        <input type="checkbox" id="show-next-tier">
+        <span data-i18n="showNextTier">Show next tier</span>
+      </label>
+      <div class="hint" data-i18n="tierFilterHint">Next tier is greyed out, higher tiers are hidden</div>
+    </section>
+
+    <section class="control">
+      <div class="row">
+        <span class="label" data-i18n="weights">Weights</span>
+        <button type="button" id="reset-weights" class="link" data-i18n="reset">Reset</button>
+      </div>
+      <label class="check" id="separate-magic-control">
+        <input type="checkbox" id="separate-magic">
+        <span data-i18n="separateMagic">Separate magic armor</span>
+      </label>
+      <div id="weights"></div>
+    </section>
+
+    <section class="control hint" data-i18n="panHint">Drag to pan, Ctrl+wheel or pinch to zoom, click a node to pin</section>
+
+    <button type="button" id="panel-done" class="panel-done" data-i18n="done">Done</button>
+  </aside>
+
+  <main id="canvas" class="canvas">
+    <div id="labels" class="labels"></div>
+    <div id="headers" class="headers"></div>
+    <div id="viewport" class="viewport">
+      <div id="rows" class="rows"></div>
+      <svg id="links" class="links" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z"></path>
+          </marker>
+          <marker id="arrow-hl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z"></path>
+          </marker>
+          <marker id="arrow-in" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z"></path>
+          </marker>
+        </defs>
+        <g id="links-g"></g>
+      </svg>
+      <div id="nodes" class="nodes"></div>
+    </div>
+    <div id="status" class="status" hidden></div>
+  </main>
+
+  <div id="tooltip" class="tooltip" hidden></div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
