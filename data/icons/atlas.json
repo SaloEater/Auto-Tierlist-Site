@@ -1,0 +1,5819 @@
+{
+  "size": 64,
+  "columns": 32,
+  "pages": 2,
+  "icons": {
+    "minecraft:wooden_sword": {
+      "page": 0,
+      "x": 0,
+      "y": 0
+    },
+    "minecraft:stone_sword": {
+      "page": 0,
+      "x": 64,
+      "y": 0
+    },
+    "minecraft:golden_sword": {
+      "page": 0,
+      "x": 128,
+      "y": 0
+    },
+    "minecraft:iron_sword": {
+      "page": 0,
+      "x": 192,
+      "y": 0
+    },
+    "minecraft:diamond_sword": {
+      "page": 0,
+      "x": 256,
+      "y": 0
+    },
+    "minecraft:netherite_sword": {
+      "page": 0,
+      "x": 320,
+      "y": 0
+    },
+    "minecraft:trident": {
+      "page": 0,
+      "x": 384,
+      "y": 0
+    },
+    "ae2:certus_quartz_sword": {
+      "page": 0,
+      "x": 448,
+      "y": 0
+    },
+    "ae2:nether_quartz_sword": {
+      "page": 0,
+      "x": 512,
+      "y": 0
+    },
+    "ae2:fluix_sword": {
+      "page": 0,
+      "x": 576,
+      "y": 0
+    },
+    "peyroscythe:ice_judgment": {
+      "page": 0,
+      "x": 640,
+      "y": 0
+    },
+    "peyroscythe:captain_greg": {
+      "page": 0,
+      "x": 704,
+      "y": 0
+    },
+    "peyroscythe:captain_greg_transformable": {
+      "page": 0,
+      "x": 768,
+      "y": 0
+    },
+    "peyroscythe:captain_greg_lance": {
+      "page": 0,
+      "x": 832,
+      "y": 0
+    },
+    "peyroscythe:captain_greg_pa": {
+      "page": 0,
+      "x": 896,
+      "y": 0
+    },
+    "peyroscythe:captain_greg_lance_pa": {
+      "page": 0,
+      "x": 960,
+      "y": 0
+    },
+    "celestial_core:guardian_ocean_sword": {
+      "page": 0,
+      "x": 1024,
+      "y": 0
+    },
+    "celestial_core:guardian_ocean_axe": {
+      "page": 0,
+      "x": 1088,
+      "y": 0
+    },
+    "celestial_core:sakura_sword": {
+      "page": 0,
+      "x": 1152,
+      "y": 0
+    },
+    "celestial_core:sakura_axe": {
+      "page": 0,
+      "x": 1216,
+      "y": 0
+    },
+    "celestial_core:virtual_gold_sword": {
+      "page": 0,
+      "x": 1280,
+      "y": 0
+    },
+    "celestial_core:virtual_gold_axe": {
+      "page": 0,
+      "x": 1344,
+      "y": 0
+    },
+    "naturesaura:infused_iron_sword": {
+      "page": 0,
+      "x": 1408,
+      "y": 0
+    },
+    "naturesaura:sky_sword": {
+      "page": 0,
+      "x": 1472,
+      "y": 0
+    },
+    "naturesaura:depth_sword": {
+      "page": 0,
+      "x": 1536,
+      "y": 0
+    },
+    "mutantmonsters:hulk_hammer": {
+      "page": 0,
+      "x": 1600,
+      "y": 0
+    },
+    "enigmaticdice:soul_eater": {
+      "page": 0,
+      "x": 1664,
+      "y": 0
+    },
+    "enigmaticdice:permafrost": {
+      "page": 0,
+      "x": 1728,
+      "y": 0
+    },
+    "enigmaticdice:kyomu": {
+      "page": 0,
+      "x": 1792,
+      "y": 0
+    },
+    "enigmaticdice:phoenix": {
+      "page": 0,
+      "x": 1856,
+      "y": 0
+    },
+    "enigmaticdice:crucible_of_rile": {
+      "page": 0,
+      "x": 1920,
+      "y": 0
+    },
+    "enigmaticdice:fire_crystal_greatsword": {
+      "page": 0,
+      "x": 1984,
+      "y": 0
+    },
+    "enigmaticdice:fire_crystal_spear": {
+      "page": 0,
+      "x": 0,
+      "y": 64
+    },
+    "dungeonnowloading:life_stealer": {
+      "page": 0,
+      "x": 64,
+      "y": 64
+    },
+    "dungeonnowloading:spawner_sword": {
+      "page": 0,
+      "x": 128,
+      "y": 64
+    },
+    "block_factorys_bosses:large_sword": {
+      "page": 0,
+      "x": 192,
+      "y": 64
+    },
+    "block_factorys_bosses:warrior_sword": {
+      "page": 0,
+      "x": 256,
+      "y": 64
+    },
+    "block_factorys_bosses:dagger": {
+      "page": 0,
+      "x": 320,
+      "y": 64
+    },
+    "block_factorys_bosses:knight_sword": {
+      "page": 0,
+      "x": 384,
+      "y": 64
+    },
+    "traveloptics:titanlord_scepter": {
+      "page": 0,
+      "x": 448,
+      "y": 64
+    },
+    "traveloptics:staff_of_the_storm_empress": {
+      "page": 0,
+      "x": 512,
+      "y": 64
+    },
+    "traveloptics:flames_of_eldritch": {
+      "page": 0,
+      "x": 576,
+      "y": 64
+    },
+    "traveloptics:abyssal_tidecaller": {
+      "page": 0,
+      "x": 640,
+      "y": 64
+    },
+    "traveloptics:scourge_of_the_sands": {
+      "page": 0,
+      "x": 704,
+      "y": 64
+    },
+    "traveloptics:thorns_of_oblivion": {
+      "page": 0,
+      "x": 768,
+      "y": 64
+    },
+    "traveloptics:harbingers_wrath": {
+      "page": 0,
+      "x": 832,
+      "y": 64
+    },
+    "traveloptics:voidstrike_reaper": {
+      "page": 0,
+      "x": 896,
+      "y": 64
+    },
+    "traveloptics:cursed_wraithblade": {
+      "page": 0,
+      "x": 960,
+      "y": 64
+    },
+    "traveloptics:gauntlet_of_extinction": {
+      "page": 0,
+      "x": 1024,
+      "y": 64
+    },
+    "traveloptics:mechanized_wraithblade": {
+      "page": 0,
+      "x": 1088,
+      "y": 64
+    },
+    "traveloptics:the_obliterator": {
+      "page": 0,
+      "x": 1152,
+      "y": 64
+    },
+    "traveloptics:infernal_devastator": {
+      "page": 0,
+      "x": 1216,
+      "y": 64
+    },
+    "traveloptics:trident_of_the_eternal_maelstrom": {
+      "page": 0,
+      "x": 1280,
+      "y": 64
+    },
+    "traveloptics:stellothorn": {
+      "page": 0,
+      "x": 1344,
+      "y": 64
+    },
+    "traveloptics:galenic_polarizer": {
+      "page": 0,
+      "x": 1408,
+      "y": 64
+    },
+    "traveloptics:charged_sands": {
+      "page": 0,
+      "x": 1472,
+      "y": 64
+    },
+    "experienceobelisk:cognitive_sword": {
+      "page": 0,
+      "x": 1536,
+      "y": 64
+    },
+    "mythsandlegends:gargoyle_axe": {
+      "page": 0,
+      "x": 1600,
+      "y": 64
+    },
+    "mythsandlegends:umbras_whisper": {
+      "page": 0,
+      "x": 1664,
+      "y": 64
+    },
+    "mythsandlegends:molten_fist": {
+      "page": 0,
+      "x": 1728,
+      "y": 64
+    },
+    "eeeabsmobs:buster_gauntlet": {
+      "page": 0,
+      "x": 1792,
+      "y": 64
+    },
+    "eeeabsmobs:chainsword": {
+      "page": 0,
+      "x": 1856,
+      "y": 64
+    },
+    "eeeabsmobs:doombolt_battleaxe": {
+      "page": 0,
+      "x": 1920,
+      "y": 64
+    },
+    "eeeabsmobs:guardian_axe": {
+      "page": 0,
+      "x": 1984,
+      "y": 64
+    },
+    "eeeabsmobs:immortal_axe": {
+      "page": 0,
+      "x": 0,
+      "y": 128
+    },
+    "eeeabsmobs:immortal_sword": {
+      "page": 0,
+      "x": 64,
+      "y": 128
+    },
+    "eeeabsmobs:netherworld_katana": {
+      "page": 0,
+      "x": 128,
+      "y": 128
+    },
+    "born_in_chaos_v1:nightmare_scythe": {
+      "page": 0,
+      "x": 192,
+      "y": 128
+    },
+    "born_in_chaos_v1:great_reaper_axe": {
+      "page": 0,
+      "x": 256,
+      "y": 128
+    },
+    "born_in_chaos_v1:dark_ritual_dagger": {
+      "page": 0,
+      "x": 320,
+      "y": 128
+    },
+    "born_in_chaos_v1:skullbreaker_hammer": {
+      "page": 0,
+      "x": 384,
+      "y": 128
+    },
+    "born_in_chaos_v1:sharpened_dark_metal_sword": {
+      "page": 0,
+      "x": 448,
+      "y": 128
+    },
+    "born_in_chaos_v1:spiritual_sword": {
+      "page": 0,
+      "x": 512,
+      "y": 128
+    },
+    "born_in_chaos_v1:soul_cutlass": {
+      "page": 0,
+      "x": 576,
+      "y": 128
+    },
+    "born_in_chaos_v1:intoxicating_dagger": {
+      "page": 0,
+      "x": 640,
+      "y": 128
+    },
+    "born_in_chaos_v1:monster_flesh": {
+      "page": 0,
+      "x": 704,
+      "y": 128
+    },
+    "born_in_chaos_v1:smoked_monster_flesh": {
+      "page": 0,
+      "x": 768,
+      "y": 128
+    },
+    "born_in_chaos_v1:darkwarblade": {
+      "page": 0,
+      "x": 832,
+      "y": 128
+    },
+    "born_in_chaos_v1:shell_mace": {
+      "page": 0,
+      "x": 896,
+      "y": 128
+    },
+    "born_in_chaos_v1:trident_hayfork": {
+      "page": 0,
+      "x": 960,
+      "y": 128
+    },
+    "born_in_chaos_v1:soulbane": {
+      "page": 0,
+      "x": 1024,
+      "y": 128
+    },
+    "born_in_chaos_v1:wood_splitter_axe": {
+      "page": 0,
+      "x": 1088,
+      "y": 128
+    },
+    "born_in_chaos_v1:spider_bite_sword": {
+      "page": 0,
+      "x": 1152,
+      "y": 128
+    },
+    "born_in_chaos_v1:sweet_sword": {
+      "page": 0,
+      "x": 1216,
+      "y": 128
+    },
+    "born_in_chaos_v1:sweet_axe": {
+      "page": 0,
+      "x": 1280,
+      "y": 128
+    },
+    "born_in_chaos_v1:frostbitten_blade": {
+      "page": 0,
+      "x": 1344,
+      "y": 128
+    },
+    "born_in_chaos_v1:icy_sweetness": {
+      "page": 0,
+      "x": 1408,
+      "y": 128
+    },
+    "born_in_chaos_v1:nut_hammer": {
+      "page": 0,
+      "x": 1472,
+      "y": 128
+    },
+    "born_in_chaos_v1:birch_branches": {
+      "page": 0,
+      "x": 1536,
+      "y": 128
+    },
+    "born_in_chaos_v1:carrot_sword": {
+      "page": 0,
+      "x": 1600,
+      "y": 128
+    },
+    "dodosmobs:amalgam_claws": {
+      "page": 0,
+      "x": 1664,
+      "y": 128
+    },
+    "cnb:cinder_sword": {
+      "page": 0,
+      "x": 1728,
+      "y": 128
+    },
+    "cnb:cinder_sword_1": {
+      "page": 0,
+      "x": 1792,
+      "y": 128
+    },
+    "cnb:cinder_sword_2": {
+      "page": 0,
+      "x": 1856,
+      "y": 128
+    },
+    "cnb:cinder_sword_3": {
+      "page": 0,
+      "x": 1920,
+      "y": 128
+    },
+    "cnb:cinder_sword_4": {
+      "page": 0,
+      "x": 1984,
+      "y": 128
+    },
+    "cnb:cactem_spear": {
+      "page": 0,
+      "x": 0,
+      "y": 192
+    },
+    "cataclysm:coral_spear": {
+      "page": 0,
+      "x": 64,
+      "y": 192
+    },
+    "cataclysm:coral_bardiche": {
+      "page": 0,
+      "x": 128,
+      "y": 192
+    },
+    "cataclysm:athame": {
+      "page": 0,
+      "x": 192,
+      "y": 192
+    },
+    "cataclysm:khopesh": {
+      "page": 0,
+      "x": 256,
+      "y": 192
+    },
+    "cataclysm:black_steel_sword": {
+      "page": 0,
+      "x": 320,
+      "y": 192
+    },
+    "cataclysm:gauntlet_of_guard": {
+      "page": 0,
+      "x": 384,
+      "y": 192
+    },
+    "cataclysm:gauntlet_of_bulwark": {
+      "page": 0,
+      "x": 448,
+      "y": 192
+    },
+    "cataclysm:gauntlet_of_maelstrom": {
+      "page": 0,
+      "x": 512,
+      "y": 192
+    },
+    "cataclysm:the_incinerator": {
+      "page": 0,
+      "x": 576,
+      "y": 192
+    },
+    "cataclysm:soul_render": {
+      "page": 0,
+      "x": 640,
+      "y": 192
+    },
+    "cataclysm:the_annihilator": {
+      "page": 0,
+      "x": 704,
+      "y": 192
+    },
+    "cataclysm:astrape": {
+      "page": 0,
+      "x": 768,
+      "y": 192
+    },
+    "cataclysm:ceraunus": {
+      "page": 0,
+      "x": 832,
+      "y": 192
+    },
+    "cataclysm:the_immolator": {
+      "page": 0,
+      "x": 896,
+      "y": 192
+    },
+    "cataclysm:meat_shredder": {
+      "page": 0,
+      "x": 960,
+      "y": 192
+    },
+    "cataclysm:void_forge": {
+      "page": 0,
+      "x": 1024,
+      "y": 192
+    },
+    "cataclysm:tidal_claws": {
+      "page": 0,
+      "x": 1088,
+      "y": 192
+    },
+    "cataclysm:final_fractal": {
+      "page": 0,
+      "x": 1152,
+      "y": 192
+    },
+    "cataclysm:zweiender": {
+      "page": 0,
+      "x": 1216,
+      "y": 192
+    },
+    "cataclysm:infernal_forge": {
+      "page": 0,
+      "x": 1280,
+      "y": 192
+    },
+    "cataclysm:ancient_spear": {
+      "page": 0,
+      "x": 1344,
+      "y": 192
+    },
+    "saintsdragons:worldroot_sword": {
+      "page": 0,
+      "x": 1408,
+      "y": 192
+    },
+    "saintsdragons:blood_tempest_katana": {
+      "page": 0,
+      "x": 1472,
+      "y": 192
+    },
+    "saintsdragons:dragonlord_sword": {
+      "page": 0,
+      "x": 1536,
+      "y": 192
+    },
+    "undergarden:cloggrum_battleaxe": {
+      "page": 0,
+      "x": 1600,
+      "y": 192
+    },
+    "undergarden:cloggrum_sword": {
+      "page": 0,
+      "x": 1664,
+      "y": 192
+    },
+    "undergarden:froststeel_sword": {
+      "page": 0,
+      "x": 1728,
+      "y": 192
+    },
+    "undergarden:utherium_sword": {
+      "page": 0,
+      "x": 1792,
+      "y": 192
+    },
+    "undergarden:forgotten_battleaxe": {
+      "page": 0,
+      "x": 1856,
+      "y": 192
+    },
+    "undergarden:forgotten_sword": {
+      "page": 0,
+      "x": 1920,
+      "y": 192
+    },
+    "biomancy:despoil_sickle": {
+      "page": 0,
+      "x": 1984,
+      "y": 192
+    },
+    "soulsweapons:bluemoon_shortsword": {
+      "page": 0,
+      "x": 0,
+      "y": 256
+    },
+    "soulsweapons:bluemoon_greatsword": {
+      "page": 0,
+      "x": 64,
+      "y": 256
+    },
+    "soulsweapons:moonlight_shortsword": {
+      "page": 0,
+      "x": 128,
+      "y": 256
+    },
+    "soulsweapons:moonlight_greatsword": {
+      "page": 0,
+      "x": 192,
+      "y": 256
+    },
+    "soulsweapons:pure_moonlight_greatsword": {
+      "page": 0,
+      "x": 256,
+      "y": 256
+    },
+    "soulsweapons:bloodthirster": {
+      "page": 0,
+      "x": 320,
+      "y": 256
+    },
+    "soulsweapons:darkin_blade": {
+      "page": 0,
+      "x": 384,
+      "y": 256
+    },
+    "soulsweapons:dragon_staff": {
+      "page": 0,
+      "x": 448,
+      "y": 256
+    },
+    "soulsweapons:withered_wabbajack": {
+      "page": 0,
+      "x": 512,
+      "y": 256
+    },
+    "soulsweapons:whirligig_sawblade": {
+      "page": 0,
+      "x": 576,
+      "y": 256
+    },
+    "soulsweapons:dragonslayer_swordspear": {
+      "page": 0,
+      "x": 640,
+      "y": 256
+    },
+    "soulsweapons:rageblade": {
+      "page": 0,
+      "x": 704,
+      "y": 256
+    },
+    "soulsweapons:guts_sword": {
+      "page": 0,
+      "x": 768,
+      "y": 256
+    },
+    "soulsweapons:nightfall": {
+      "page": 0,
+      "x": 832,
+      "y": 256
+    },
+    "soulsweapons:comet_spear": {
+      "page": 0,
+      "x": 896,
+      "y": 256
+    },
+    "soulsweapons:lich_bane": {
+      "page": 0,
+      "x": 960,
+      "y": 256
+    },
+    "soulsweapons:translucent_sword": {
+      "page": 0,
+      "x": 1024,
+      "y": 256
+    },
+    "soulsweapons:translucent_glaive": {
+      "page": 0,
+      "x": 1088,
+      "y": 256
+    },
+    "soulsweapons:translucent_double_greatsword": {
+      "page": 0,
+      "x": 1152,
+      "y": 256
+    },
+    "soulsweapons:draugr": {
+      "page": 0,
+      "x": 1216,
+      "y": 256
+    },
+    "soulsweapons:dawnbreaker": {
+      "page": 0,
+      "x": 1280,
+      "y": 256
+    },
+    "soulsweapons:soul_reaper": {
+      "page": 0,
+      "x": 1344,
+      "y": 256
+    },
+    "soulsweapons:forlorn_scythe": {
+      "page": 0,
+      "x": 1408,
+      "y": 256
+    },
+    "soulsweapons:leviathan_axe": {
+      "page": 0,
+      "x": 1472,
+      "y": 256
+    },
+    "soulsweapons:skofnung": {
+      "page": 0,
+      "x": 1536,
+      "y": 256
+    },
+    "soulsweapons:mjolnir": {
+      "page": 0,
+      "x": 1600,
+      "y": 256
+    },
+    "soulsweapons:freyr_sword": {
+      "page": 0,
+      "x": 1664,
+      "y": 256
+    },
+    "soulsweapons:sting": {
+      "page": 0,
+      "x": 1728,
+      "y": 256
+    },
+    "soulsweapons:featherlight": {
+      "page": 0,
+      "x": 1792,
+      "y": 256
+    },
+    "soulsweapons:crucible_sword": {
+      "page": 0,
+      "x": 1856,
+      "y": 256
+    },
+    "soulsweapons:darkin_scythe_pre": {
+      "page": 0,
+      "x": 1920,
+      "y": 256
+    },
+    "soulsweapons:darkin_scythe": {
+      "page": 0,
+      "x": 1984,
+      "y": 256
+    },
+    "soulsweapons:shadow_assassin_scythe": {
+      "page": 0,
+      "x": 0,
+      "y": 320
+    },
+    "soulsweapons:kirkhammer": {
+      "page": 0,
+      "x": 64,
+      "y": 320
+    },
+    "soulsweapons:silver_sword": {
+      "page": 0,
+      "x": 128,
+      "y": 320
+    },
+    "soulsweapons:holy_greatsword": {
+      "page": 0,
+      "x": 192,
+      "y": 320
+    },
+    "soulsweapons:draupnir_spear": {
+      "page": 0,
+      "x": 256,
+      "y": 320
+    },
+    "soulsweapons:holy_moonlight_greatsword": {
+      "page": 0,
+      "x": 320,
+      "y": 320
+    },
+    "soulsweapons:holy_moonlight_sword": {
+      "page": 0,
+      "x": 384,
+      "y": 320
+    },
+    "soulsweapons:frostmourne": {
+      "page": 0,
+      "x": 448,
+      "y": 320
+    },
+    "soulsweapons:master_sword": {
+      "page": 0,
+      "x": 512,
+      "y": 320
+    },
+    "soulsweapons:nights_edge_item": {
+      "page": 0,
+      "x": 576,
+      "y": 320
+    },
+    "soulsweapons:empowered_dawnbreaker": {
+      "page": 0,
+      "x": 640,
+      "y": 320
+    },
+    "soulsweapons:chungus_staff": {
+      "page": 0,
+      "x": 704,
+      "y": 320
+    },
+    "soulsweapons:dark_moon_greatsword": {
+      "page": 0,
+      "x": 768,
+      "y": 320
+    },
+    "soulsweapons:glaive_of_hodir": {
+      "page": 0,
+      "x": 832,
+      "y": 320
+    },
+    "soulsweapons:excalibur": {
+      "page": 0,
+      "x": 896,
+      "y": 320
+    },
+    "soulsweapons:moonveil": {
+      "page": 0,
+      "x": 960,
+      "y": 320
+    },
+    "soulsweapons:simons_blade": {
+      "page": 0,
+      "x": 1024,
+      "y": 320
+    },
+    "soulsweapons:dragonbane": {
+      "page": 0,
+      "x": 1088,
+      "y": 320
+    },
+    "soulsweapons:supernova": {
+      "page": 0,
+      "x": 1152,
+      "y": 320
+    },
+    "soulsweapons:mehrunes_razor": {
+      "page": 0,
+      "x": 1216,
+      "y": 320
+    },
+    "soulsweapons:tonitrus": {
+      "page": 0,
+      "x": 1280,
+      "y": 320
+    },
+    "soulsweapons:bloodlust": {
+      "page": 0,
+      "x": 1344,
+      "y": 320
+    },
+    "soulsweapons:nightlords_sword": {
+      "page": 0,
+      "x": 1408,
+      "y": 320
+    },
+    "armageddon_mod:iron_colossus_arm": {
+      "page": 0,
+      "x": 1472,
+      "y": 320
+    },
+    "armageddon_mod:gilded_sword": {
+      "page": 0,
+      "x": 1536,
+      "y": 320
+    },
+    "armageddon_mod:gilded_axe": {
+      "page": 0,
+      "x": 1600,
+      "y": 320
+    },
+    "armageddon_mod:the_emerald_wrath": {
+      "page": 0,
+      "x": 1664,
+      "y": 320
+    },
+    "armageddon_mod:the_worldshaper_axe": {
+      "page": 0,
+      "x": 1728,
+      "y": 320
+    },
+    "armageddon_mod:broken_sword_ofthe_elements": {
+      "page": 0,
+      "x": 1792,
+      "y": 320
+    },
+    "armageddon_mod:swordofthe_elements": {
+      "page": 0,
+      "x": 1856,
+      "y": 320
+    },
+    "armageddon_mod:broken_sword_of_the_elements_grass": {
+      "page": 0,
+      "x": 1920,
+      "y": 320
+    },
+    "armageddon_mod:broken_sword_of_the_elements_fire": {
+      "page": 0,
+      "x": 1984,
+      "y": 320
+    },
+    "armageddon_mod:broken_sword_of_the_elements_lightning": {
+      "page": 0,
+      "x": 0,
+      "y": 384
+    },
+    "armageddon_mod:broken_sword_of_the_elements_ice": {
+      "page": 0,
+      "x": 64,
+      "y": 384
+    },
+    "armageddon_mod:scytheofthe_withered_shadow": {
+      "page": 0,
+      "x": 128,
+      "y": 384
+    },
+    "armageddon_mod:sword_ofthe_elements_grass": {
+      "page": 0,
+      "x": 192,
+      "y": 384
+    },
+    "armageddon_mod:sword_of_the_elements_fire": {
+      "page": 0,
+      "x": 256,
+      "y": 384
+    },
+    "armageddon_mod:sword_of_the_elements_lightning": {
+      "page": 0,
+      "x": 320,
+      "y": 384
+    },
+    "armageddon_mod:sword_of_the_elements_ice": {
+      "page": 0,
+      "x": 384,
+      "y": 384
+    },
+    "armageddon_mod:rustyswordofthelegendaryhero": {
+      "page": 0,
+      "x": 448,
+      "y": 384
+    },
+    "armageddon_mod:aqua_tide": {
+      "page": 0,
+      "x": 512,
+      "y": 384
+    },
+    "armageddon_mod:true_aqua_tide": {
+      "page": 0,
+      "x": 576,
+      "y": 384
+    },
+    "armageddon_mod:elvenite_axe": {
+      "page": 0,
+      "x": 640,
+      "y": 384
+    },
+    "armageddon_mod:elvenite_sword": {
+      "page": 0,
+      "x": 704,
+      "y": 384
+    },
+    "armageddon_mod:the_titans_oath": {
+      "page": 0,
+      "x": 768,
+      "y": 384
+    },
+    "armageddon_mod:the_voidfang_saber": {
+      "page": 0,
+      "x": 832,
+      "y": 384
+    },
+    "armageddon_mod:elvenite_paxel": {
+      "page": 0,
+      "x": 896,
+      "y": 384
+    },
+    "armageddon_mod:the_lost_voidblade": {
+      "page": 0,
+      "x": 960,
+      "y": 384
+    },
+    "armageddon_mod:voiderite_axe": {
+      "page": 0,
+      "x": 1024,
+      "y": 384
+    },
+    "armageddon_mod:voiderite_sword": {
+      "page": 0,
+      "x": 1088,
+      "y": 384
+    },
+    "armageddon_mod:voiderite_paxel": {
+      "page": 0,
+      "x": 1152,
+      "y": 384
+    },
+    "armageddon_mod:broken_sword_of_the_element_schulk": {
+      "page": 0,
+      "x": 1216,
+      "y": 384
+    },
+    "armageddon_mod:sword_of_the_element_schulk": {
+      "page": 0,
+      "x": 1280,
+      "y": 384
+    },
+    "armageddon_mod:gilded_paxel": {
+      "page": 0,
+      "x": 1344,
+      "y": 384
+    },
+    "armageddon_mod:bloody_axe": {
+      "page": 0,
+      "x": 1408,
+      "y": 384
+    },
+    "armageddon_mod:bloody_sword": {
+      "page": 0,
+      "x": 1472,
+      "y": 384
+    },
+    "armageddon_mod:bloody_paxel": {
+      "page": 0,
+      "x": 1536,
+      "y": 384
+    },
+    "armageddon_mod:elvenite_scythe": {
+      "page": 0,
+      "x": 1600,
+      "y": 384
+    },
+    "armageddon_mod:voiderite_scythe": {
+      "page": 0,
+      "x": 1664,
+      "y": 384
+    },
+    "armageddon_mod:bloody_scythe": {
+      "page": 0,
+      "x": 1728,
+      "y": 384
+    },
+    "armageddon_mod:iron_throwing_dagger": {
+      "page": 0,
+      "x": 1792,
+      "y": 384
+    },
+    "armageddon_mod:diamond_throwing_dagger": {
+      "page": 0,
+      "x": 1856,
+      "y": 384
+    },
+    "armageddon_mod:netherite_throwing_dagger": {
+      "page": 0,
+      "x": 1920,
+      "y": 384
+    },
+    "armageddon_mod:the_oathbreaker_of_chaos": {
+      "page": 0,
+      "x": 1984,
+      "y": 384
+    },
+    "armageddon_mod:the_chaosphere_blade": {
+      "page": 0,
+      "x": 0,
+      "y": 448
+    },
+    "armageddon_mod:the_holy_sword": {
+      "page": 0,
+      "x": 64,
+      "y": 448
+    },
+    "armageddon_mod:the_rift_piercer": {
+      "page": 0,
+      "x": 128,
+      "y": 448
+    },
+    "armageddon_mod:cleaver_of_the_starved": {
+      "page": 0,
+      "x": 192,
+      "y": 448
+    },
+    "armageddon_mod:echo_of_discord": {
+      "page": 0,
+      "x": 256,
+      "y": 448
+    },
+    "armageddon_mod:ultimate_sword_of_the_elements": {
+      "page": 0,
+      "x": 320,
+      "y": 448
+    },
+    "armageddon_mod:ultimate_sword_of_the_elements_lightning": {
+      "page": 0,
+      "x": 384,
+      "y": 448
+    },
+    "armageddon_mod:ultimate_sword_of_the_elements_grass": {
+      "page": 0,
+      "x": 448,
+      "y": 448
+    },
+    "armageddon_mod:ultimate_sword_of_the_elements_ice": {
+      "page": 0,
+      "x": 512,
+      "y": 448
+    },
+    "armageddon_mod:helionite_axe": {
+      "page": 0,
+      "x": 576,
+      "y": 448
+    },
+    "armageddon_mod:helionite_sword": {
+      "page": 0,
+      "x": 640,
+      "y": 448
+    },
+    "armageddon_mod:helionite_paxel": {
+      "page": 0,
+      "x": 704,
+      "y": 448
+    },
+    "armageddon_mod:the_eye_of_the_sun": {
+      "page": 0,
+      "x": 768,
+      "y": 448
+    },
+    "armageddon_mod:ultimate_sword_of_the_element_schulk": {
+      "page": 0,
+      "x": 832,
+      "y": 448
+    },
+    "armageddon_mod:ultimate_sword_of_the_elements_fire": {
+      "page": 0,
+      "x": 896,
+      "y": 448
+    },
+    "armageddon_mod:unstable_axe": {
+      "page": 0,
+      "x": 960,
+      "y": 448
+    },
+    "armageddon_mod:the_sword_of_the_starved": {
+      "page": 0,
+      "x": 1024,
+      "y": 448
+    },
+    "armageddon_mod:the_vampiric_blade": {
+      "page": 0,
+      "x": 1088,
+      "y": 448
+    },
+    "armageddon_mod:elvenite_throwing_dagger": {
+      "page": 0,
+      "x": 1152,
+      "y": 448
+    },
+    "armageddon_mod:the_excidium": {
+      "page": 0,
+      "x": 1216,
+      "y": 448
+    },
+    "armageddon_mod:the_specters_judgement": {
+      "page": 0,
+      "x": 1280,
+      "y": 448
+    },
+    "armageddon_mod:bloody_throwing_dagger": {
+      "page": 0,
+      "x": 1344,
+      "y": 448
+    },
+    "armageddon_mod:helionite_throwing_dagger": {
+      "page": 0,
+      "x": 1408,
+      "y": 448
+    },
+    "armageddon_mod:hollow_axe": {
+      "page": 0,
+      "x": 1472,
+      "y": 448
+    },
+    "armageddon_mod:the_hungery_axe": {
+      "page": 0,
+      "x": 1536,
+      "y": 448
+    },
+    "armageddon_mod:true_helionite_sword": {
+      "page": 0,
+      "x": 1600,
+      "y": 448
+    },
+    "armageddon_mod:helionite_scythe": {
+      "page": 0,
+      "x": 1664,
+      "y": 448
+    },
+    "armageddon_mod:the_chaos_saber": {
+      "page": 0,
+      "x": 1728,
+      "y": 448
+    },
+    "armageddon_mod:lance_of_the_veil": {
+      "page": 0,
+      "x": 1792,
+      "y": 448
+    },
+    "armageddon_mod:the_annihilation": {
+      "page": 0,
+      "x": 1856,
+      "y": 448
+    },
+    "armageddon_mod:the_duskfire_blade": {
+      "page": 0,
+      "x": 1920,
+      "y": 448
+    },
+    "armageddon_mod:the_world_breaker_axe": {
+      "page": 0,
+      "x": 1984,
+      "y": 448
+    },
+    "armageddon_mod:the_world_flare_axe": {
+      "page": 0,
+      "x": 0,
+      "y": 512
+    },
+    "armageddon_mod:radiant_sanctifier": {
+      "page": 0,
+      "x": 64,
+      "y": 512
+    },
+    "armageddon_mod:shivering_shard": {
+      "page": 0,
+      "x": 128,
+      "y": 512
+    },
+    "armageddon_mod:the_north_star": {
+      "page": 0,
+      "x": 192,
+      "y": 512
+    },
+    "armageddon_mod:the_gale_piercer": {
+      "page": 0,
+      "x": 256,
+      "y": 512
+    },
+    "armageddon_mod:skyfang_tempest": {
+      "page": 0,
+      "x": 320,
+      "y": 512
+    },
+    "armageddon_mod:the_scorchfang": {
+      "page": 0,
+      "x": 384,
+      "y": 512
+    },
+    "armageddon_mod:incendarius": {
+      "page": 0,
+      "x": 448,
+      "y": 512
+    },
+    "armageddon_mod:the_whisper_of_poison": {
+      "page": 0,
+      "x": 512,
+      "y": 512
+    },
+    "armageddon_mod:the_wilting_virescence": {
+      "page": 0,
+      "x": 576,
+      "y": 512
+    },
+    "armageddon_mod:scalding_silence": {
+      "page": 0,
+      "x": 640,
+      "y": 512
+    },
+    "armageddon_mod:yugure": {
+      "page": 0,
+      "x": 704,
+      "y": 512
+    },
+    "armageddon_mod:dragons_fang": {
+      "page": 0,
+      "x": 768,
+      "y": 512
+    },
+    "armageddon_mod:lament_of_khyros": {
+      "page": 0,
+      "x": 832,
+      "y": 512
+    },
+    "armageddon_mod:woe_splitter": {
+      "page": 0,
+      "x": 896,
+      "y": 512
+    },
+    "armageddon_mod:fork_of_lamentations": {
+      "page": 0,
+      "x": 960,
+      "y": 512
+    },
+    "armageddon_mod:spear_of_longinus": {
+      "page": 0,
+      "x": 1024,
+      "y": 512
+    },
+    "armageddon_mod:netherite_lostsword": {
+      "page": 0,
+      "x": 1088,
+      "y": 512
+    },
+    "armageddon_mod:prismatic_sword": {
+      "page": 0,
+      "x": 1152,
+      "y": 512
+    },
+    "armageddon_mod:prismatic_axe": {
+      "page": 0,
+      "x": 1216,
+      "y": 512
+    },
+    "armageddon_mod:the_prismatic_blade": {
+      "page": 0,
+      "x": 1280,
+      "y": 512
+    },
+    "armageddon_mod:thalassar": {
+      "page": 0,
+      "x": 1344,
+      "y": 512
+    },
+    "armageddon_mod:primalis": {
+      "page": 0,
+      "x": 1408,
+      "y": 512
+    },
+    "armageddon_mod:eclipsium_edge": {
+      "page": 0,
+      "x": 1472,
+      "y": 512
+    },
+    "armageddon_mod:staff_of_the_abyss": {
+      "page": 0,
+      "x": 1536,
+      "y": 512
+    },
+    "armageddon_mod:scorching_staff": {
+      "page": 0,
+      "x": 1600,
+      "y": 512
+    },
+    "armageddon_mod:eclipsium_reaper": {
+      "page": 0,
+      "x": 1664,
+      "y": 512
+    },
+    "armageddon_mod:indomita_furia": {
+      "page": 0,
+      "x": 1728,
+      "y": 512
+    },
+    "armageddon_mod:hellforged_bident": {
+      "page": 0,
+      "x": 1792,
+      "y": 512
+    },
+    "armageddon_mod:staff_of_the_cosmos": {
+      "page": 0,
+      "x": 1856,
+      "y": 512
+    },
+    "armageddon_mod:primitive_pike": {
+      "page": 0,
+      "x": 1920,
+      "y": 512
+    },
+    "armageddon_mod:marrow_club": {
+      "page": 0,
+      "x": 1984,
+      "y": 512
+    },
+    "armageddon_mod:withered_spineblade": {
+      "page": 0,
+      "x": 0,
+      "y": 576
+    },
+    "armageddon_mod:the_exsanguination": {
+      "page": 0,
+      "x": 64,
+      "y": 576
+    },
+    "armageddon_mod:the_scarlet_guillotine": {
+      "page": 0,
+      "x": 128,
+      "y": 576
+    },
+    "armageddon_mod:sanguir": {
+      "page": 0,
+      "x": 192,
+      "y": 576
+    },
+    "armageddon_mod:the_warden_slayer": {
+      "page": 0,
+      "x": 256,
+      "y": 576
+    },
+    "armageddon_mod:stone_pike": {
+      "page": 0,
+      "x": 320,
+      "y": 576
+    },
+    "armageddon_mod:iron_pike": {
+      "page": 0,
+      "x": 384,
+      "y": 576
+    },
+    "armageddon_mod:golden_pike": {
+      "page": 0,
+      "x": 448,
+      "y": 576
+    },
+    "armageddon_mod:gilded_pike": {
+      "page": 0,
+      "x": 512,
+      "y": 576
+    },
+    "armageddon_mod:emerald_pike": {
+      "page": 0,
+      "x": 576,
+      "y": 576
+    },
+    "armageddon_mod:diamond_pike": {
+      "page": 0,
+      "x": 640,
+      "y": 576
+    },
+    "armageddon_mod:illagers_executioner": {
+      "page": 0,
+      "x": 704,
+      "y": 576
+    },
+    "armageddon_mod:piglins_battleaxe": {
+      "page": 0,
+      "x": 768,
+      "y": 576
+    },
+    "armageddon_mod:the_stick": {
+      "page": 0,
+      "x": 832,
+      "y": 576
+    },
+    "armageddon_mod:antique_melted_iron_sword": {
+      "page": 0,
+      "x": 896,
+      "y": 576
+    },
+    "l2complements:totemic_gold_sword": {
+      "page": 0,
+      "x": 960,
+      "y": 576
+    },
+    "l2complements:poseidite_sword": {
+      "page": 0,
+      "x": 1024,
+      "y": 576
+    },
+    "l2complements:shulkerate_sword": {
+      "page": 0,
+      "x": 1088,
+      "y": 576
+    },
+    "l2complements:sculkium_sword": {
+      "page": 0,
+      "x": 1152,
+      "y": 576
+    },
+    "l2complements:eternium_sword": {
+      "page": 0,
+      "x": 1216,
+      "y": 576
+    },
+    "bosses_of_mass_destruction:earthdive_spear": {
+      "page": 0,
+      "x": 1280,
+      "y": 576
+    },
+    "meetyourfight:depth_star": {
+      "page": 0,
+      "x": 1344,
+      "y": 576
+    },
+    "meetyourfight:cocktail_cutlass": {
+      "page": 0,
+      "x": 1408,
+      "y": 576
+    },
+    "meetyourfight:twilights_thorn": {
+      "page": 0,
+      "x": 1472,
+      "y": 576
+    },
+    "irons_spellbooks:magehunter": {
+      "page": 0,
+      "x": 1536,
+      "y": 576
+    },
+    "irons_spellbooks:spellbreaker": {
+      "page": 0,
+      "x": 1600,
+      "y": 576
+    },
+    "irons_spellbooks:claymore": {
+      "page": 0,
+      "x": 1664,
+      "y": 576
+    },
+    "irons_spellbooks:keeper_flamberge": {
+      "page": 0,
+      "x": 1728,
+      "y": 576
+    },
+    "irons_spellbooks:legionnaire_flamberge": {
+      "page": 0,
+      "x": 1792,
+      "y": 576
+    },
+    "irons_spellbooks:amethyst_rapier": {
+      "page": 0,
+      "x": 1856,
+      "y": 576
+    },
+    "irons_spellbooks:misery": {
+      "page": 0,
+      "x": 1920,
+      "y": 576
+    },
+    "irons_spellbooks:hellrazor": {
+      "page": 0,
+      "x": 1984,
+      "y": 576
+    },
+    "irons_spellbooks:decrepit_scythe": {
+      "page": 0,
+      "x": 0,
+      "y": 640
+    },
+    "irons_spellbooks:boreal_blade": {
+      "page": 0,
+      "x": 64,
+      "y": 640
+    },
+    "irons_spellbooks:twilight_gale": {
+      "page": 0,
+      "x": 128,
+      "y": 640
+    },
+    "goety:dark_scythe": {
+      "page": 0,
+      "x": 192,
+      "y": 640
+    },
+    "goety:dark_metal_scythe": {
+      "page": 0,
+      "x": 256,
+      "y": 640
+    },
+    "goety:death_scythe": {
+      "page": 0,
+      "x": 320,
+      "y": 640
+    },
+    "goety:stormlander": {
+      "page": 0,
+      "x": 384,
+      "y": 640
+    },
+    "goety:fanged_dagger": {
+      "page": 0,
+      "x": 448,
+      "y": 640
+    },
+    "goety:rampaging_axe": {
+      "page": 0,
+      "x": 512,
+      "y": 640
+    },
+    "goety:philosophers_mace": {
+      "page": 0,
+      "x": 576,
+      "y": 640
+    },
+    "goety:dark_sword": {
+      "page": 0,
+      "x": 640,
+      "y": 640
+    },
+    "goety:dark_axe": {
+      "page": 0,
+      "x": 704,
+      "y": 640
+    },
+    "goety:hungry_dagger": {
+      "page": 0,
+      "x": 768,
+      "y": 640
+    },
+    "goety:fell_blade": {
+      "page": 0,
+      "x": 832,
+      "y": 640
+    },
+    "goety:frozen_blade": {
+      "page": 0,
+      "x": 896,
+      "y": 640
+    },
+    "goety:blade_of_ender": {
+      "page": 0,
+      "x": 960,
+      "y": 640
+    },
+    "terramity:ruby_sword": {
+      "page": 0,
+      "x": 1024,
+      "y": 640
+    },
+    "terramity:sapphire_sword": {
+      "page": 0,
+      "x": 1088,
+      "y": 640
+    },
+    "terramity:topaz_sword": {
+      "page": 0,
+      "x": 1152,
+      "y": 640
+    },
+    "terramity:onyx_sword": {
+      "page": 0,
+      "x": 1216,
+      "y": 640
+    },
+    "terramity:dimlite_sword": {
+      "page": 0,
+      "x": 1280,
+      "y": 640
+    },
+    "terramity:cosmilite_sword": {
+      "page": 0,
+      "x": 1344,
+      "y": 640
+    },
+    "terramity:duskrok_greatsword": {
+      "page": 0,
+      "x": 1408,
+      "y": 640
+    },
+    "terramity:hellspec_sword": {
+      "page": 0,
+      "x": 1472,
+      "y": 640
+    },
+    "terramity:iridium_sword": {
+      "page": 0,
+      "x": 1536,
+      "y": 640
+    },
+    "terramity:void_sword": {
+      "page": 0,
+      "x": 1600,
+      "y": 640
+    },
+    "terramity:void_axe": {
+      "page": 0,
+      "x": 1664,
+      "y": 640
+    },
+    "terramity:nyxium_greatsword": {
+      "page": 0,
+      "x": 1728,
+      "y": 640
+    },
+    "terramity:gobs_claymore": {
+      "page": 0,
+      "x": 1792,
+      "y": 640
+    },
+    "terramity:reverium_sword": {
+      "page": 0,
+      "x": 1856,
+      "y": 640
+    },
+    "terramity:hamstick_cudgel": {
+      "page": 0,
+      "x": 1920,
+      "y": 640
+    },
+    "terramity:exodium_sword": {
+      "page": 0,
+      "x": 1984,
+      "y": 640
+    },
+    "terramity:exodium_waraxe": {
+      "page": 0,
+      "x": 0,
+      "y": 704
+    },
+    "terramity:conductite_sword": {
+      "page": 0,
+      "x": 64,
+      "y": 704
+    },
+    "terramity:virentium_sword": {
+      "page": 0,
+      "x": 128,
+      "y": 704
+    },
+    "terramity:hero_sword": {
+      "page": 0,
+      "x": 192,
+      "y": 704
+    },
+    "terramity:excalibur": {
+      "page": 0,
+      "x": 256,
+      "y": 704
+    },
+    "terramity:crescent_moonblade": {
+      "page": 0,
+      "x": 320,
+      "y": 704
+    },
+    "terramity:axe_of_unholy_divinity": {
+      "page": 0,
+      "x": 384,
+      "y": 704
+    },
+    "terramity:stratus_storm_ruler": {
+      "page": 0,
+      "x": 448,
+      "y": 704
+    },
+    "terramity:orders_end": {
+      "page": 0,
+      "x": 512,
+      "y": 704
+    },
+    "terramity:icebrand": {
+      "page": 0,
+      "x": 576,
+      "y": 704
+    },
+    "terramity:simmeredge": {
+      "page": 0,
+      "x": 640,
+      "y": 704
+    },
+    "terramity:sword_of_the_imprisoned": {
+      "page": 0,
+      "x": 704,
+      "y": 704
+    },
+    "terramity:guiding_moonlight": {
+      "page": 0,
+      "x": 768,
+      "y": 704
+    },
+    "terramity:unholy_lance": {
+      "page": 0,
+      "x": 832,
+      "y": 704
+    },
+    "terramity:murasama": {
+      "page": 0,
+      "x": 896,
+      "y": 704
+    },
+    "terramity:yoru": {
+      "page": 0,
+      "x": 960,
+      "y": 704
+    },
+    "goetydelight:apocalyptium_knife": {
+      "page": 0,
+      "x": 1024,
+      "y": 704
+    },
+    "goetydelight:false_proverbs": {
+      "page": 0,
+      "x": 1088,
+      "y": 704
+    },
+    "goetydelight:marble_op_sword": {
+      "page": 0,
+      "x": 1152,
+      "y": 704
+    },
+    "celestisynth:solaris": {
+      "page": 0,
+      "x": 1216,
+      "y": 704
+    },
+    "celestisynth:crescentia": {
+      "page": 0,
+      "x": 1280,
+      "y": 704
+    },
+    "celestisynth:breezebreaker": {
+      "page": 0,
+      "x": 1344,
+      "y": 704
+    },
+    "celestisynth:poltergeist": {
+      "page": 0,
+      "x": 1408,
+      "y": 704
+    },
+    "celestisynth:aquaflora": {
+      "page": 0,
+      "x": 1472,
+      "y": 704
+    },
+    "celestisynth:frostbound": {
+      "page": 0,
+      "x": 1536,
+      "y": 704
+    },
+    "celestisynth:keres": {
+      "page": 0,
+      "x": 1600,
+      "y": 704
+    },
+    "mowziesmobs:wrought_axe": {
+      "page": 0,
+      "x": 1664,
+      "y": 704
+    },
+    "mowziesmobs:spear": {
+      "page": 0,
+      "x": 1728,
+      "y": 704
+    },
+    "mowziesmobs:naga_fang_dagger": {
+      "page": 0,
+      "x": 1792,
+      "y": 704
+    },
+    "mowziesmobs:earthrend_gauntlet": {
+      "page": 0,
+      "x": 1856,
+      "y": 704
+    },
+    "species:spectralibur": {
+      "page": 0,
+      "x": 1920,
+      "y": 704
+    },
+    "mekanism:atomic_disassembler": {
+      "page": 0,
+      "x": 1984,
+      "y": 704
+    },
+    "mekanism:meka_tool": {
+      "page": 0,
+      "x": 0,
+      "y": 768
+    },
+    "mekaweapons:mekatana": {
+      "page": 0,
+      "x": 64,
+      "y": 768
+    },
+    "evolvedmekanism:better_gold_sword": {
+      "page": 0,
+      "x": 128,
+      "y": 768
+    },
+    "evolvedmekanism:plaslitherite_sword": {
+      "page": 0,
+      "x": 192,
+      "y": 768
+    },
+    "evolvedmekanism:refined_redstone_sword": {
+      "page": 0,
+      "x": 256,
+      "y": 768
+    },
+    "somakespells:glacium_greataxe": {
+      "page": 0,
+      "x": 320,
+      "y": 768
+    },
+    "somakespells:core_splitter": {
+      "page": 0,
+      "x": 384,
+      "y": 768
+    },
+    "somakespells:hallow_sword": {
+      "page": 0,
+      "x": 448,
+      "y": 768
+    },
+    "somakespells:centauri": {
+      "page": 0,
+      "x": 512,
+      "y": 768
+    },
+    "somakespells:last_mourning": {
+      "page": 0,
+      "x": 576,
+      "y": 768
+    },
+    "somakespells:radiant_judgment": {
+      "page": 0,
+      "x": 640,
+      "y": 768
+    },
+    "somakespells:scorn": {
+      "page": 0,
+      "x": 704,
+      "y": 768
+    },
+    "somakespells:sculkborne_axe": {
+      "page": 0,
+      "x": 768,
+      "y": 768
+    },
+    "somakespells:totem_dagger": {
+      "page": 0,
+      "x": 832,
+      "y": 768
+    },
+    "somakespells:witherite_glaive": {
+      "page": 0,
+      "x": 896,
+      "y": 768
+    },
+    "somakespells:ruined_blade": {
+      "page": 0,
+      "x": 960,
+      "y": 768
+    },
+    "somakespells:boltcutter_dagger": {
+      "page": 0,
+      "x": 1024,
+      "y": 768
+    },
+    "somakespells:clef_sword": {
+      "page": 0,
+      "x": 1088,
+      "y": 768
+    },
+    "somakespells:rock_sword": {
+      "page": 0,
+      "x": 1152,
+      "y": 768
+    },
+    "somakespells:forbidden_hammer": {
+      "page": 0,
+      "x": 1216,
+      "y": 768
+    },
+    "somakespells:exo_light_saber": {
+      "page": 0,
+      "x": 1280,
+      "y": 768
+    },
+    "somakespells:flare_light_saber": {
+      "page": 0,
+      "x": 1344,
+      "y": 768
+    },
+    "somakespells:frostflow_light_saber": {
+      "page": 0,
+      "x": 1408,
+      "y": 768
+    },
+    "somakespells:plague_light_saber": {
+      "page": 0,
+      "x": 1472,
+      "y": 768
+    },
+    "somakespells:exo_dual_saber": {
+      "page": 0,
+      "x": 1536,
+      "y": 768
+    },
+    "somakespells:flare_dual_saber": {
+      "page": 0,
+      "x": 1600,
+      "y": 768
+    },
+    "somakespells:frostflow_dual_saber": {
+      "page": 0,
+      "x": 1664,
+      "y": 768
+    },
+    "somakespells:plague_dual_saber": {
+      "page": 0,
+      "x": 1728,
+      "y": 768
+    },
+    "somakespells:tide_piercer": {
+      "page": 0,
+      "x": 1792,
+      "y": 768
+    },
+    "somakespells:monolith_sword": {
+      "page": 0,
+      "x": 1856,
+      "y": 768
+    },
+    "immersiveengineering:sword_steel": {
+      "page": 0,
+      "x": 1920,
+      "y": 768
+    },
+    "macabre:blood_clot_axe": {
+      "page": 0,
+      "x": 1984,
+      "y": 768
+    },
+    "macabre:blood_clot_sword": {
+      "page": 0,
+      "x": 0,
+      "y": 832
+    },
+    "macabre:plasma_axe": {
+      "page": 0,
+      "x": 64,
+      "y": 832
+    },
+    "macabre:plasma_sword": {
+      "page": 0,
+      "x": 128,
+      "y": 832
+    },
+    "macabre:ferrum_axe": {
+      "page": 0,
+      "x": 192,
+      "y": 832
+    },
+    "macabre:ferrum_sword": {
+      "page": 0,
+      "x": 256,
+      "y": 832
+    },
+    "macabre:abhorrent_axe": {
+      "page": 0,
+      "x": 320,
+      "y": 832
+    },
+    "macabre:abhorrent_sword": {
+      "page": 0,
+      "x": 384,
+      "y": 832
+    },
+    "macabre:soaked_sword": {
+      "page": 0,
+      "x": 448,
+      "y": 832
+    },
+    "macabre:brittle_sword": {
+      "page": 0,
+      "x": 512,
+      "y": 832
+    },
+    "macabre:moistdrinker": {
+      "page": 0,
+      "x": 576,
+      "y": 832
+    },
+    "macabre:gorescythe": {
+      "page": 0,
+      "x": 640,
+      "y": 832
+    },
+    "macabre:bonecrusher": {
+      "page": 0,
+      "x": 704,
+      "y": 832
+    },
+    "macabre:fearmonger": {
+      "page": 0,
+      "x": 768,
+      "y": 832
+    },
+    "macabre:carver": {
+      "page": 0,
+      "x": 832,
+      "y": 832
+    },
+    "macabre:sideye": {
+      "page": 0,
+      "x": 896,
+      "y": 832
+    },
+    "macabre:gauge": {
+      "page": 0,
+      "x": 960,
+      "y": 832
+    },
+    "macabre:doubleslit": {
+      "page": 0,
+      "x": 1024,
+      "y": 832
+    },
+    "macabre:needle": {
+      "page": 0,
+      "x": 1088,
+      "y": 832
+    },
+    "macabre:toothmace": {
+      "page": 0,
+      "x": 1152,
+      "y": 832
+    },
+    "macabre:crippler": {
+      "page": 0,
+      "x": 1216,
+      "y": 832
+    },
+    "macabre:rageblade": {
+      "page": 0,
+      "x": 1280,
+      "y": 832
+    },
+    "macabre:bonedagger": {
+      "page": 0,
+      "x": 1344,
+      "y": 832
+    },
+    "macabre:chanisword": {
+      "page": 0,
+      "x": 1408,
+      "y": 832
+    },
+    "macabre:hemorrhage_sword": {
+      "page": 0,
+      "x": 1472,
+      "y": 832
+    },
+    "macabre:the_cleave": {
+      "page": 0,
+      "x": 1536,
+      "y": 832
+    },
+    "macabre:true_gorescythe": {
+      "page": 0,
+      "x": 1600,
+      "y": 832
+    },
+    "macabre:valamon_sickle": {
+      "page": 0,
+      "x": 1664,
+      "y": 832
+    },
+    "macabre:valamon_axe": {
+      "page": 0,
+      "x": 1728,
+      "y": 832
+    },
+    "macabre:valamon_gut_whip": {
+      "page": 0,
+      "x": 1792,
+      "y": 832
+    },
+    "macabre:blaster": {
+      "page": 0,
+      "x": 1856,
+      "y": 832
+    },
+    "macabre:teething_sword": {
+      "page": 0,
+      "x": 1920,
+      "y": 832
+    },
+    "macabre:blood_cloth_dagger": {
+      "page": 0,
+      "x": 1984,
+      "y": 832
+    },
+    "macabre:plasma_dagger": {
+      "page": 0,
+      "x": 0,
+      "y": 896
+    },
+    "macabre:ferrum_dagger": {
+      "page": 0,
+      "x": 64,
+      "y": 896
+    },
+    "macabre:abhorrent_dagger": {
+      "page": 0,
+      "x": 128,
+      "y": 896
+    },
+    "macabre:blood_clot_mace": {
+      "page": 0,
+      "x": 192,
+      "y": 896
+    },
+    "macabre:plasma_mace": {
+      "page": 0,
+      "x": 256,
+      "y": 896
+    },
+    "macabre:ferrum_mace": {
+      "page": 0,
+      "x": 320,
+      "y": 896
+    },
+    "macabre:abhorrent_mace": {
+      "page": 0,
+      "x": 384,
+      "y": 896
+    },
+    "macabre:blood_clot_spear": {
+      "page": 0,
+      "x": 448,
+      "y": 896
+    },
+    "macabre:plasma_spear": {
+      "page": 0,
+      "x": 512,
+      "y": 896
+    },
+    "macabre:ferrum_spear": {
+      "page": 0,
+      "x": 576,
+      "y": 896
+    },
+    "macabre:abhorrent_spear": {
+      "page": 0,
+      "x": 640,
+      "y": 896
+    },
+    "macabre:dried_sword": {
+      "page": 0,
+      "x": 704,
+      "y": 896
+    },
+    "macabre:wasted_sword": {
+      "page": 0,
+      "x": 768,
+      "y": 896
+    },
+    "macabre:drenched_sword": {
+      "page": 0,
+      "x": 832,
+      "y": 896
+    },
+    "macabre:spearplunder": {
+      "page": 0,
+      "x": 896,
+      "y": 896
+    },
+    "macabre:shorgan": {
+      "page": 0,
+      "x": 960,
+      "y": 896
+    },
+    "weapon:swordcaneb": {
+      "page": 0,
+      "x": 1024,
+      "y": 896
+    },
+    "weapon:magicsword": {
+      "page": 0,
+      "x": 1088,
+      "y": 896
+    },
+    "weapon:bigkatana": {
+      "page": 0,
+      "x": 1152,
+      "y": 896
+    },
+    "weapon:greatsword": {
+      "page": 0,
+      "x": 1216,
+      "y": 896
+    },
+    "weapon:fightersfist": {
+      "page": 0,
+      "x": 1280,
+      "y": 896
+    },
+    "weapon:magicgun": {
+      "page": 0,
+      "x": 1344,
+      "y": 896
+    },
+    "weapon:iaikatana": {
+      "page": 0,
+      "x": 1408,
+      "y": 896
+    },
+    "weapon:iaikatanak": {
+      "page": 0,
+      "x": 1472,
+      "y": 896
+    },
+    "hexerei:warhammer": {
+      "page": 0,
+      "x": 1536,
+      "y": 896
+    },
+    "tiered:pyrekings_edict": {
+      "page": 0,
+      "x": 1600,
+      "y": 896
+    },
+    "brutality:tsukuyomi": {
+      "page": 0,
+      "x": 1664,
+      "y": 896
+    },
+    "brutality:amaterasu": {
+      "page": 0,
+      "x": 1728,
+      "y": 896
+    },
+    "brutality:darkin_blade": {
+      "page": 0,
+      "x": 1792,
+      "y": 896
+    },
+    "brutality:prismatic_greatsword": {
+      "page": 0,
+      "x": 1856,
+      "y": 896
+    },
+    "brutality:crimson_scissor_blade": {
+      "page": 0,
+      "x": 1920,
+      "y": 896
+    },
+    "brutality:rhongomyniad": {
+      "page": 0,
+      "x": 1984,
+      "y": 896
+    },
+    "brutality:shadowflame_scissor_blade": {
+      "page": 0,
+      "x": 0,
+      "y": 960
+    },
+    "brutality:darkin_scythe": {
+      "page": 0,
+      "x": 64,
+      "y": 960
+    },
+    "brutality:frostmourne": {
+      "page": 0,
+      "x": 128,
+      "y": 960
+    },
+    "brutality:depth_crusher": {
+      "page": 0,
+      "x": 192,
+      "y": 960
+    },
+    "brutality:royal_guardian_sword": {
+      "page": 0,
+      "x": 256,
+      "y": 960
+    },
+    "brutality:blade_of_the_ruined_king": {
+      "page": 0,
+      "x": 320,
+      "y": 960
+    },
+    "brutality:biomech_reactor": {
+      "page": 0,
+      "x": 384,
+      "y": 960
+    },
+    "brutality:rhitta": {
+      "page": 0,
+      "x": 448,
+      "y": 960
+    },
+    "brutality:deathsaw": {
+      "page": 0,
+      "x": 512,
+      "y": 960
+    },
+    "brutality:jackpot": {
+      "page": 0,
+      "x": 576,
+      "y": 960
+    },
+    "brutality:dull_knife": {
+      "page": 0,
+      "x": 640,
+      "y": 960
+    },
+    "brutality:gungnir": {
+      "page": 0,
+      "x": 704,
+      "y": 960
+    },
+    "brutality:thunderbolt": {
+      "page": 0,
+      "x": 768,
+      "y": 960
+    },
+    "brutality:onyx_phasesaber": {
+      "page": 0,
+      "x": 832,
+      "y": 960
+    },
+    "brutality:topaz_phasesaber": {
+      "page": 0,
+      "x": 896,
+      "y": 960
+    },
+    "brutality:ruby_phasesaber": {
+      "page": 0,
+      "x": 960,
+      "y": 960
+    },
+    "brutality:sapphire_phasesaber": {
+      "page": 0,
+      "x": 1024,
+      "y": 960
+    },
+    "brutality:atomic_judgement": {
+      "page": 0,
+      "x": 1088,
+      "y": 960
+    },
+    "brutality:old_gpu": {
+      "page": 0,
+      "x": 1152,
+      "y": 960
+    },
+    "brutality:supernova": {
+      "page": 0,
+      "x": 1216,
+      "y": 960
+    },
+    "brutality:shadowstep": {
+      "page": 0,
+      "x": 1280,
+      "y": 960
+    },
+    "brutality:wooden_ruler": {
+      "page": 0,
+      "x": 1344,
+      "y": 960
+    },
+    "brutality:metal_ruler": {
+      "page": 0,
+      "x": 1408,
+      "y": 960
+    },
+    "brutality:double_down": {
+      "page": 0,
+      "x": 1472,
+      "y": 960
+    },
+    "brutality:whisperwaltz": {
+      "page": 0,
+      "x": 1536,
+      "y": 960
+    },
+    "brutality:seventh_star": {
+      "page": 0,
+      "x": 1600,
+      "y": 960
+    },
+    "brutality:event_horizon": {
+      "page": 0,
+      "x": 1664,
+      "y": 960
+    },
+    "brutality:spatula": {
+      "page": 0,
+      "x": 1728,
+      "y": 960
+    },
+    "brutality:the_golden_spatula": {
+      "page": 0,
+      "x": 1792,
+      "y": 960
+    },
+    "brutality:iron_knife": {
+      "page": 0,
+      "x": 1856,
+      "y": 960
+    },
+    "brutality:gold_knife": {
+      "page": 0,
+      "x": 1920,
+      "y": 960
+    },
+    "brutality:diamond_knife": {
+      "page": 0,
+      "x": 1984,
+      "y": 960
+    },
+    "brutality:void_knife": {
+      "page": 0,
+      "x": 0,
+      "y": 1024
+    },
+    "brutality:meloncholy": {
+      "page": 0,
+      "x": 64,
+      "y": 1024
+    },
+    "brutality:apple_core": {
+      "page": 0,
+      "x": 128,
+      "y": 1024
+    },
+    "brutality:frying_pan": {
+      "page": 0,
+      "x": 192,
+      "y": 1024
+    },
+    "brutality:chopstick": {
+      "page": 0,
+      "x": 256,
+      "y": 1024
+    },
+    "brutality:bamboo_staff": {
+      "page": 0,
+      "x": 320,
+      "y": 1024
+    },
+    "brutality:potato_masher": {
+      "page": 0,
+      "x": 384,
+      "y": 1024
+    },
+    "brutality:whisk": {
+      "page": 0,
+      "x": 448,
+      "y": 1024
+    },
+    "brutality:vampire_knives": {
+      "page": 0,
+      "x": 512,
+      "y": 1024
+    },
+    "brutality:cannonball_cabbage": {
+      "page": 0,
+      "x": 576,
+      "y": 1024
+    },
+    "brutality:golden_phoenix": {
+      "page": 0,
+      "x": 640,
+      "y": 1024
+    },
+    "ars_nouveau:enchanters_sword": {
+      "page": 0,
+      "x": 704,
+      "y": 1024
+    },
+    "refined_mod:summer_rain_sword": {
+      "page": 0,
+      "x": 768,
+      "y": 1024
+    },
+    "refined_mod:flame_tongue_sword": {
+      "page": 0,
+      "x": 832,
+      "y": 1024
+    },
+    "alexsmobs:skelewag_sword": {
+      "page": 0,
+      "x": 896,
+      "y": 1024
+    },
+    "alexsmobs:tendon_whip": {
+      "page": 0,
+      "x": 960,
+      "y": 1024
+    },
+    "lethality:tainted_blade": {
+      "page": 0,
+      "x": 1024,
+      "y": 1024
+    },
+    "lethality:caustic_edge": {
+      "page": 0,
+      "x": 1088,
+      "y": 1024
+    },
+    "lethality:blighted_cleaver": {
+      "page": 0,
+      "x": 1152,
+      "y": 1024
+    },
+    "lethality:defiled_greatsword": {
+      "page": 0,
+      "x": 1216,
+      "y": 1024
+    },
+    "lethality:bladecrest_oathsword": {
+      "page": 0,
+      "x": 1280,
+      "y": 1024
+    },
+    "lethality:forbidden_oathblade": {
+      "page": 0,
+      "x": 1344,
+      "y": 1024
+    },
+    "lethality:exalted_oathblade": {
+      "page": 0,
+      "x": 1408,
+      "y": 1024
+    },
+    "lethality:devils_devastation": {
+      "page": 0,
+      "x": 1472,
+      "y": 1024
+    },
+    "lethality:broken_biome_blade": {
+      "page": 0,
+      "x": 1536,
+      "y": 1024
+    },
+    "lethality:gaels_greatsword": {
+      "page": 0,
+      "x": 1600,
+      "y": 1024
+    },
+    "lethality:violence": {
+      "page": 0,
+      "x": 1664,
+      "y": 1024
+    },
+    "lethality:sacrifice": {
+      "page": 0,
+      "x": 1728,
+      "y": 1024
+    },
+    "lethality:vehemence": {
+      "page": 0,
+      "x": 1792,
+      "y": 1024
+    },
+    "lethality:grievance": {
+      "page": 0,
+      "x": 1856,
+      "y": 1024
+    },
+    "lethality:starlight": {
+      "page": 0,
+      "x": 1920,
+      "y": 1024
+    },
+    "lethality:real_knife": {
+      "page": 0,
+      "x": 1984,
+      "y": 1024
+    },
+    "lethality:pickle_paddle": {
+      "page": 0,
+      "x": 0,
+      "y": 1088
+    },
+    "lethality:midas_touch": {
+      "page": 0,
+      "x": 64,
+      "y": 1088
+    },
+    "lethality:nightmare_sword": {
+      "page": 0,
+      "x": 128,
+      "y": 1088
+    },
+    "lethality:nightfall": {
+      "page": 0,
+      "x": 192,
+      "y": 1088
+    },
+    "lethality:gamblers_blade": {
+      "page": 0,
+      "x": 256,
+      "y": 1088
+    },
+    "lethality:hf_meowrasama": {
+      "page": 0,
+      "x": 320,
+      "y": 1088
+    },
+    "lethality:stop_sign": {
+      "page": 0,
+      "x": 384,
+      "y": 1088
+    },
+    "lethality:foreign_hook": {
+      "page": 0,
+      "x": 448,
+      "y": 1088
+    },
+    "lethality:miasma": {
+      "page": 0,
+      "x": 512,
+      "y": 1088
+    },
+    "lethality:horseless_headless_horsemanns_headtaker": {
+      "page": 0,
+      "x": 576,
+      "y": 1088
+    },
+    "lethality:skysplitter_sword": {
+      "page": 0,
+      "x": 640,
+      "y": 1088
+    },
+    "lethality:sword_of_acclaim": {
+      "page": 0,
+      "x": 704,
+      "y": 1088
+    },
+    "lethality:sword_of_splendor": {
+      "page": 0,
+      "x": 768,
+      "y": 1088
+    },
+    "lethality:sword_of_majesty": {
+      "page": 0,
+      "x": 832,
+      "y": 1088
+    },
+    "lethality:wooden_bafs": {
+      "page": 0,
+      "x": 896,
+      "y": 1088
+    },
+    "lethality:stone_bafs": {
+      "page": 0,
+      "x": 960,
+      "y": 1088
+    },
+    "lethality:iron_bafs": {
+      "page": 0,
+      "x": 1024,
+      "y": 1088
+    },
+    "lethality:golden_bafs": {
+      "page": 0,
+      "x": 1088,
+      "y": 1088
+    },
+    "lethality:diamond_bafs": {
+      "page": 0,
+      "x": 1152,
+      "y": 1088
+    },
+    "lethality:netherite_bafs": {
+      "page": 0,
+      "x": 1216,
+      "y": 1088
+    },
+    "lethality:topaz_bafs": {
+      "page": 0,
+      "x": 1280,
+      "y": 1088
+    },
+    "lethality:ruby_bafs": {
+      "page": 0,
+      "x": 1344,
+      "y": 1088
+    },
+    "lethality:sapphire_bafs": {
+      "page": 0,
+      "x": 1408,
+      "y": 1088
+    },
+    "lethality:onyx_bafs": {
+      "page": 0,
+      "x": 1472,
+      "y": 1088
+    },
+    "lethality:dimlite_bafs": {
+      "page": 0,
+      "x": 1536,
+      "y": 1088
+    },
+    "lethality:virentium_bafs": {
+      "page": 0,
+      "x": 1600,
+      "y": 1088
+    },
+    "lethality:cosmilite_bafs": {
+      "page": 0,
+      "x": 1664,
+      "y": 1088
+    },
+    "lethality:iridium_bafs": {
+      "page": 0,
+      "x": 1728,
+      "y": 1088
+    },
+    "lethality:void_bafs": {
+      "page": 0,
+      "x": 1792,
+      "y": 1088
+    },
+    "lethality:hellspec_bafs": {
+      "page": 0,
+      "x": 1856,
+      "y": 1088
+    },
+    "lethality:conductite_bafpb": {
+      "page": 0,
+      "x": 1920,
+      "y": 1088
+    },
+    "lethality:nyxium_bafs": {
+      "page": 0,
+      "x": 1984,
+      "y": 1088
+    },
+    "lethality:reverium_bafs": {
+      "page": 0,
+      "x": 0,
+      "y": 1152
+    },
+    "lethality:exodium_bafs": {
+      "page": 0,
+      "x": 64,
+      "y": 1152
+    },
+    "mob_grinding_utils:null_sword": {
+      "page": 0,
+      "x": 128,
+      "y": 1152
+    },
+    "composite_material:abyss_blade": {
+      "page": 0,
+      "x": 192,
+      "y": 1152
+    },
+    "composite_material:dungeon_sword_reinforced": {
+      "page": 0,
+      "x": 256,
+      "y": 1152
+    },
+    "composite_material:etherite_sword_reinforced": {
+      "page": 0,
+      "x": 320,
+      "y": 1152
+    },
+    "composite_material:echoium_sword_reinforced": {
+      "page": 0,
+      "x": 384,
+      "y": 1152
+    },
+    "composite_material:etherite_sword": {
+      "page": 0,
+      "x": 448,
+      "y": 1152
+    },
+    "composite_material:allay_steel_sword": {
+      "page": 0,
+      "x": 512,
+      "y": 1152
+    },
+    "composite_material:obsidian_sword": {
+      "page": 0,
+      "x": 576,
+      "y": 1152
+    },
+    "composite_material:disc_sword": {
+      "page": 0,
+      "x": 640,
+      "y": 1152
+    },
+    "composite_material:dungeon_sword": {
+      "page": 0,
+      "x": 704,
+      "y": 1152
+    },
+    "composite_material:dungeon_hammer": {
+      "page": 0,
+      "x": 768,
+      "y": 1152
+    },
+    "composite_material:copper_sword": {
+      "page": 0,
+      "x": 832,
+      "y": 1152
+    },
+    "composite_material:amethyst_sword": {
+      "page": 0,
+      "x": 896,
+      "y": 1152
+    },
+    "composite_material:echoium_sword": {
+      "page": 0,
+      "x": 960,
+      "y": 1152
+    },
+    "composite_material:primitive_sword": {
+      "page": 0,
+      "x": 1024,
+      "y": 1152
+    },
+    "composite_material:flint_sword": {
+      "page": 0,
+      "x": 1088,
+      "y": 1152
+    },
+    "composite_material:rusted_copper_sword": {
+      "page": 0,
+      "x": 1152,
+      "y": 1152
+    },
+    "dungeonsdelight:stained_cleaver": {
+      "page": 0,
+      "x": 1216,
+      "y": 1152
+    },
+    "dungeonsdelight:stained_knife": {
+      "page": 0,
+      "x": 1280,
+      "y": 1152
+    },
+    "goety_revelation:valettein": {
+      "page": 0,
+      "x": 1344,
+      "y": 1152
+    },
+    "goety_revelation:gungnir": {
+      "page": 0,
+      "x": 1408,
+      "y": 1152
+    },
+    "goety_revelation:frostbloom_staff": {
+      "page": 0,
+      "x": 1472,
+      "y": 1152
+    },
+    "goety_revelation:venomous_spider_whip": {
+      "page": 0,
+      "x": 1536,
+      "y": 1152
+    },
+    "goety_revelation:spectre_whip": {
+      "page": 0,
+      "x": 1600,
+      "y": 1152
+    },
+    "goety_revelation:eerie_axe": {
+      "page": 0,
+      "x": 1664,
+      "y": 1152
+    },
+    "goety_revelation:ender_keeper_sword": {
+      "page": 0,
+      "x": 1728,
+      "y": 1152
+    },
+    "enigmaticlegacy:forbidden_axe": {
+      "page": 0,
+      "x": 1792,
+      "y": 1152
+    },
+    "enigmaticlegacy:etherium_axe": {
+      "page": 0,
+      "x": 1856,
+      "y": 1152
+    },
+    "enigmaticlegacy:etherium_sword": {
+      "page": 0,
+      "x": 1920,
+      "y": 1152
+    },
+    "enigmaticlegacy:the_acknowledgment": {
+      "page": 0,
+      "x": 1984,
+      "y": 1152
+    },
+    "enigmaticlegacy:the_twist": {
+      "page": 0,
+      "x": 0,
+      "y": 1216
+    },
+    "enigmaticlegacy:the_infinitum": {
+      "page": 0,
+      "x": 64,
+      "y": 1216
+    },
+    "enigmaticlegacy:ender_slayer": {
+      "page": 0,
+      "x": 128,
+      "y": 1216
+    },
+    "enigmaticlegacy:the_judgement": {
+      "page": 0,
+      "x": 192,
+      "y": 1216
+    },
+    "enigmaticlegacy:eldritch_pan": {
+      "page": 0,
+      "x": 256,
+      "y": 1216
+    },
+    "mekanismtools:bronze_sword": {
+      "page": 0,
+      "x": 320,
+      "y": 1216
+    },
+    "mekanismtools:lapis_lazuli_sword": {
+      "page": 0,
+      "x": 384,
+      "y": 1216
+    },
+    "mekanismtools:osmium_sword": {
+      "page": 0,
+      "x": 448,
+      "y": 1216
+    },
+    "mekanismtools:refined_glowstone_sword": {
+      "page": 0,
+      "x": 512,
+      "y": 1216
+    },
+    "mekanismtools:refined_obsidian_sword": {
+      "page": 0,
+      "x": 576,
+      "y": 1216
+    },
+    "mekanismtools:steel_sword": {
+      "page": 0,
+      "x": 640,
+      "y": 1216
+    },
+    "deeperdarker:resonarium_sword": {
+      "page": 0,
+      "x": 704,
+      "y": 1216
+    },
+    "deeperdarker:warden_sword": {
+      "page": 0,
+      "x": 768,
+      "y": 1216
+    },
+    "simplyswords:iron_longsword": {
+      "page": 0,
+      "x": 832,
+      "y": 1216
+    },
+    "simplyswords:iron_twinblade": {
+      "page": 0,
+      "x": 896,
+      "y": 1216
+    },
+    "simplyswords:iron_rapier": {
+      "page": 0,
+      "x": 960,
+      "y": 1216
+    },
+    "simplyswords:iron_katana": {
+      "page": 0,
+      "x": 1024,
+      "y": 1216
+    },
+    "simplyswords:iron_sai": {
+      "page": 0,
+      "x": 1088,
+      "y": 1216
+    },
+    "simplyswords:iron_spear": {
+      "page": 0,
+      "x": 1152,
+      "y": 1216
+    },
+    "simplyswords:iron_glaive": {
+      "page": 0,
+      "x": 1216,
+      "y": 1216
+    },
+    "simplyswords:iron_warglaive": {
+      "page": 0,
+      "x": 1280,
+      "y": 1216
+    },
+    "simplyswords:iron_cutlass": {
+      "page": 0,
+      "x": 1344,
+      "y": 1216
+    },
+    "simplyswords:iron_claymore": {
+      "page": 0,
+      "x": 1408,
+      "y": 1216
+    },
+    "simplyswords:iron_greathammer": {
+      "page": 0,
+      "x": 1472,
+      "y": 1216
+    },
+    "simplyswords:iron_greataxe": {
+      "page": 0,
+      "x": 1536,
+      "y": 1216
+    },
+    "simplyswords:iron_chakram": {
+      "page": 0,
+      "x": 1600,
+      "y": 1216
+    },
+    "simplyswords:iron_scythe": {
+      "page": 0,
+      "x": 1664,
+      "y": 1216
+    },
+    "simplyswords:iron_halberd": {
+      "page": 0,
+      "x": 1728,
+      "y": 1216
+    },
+    "simplyswords:gold_longsword": {
+      "page": 0,
+      "x": 1792,
+      "y": 1216
+    },
+    "simplyswords:gold_twinblade": {
+      "page": 0,
+      "x": 1856,
+      "y": 1216
+    },
+    "simplyswords:gold_rapier": {
+      "page": 0,
+      "x": 1920,
+      "y": 1216
+    },
+    "simplyswords:gold_katana": {
+      "page": 0,
+      "x": 1984,
+      "y": 1216
+    },
+    "simplyswords:gold_spear": {
+      "page": 0,
+      "x": 0,
+      "y": 1280
+    },
+    "simplyswords:gold_glaive": {
+      "page": 0,
+      "x": 64,
+      "y": 1280
+    },
+    "simplyswords:gold_warglaive": {
+      "page": 0,
+      "x": 128,
+      "y": 1280
+    },
+    "simplyswords:gold_cutlass": {
+      "page": 0,
+      "x": 192,
+      "y": 1280
+    },
+    "simplyswords:gold_claymore": {
+      "page": 0,
+      "x": 256,
+      "y": 1280
+    },
+    "simplyswords:gold_greathammer": {
+      "page": 0,
+      "x": 320,
+      "y": 1280
+    },
+    "simplyswords:gold_greataxe": {
+      "page": 0,
+      "x": 384,
+      "y": 1280
+    },
+    "simplyswords:gold_chakram": {
+      "page": 0,
+      "x": 448,
+      "y": 1280
+    },
+    "simplyswords:gold_scythe": {
+      "page": 0,
+      "x": 512,
+      "y": 1280
+    },
+    "simplyswords:gold_halberd": {
+      "page": 0,
+      "x": 576,
+      "y": 1280
+    },
+    "simplyswords:diamond_longsword": {
+      "page": 0,
+      "x": 640,
+      "y": 1280
+    },
+    "simplyswords:diamond_twinblade": {
+      "page": 0,
+      "x": 704,
+      "y": 1280
+    },
+    "simplyswords:diamond_rapier": {
+      "page": 0,
+      "x": 768,
+      "y": 1280
+    },
+    "simplyswords:diamond_katana": {
+      "page": 0,
+      "x": 832,
+      "y": 1280
+    },
+    "simplyswords:diamond_sai": {
+      "page": 0,
+      "x": 896,
+      "y": 1280
+    },
+    "simplyswords:diamond_spear": {
+      "page": 0,
+      "x": 960,
+      "y": 1280
+    },
+    "simplyswords:diamond_glaive": {
+      "page": 0,
+      "x": 1024,
+      "y": 1280
+    },
+    "simplyswords:diamond_warglaive": {
+      "page": 0,
+      "x": 1088,
+      "y": 1280
+    },
+    "simplyswords:diamond_cutlass": {
+      "page": 0,
+      "x": 1152,
+      "y": 1280
+    },
+    "simplyswords:diamond_claymore": {
+      "page": 0,
+      "x": 1216,
+      "y": 1280
+    },
+    "simplyswords:diamond_greathammer": {
+      "page": 0,
+      "x": 1280,
+      "y": 1280
+    },
+    "simplyswords:diamond_greataxe": {
+      "page": 0,
+      "x": 1344,
+      "y": 1280
+    },
+    "simplyswords:diamond_chakram": {
+      "page": 0,
+      "x": 1408,
+      "y": 1280
+    },
+    "simplyswords:diamond_scythe": {
+      "page": 0,
+      "x": 1472,
+      "y": 1280
+    },
+    "simplyswords:diamond_halberd": {
+      "page": 0,
+      "x": 1536,
+      "y": 1280
+    },
+    "simplyswords:netherite_longsword": {
+      "page": 0,
+      "x": 1600,
+      "y": 1280
+    },
+    "simplyswords:netherite_twinblade": {
+      "page": 0,
+      "x": 1664,
+      "y": 1280
+    },
+    "simplyswords:netherite_rapier": {
+      "page": 0,
+      "x": 1728,
+      "y": 1280
+    },
+    "simplyswords:netherite_katana": {
+      "page": 0,
+      "x": 1792,
+      "y": 1280
+    },
+    "simplyswords:netherite_sai": {
+      "page": 0,
+      "x": 1856,
+      "y": 1280
+    },
+    "simplyswords:netherite_spear": {
+      "page": 0,
+      "x": 1920,
+      "y": 1280
+    },
+    "simplyswords:netherite_glaive": {
+      "page": 0,
+      "x": 1984,
+      "y": 1280
+    },
+    "simplyswords:netherite_warglaive": {
+      "page": 0,
+      "x": 0,
+      "y": 1344
+    },
+    "simplyswords:netherite_cutlass": {
+      "page": 0,
+      "x": 64,
+      "y": 1344
+    },
+    "simplyswords:netherite_claymore": {
+      "page": 0,
+      "x": 128,
+      "y": 1344
+    },
+    "simplyswords:netherite_greathammer": {
+      "page": 0,
+      "x": 192,
+      "y": 1344
+    },
+    "simplyswords:netherite_greataxe": {
+      "page": 0,
+      "x": 256,
+      "y": 1344
+    },
+    "simplyswords:netherite_chakram": {
+      "page": 0,
+      "x": 320,
+      "y": 1344
+    },
+    "simplyswords:netherite_scythe": {
+      "page": 0,
+      "x": 384,
+      "y": 1344
+    },
+    "simplyswords:netherite_halberd": {
+      "page": 0,
+      "x": 448,
+      "y": 1344
+    },
+    "simplyswords:runic_longsword": {
+      "page": 0,
+      "x": 512,
+      "y": 1344
+    },
+    "simplyswords:runic_twinblade": {
+      "page": 0,
+      "x": 576,
+      "y": 1344
+    },
+    "simplyswords:runic_rapier": {
+      "page": 0,
+      "x": 640,
+      "y": 1344
+    },
+    "simplyswords:runic_katana": {
+      "page": 0,
+      "x": 704,
+      "y": 1344
+    },
+    "simplyswords:runic_sai": {
+      "page": 0,
+      "x": 768,
+      "y": 1344
+    },
+    "simplyswords:runic_spear": {
+      "page": 0,
+      "x": 832,
+      "y": 1344
+    },
+    "simplyswords:runic_glaive": {
+      "page": 0,
+      "x": 896,
+      "y": 1344
+    },
+    "simplyswords:runic_cutlass": {
+      "page": 0,
+      "x": 960,
+      "y": 1344
+    },
+    "simplyswords:runic_claymore": {
+      "page": 0,
+      "x": 1024,
+      "y": 1344
+    },
+    "simplyswords:runic_chakram": {
+      "page": 0,
+      "x": 1088,
+      "y": 1344
+    },
+    "simplyswords:runic_greataxe": {
+      "page": 0,
+      "x": 1152,
+      "y": 1344
+    },
+    "simplyswords:runic_greathammer": {
+      "page": 0,
+      "x": 1216,
+      "y": 1344
+    },
+    "simplyswords:runic_warglaive": {
+      "page": 0,
+      "x": 1280,
+      "y": 1344
+    },
+    "simplyswords:runic_scythe": {
+      "page": 0,
+      "x": 1344,
+      "y": 1344
+    },
+    "simplyswords:runic_halberd": {
+      "page": 0,
+      "x": 1408,
+      "y": 1344
+    },
+    "simplyswords:brimstone_claymore": {
+      "page": 0,
+      "x": 1472,
+      "y": 1344
+    },
+    "simplyswords:watcher_claymore": {
+      "page": 0,
+      "x": 1536,
+      "y": 1344
+    },
+    "simplyswords:storms_edge": {
+      "page": 0,
+      "x": 1600,
+      "y": 1344
+    },
+    "simplyswords:stormbringer": {
+      "page": 0,
+      "x": 1664,
+      "y": 1344
+    },
+    "simplyswords:sword_on_a_stick": {
+      "page": 0,
+      "x": 1728,
+      "y": 1344
+    },
+    "simplyswords:bramblethorn": {
+      "page": 0,
+      "x": 1792,
+      "y": 1344
+    },
+    "simplyswords:watching_warglaive": {
+      "page": 0,
+      "x": 1856,
+      "y": 1344
+    },
+    "simplyswords:toxic_longsword": {
+      "page": 0,
+      "x": 1920,
+      "y": 1344
+    },
+    "simplyswords:emberblade": {
+      "page": 0,
+      "x": 1984,
+      "y": 1344
+    },
+    "simplyswords:hearthflame": {
+      "page": 0,
+      "x": 0,
+      "y": 1408
+    },
+    "simplyswords:soulkeeper": {
+      "page": 0,
+      "x": 64,
+      "y": 1408
+    },
+    "simplyswords:twisted_blade": {
+      "page": 0,
+      "x": 128,
+      "y": 1408
+    },
+    "simplyswords:soulstealer": {
+      "page": 0,
+      "x": 192,
+      "y": 1408
+    },
+    "simplyswords:soulrender": {
+      "page": 0,
+      "x": 256,
+      "y": 1408
+    },
+    "simplyswords:soulpyre": {
+      "page": 0,
+      "x": 320,
+      "y": 1408
+    },
+    "simplyswords:frostfall": {
+      "page": 0,
+      "x": 384,
+      "y": 1408
+    },
+    "simplyswords:molten_edge": {
+      "page": 0,
+      "x": 448,
+      "y": 1408
+    },
+    "simplyswords:livyatan": {
+      "page": 0,
+      "x": 512,
+      "y": 1408
+    },
+    "simplyswords:icewhisper": {
+      "page": 0,
+      "x": 576,
+      "y": 1408
+    },
+    "simplyswords:arcanethyst": {
+      "page": 0,
+      "x": 640,
+      "y": 1408
+    },
+    "simplyswords:thunderbrand": {
+      "page": 0,
+      "x": 704,
+      "y": 1408
+    },
+    "simplyswords:mjolnir": {
+      "page": 0,
+      "x": 768,
+      "y": 1408
+    },
+    "simplyswords:slumbering_lichblade": {
+      "page": 0,
+      "x": 832,
+      "y": 1408
+    },
+    "simplyswords:waking_lichblade": {
+      "page": 0,
+      "x": 896,
+      "y": 1408
+    },
+    "simplyswords:awakened_lichblade": {
+      "page": 0,
+      "x": 960,
+      "y": 1408
+    },
+    "simplyswords:shadowsting": {
+      "page": 0,
+      "x": 1024,
+      "y": 1408
+    },
+    "simplyswords:dormant_relic": {
+      "page": 0,
+      "x": 1088,
+      "y": 1408
+    },
+    "simplyswords:righteous_relic": {
+      "page": 0,
+      "x": 1152,
+      "y": 1408
+    },
+    "simplyswords:tainted_relic": {
+      "page": 0,
+      "x": 1216,
+      "y": 1408
+    },
+    "simplyswords:sunfire": {
+      "page": 0,
+      "x": 1280,
+      "y": 1408
+    },
+    "simplyswords:harbinger": {
+      "page": 0,
+      "x": 1344,
+      "y": 1408
+    },
+    "simplyswords:whisperwind": {
+      "page": 0,
+      "x": 1408,
+      "y": 1408
+    },
+    "simplyswords:emberlash": {
+      "page": 0,
+      "x": 1472,
+      "y": 1408
+    },
+    "simplyswords:waxweaver": {
+      "page": 0,
+      "x": 1536,
+      "y": 1408
+    },
+    "simplyswords:hiveheart": {
+      "page": 0,
+      "x": 1600,
+      "y": 1408
+    },
+    "simplyswords:stars_edge": {
+      "page": 0,
+      "x": 1664,
+      "y": 1408
+    },
+    "simplyswords:wickpiercer": {
+      "page": 0,
+      "x": 1728,
+      "y": 1408
+    },
+    "simplyswords:tempest": {
+      "page": 0,
+      "x": 1792,
+      "y": 1408
+    },
+    "simplyswords:flamewind": {
+      "page": 0,
+      "x": 1856,
+      "y": 1408
+    },
+    "simplyswords:ribboncleaver": {
+      "page": 0,
+      "x": 1920,
+      "y": 1408
+    },
+    "simplyswords:decaying_relic": {
+      "page": 0,
+      "x": 1984,
+      "y": 1408
+    },
+    "simplyswords:magiscythe": {
+      "page": 0,
+      "x": 0,
+      "y": 1472
+    },
+    "simplyswords:enigma": {
+      "page": 0,
+      "x": 64,
+      "y": 1472
+    },
+    "simplyswords:magispear": {
+      "page": 0,
+      "x": 128,
+      "y": 1472
+    },
+    "simplyswords:magiblade": {
+      "page": 0,
+      "x": 192,
+      "y": 1472
+    },
+    "simplyswords:caelestis": {
+      "page": 0,
+      "x": 256,
+      "y": 1472
+    },
+    "simplymore:iron_great_katana": {
+      "page": 0,
+      "x": 320,
+      "y": 1472
+    },
+    "simplymore:gold_great_katana": {
+      "page": 0,
+      "x": 384,
+      "y": 1472
+    },
+    "simplymore:diamond_great_katana": {
+      "page": 0,
+      "x": 448,
+      "y": 1472
+    },
+    "simplymore:netherite_great_katana": {
+      "page": 0,
+      "x": 512,
+      "y": 1472
+    },
+    "simplymore:runic_great_katana": {
+      "page": 0,
+      "x": 576,
+      "y": 1472
+    },
+    "simplymore:iron_grandsword": {
+      "page": 0,
+      "x": 640,
+      "y": 1472
+    },
+    "simplymore:gold_grandsword": {
+      "page": 0,
+      "x": 704,
+      "y": 1472
+    },
+    "simplymore:diamond_grandsword": {
+      "page": 0,
+      "x": 768,
+      "y": 1472
+    },
+    "simplymore:netherite_grandsword": {
+      "page": 0,
+      "x": 832,
+      "y": 1472
+    },
+    "simplymore:runic_grandsword": {
+      "page": 0,
+      "x": 896,
+      "y": 1472
+    },
+    "simplymore:iron_backhand_blade": {
+      "page": 0,
+      "x": 960,
+      "y": 1472
+    },
+    "simplymore:gold_backhand_blade": {
+      "page": 0,
+      "x": 1024,
+      "y": 1472
+    },
+    "simplymore:diamond_backhand_blade": {
+      "page": 0,
+      "x": 1088,
+      "y": 1472
+    },
+    "simplymore:netherite_backhand_blade": {
+      "page": 0,
+      "x": 1152,
+      "y": 1472
+    },
+    "simplymore:runic_backhand_blade": {
+      "page": 0,
+      "x": 1216,
+      "y": 1472
+    },
+    "simplymore:iron_lance": {
+      "page": 0,
+      "x": 1280,
+      "y": 1472
+    },
+    "simplymore:gold_lance": {
+      "page": 0,
+      "x": 1344,
+      "y": 1472
+    },
+    "simplymore:diamond_lance": {
+      "page": 0,
+      "x": 1408,
+      "y": 1472
+    },
+    "simplymore:netherite_lance": {
+      "page": 0,
+      "x": 1472,
+      "y": 1472
+    },
+    "simplymore:runic_lance": {
+      "page": 0,
+      "x": 1536,
+      "y": 1472
+    },
+    "simplymore:iron_khopesh": {
+      "page": 0,
+      "x": 1600,
+      "y": 1472
+    },
+    "simplymore:gold_khopesh": {
+      "page": 0,
+      "x": 1664,
+      "y": 1472
+    },
+    "simplymore:diamond_khopesh": {
+      "page": 0,
+      "x": 1728,
+      "y": 1472
+    },
+    "simplymore:netherite_khopesh": {
+      "page": 0,
+      "x": 1792,
+      "y": 1472
+    },
+    "simplymore:runic_khopesh": {
+      "page": 0,
+      "x": 1856,
+      "y": 1472
+    },
+    "simplymore:iron_dagger": {
+      "page": 0,
+      "x": 1920,
+      "y": 1472
+    },
+    "simplymore:gold_dagger": {
+      "page": 0,
+      "x": 1984,
+      "y": 1472
+    },
+    "simplymore:diamond_dagger": {
+      "page": 0,
+      "x": 0,
+      "y": 1536
+    },
+    "simplymore:netherite_dagger": {
+      "page": 0,
+      "x": 64,
+      "y": 1536
+    },
+    "simplymore:runic_dagger": {
+      "page": 0,
+      "x": 128,
+      "y": 1536
+    },
+    "simplymore:iron_pernach": {
+      "page": 0,
+      "x": 192,
+      "y": 1536
+    },
+    "simplymore:gold_pernach": {
+      "page": 0,
+      "x": 256,
+      "y": 1536
+    },
+    "simplymore:diamond_pernach": {
+      "page": 0,
+      "x": 320,
+      "y": 1536
+    },
+    "simplymore:netherite_pernach": {
+      "page": 0,
+      "x": 384,
+      "y": 1536
+    },
+    "simplymore:runic_pernach": {
+      "page": 0,
+      "x": 448,
+      "y": 1536
+    },
+    "simplymore:iron_quarterstaff": {
+      "page": 0,
+      "x": 512,
+      "y": 1536
+    },
+    "simplymore:gold_quarterstaff": {
+      "page": 0,
+      "x": 576,
+      "y": 1536
+    },
+    "simplymore:diamond_quarterstaff": {
+      "page": 0,
+      "x": 640,
+      "y": 1536
+    },
+    "simplymore:netherite_quarterstaff": {
+      "page": 0,
+      "x": 704,
+      "y": 1536
+    },
+    "simplymore:runic_quarterstaff": {
+      "page": 0,
+      "x": 768,
+      "y": 1536
+    },
+    "simplymore:iron_great_spear": {
+      "page": 0,
+      "x": 832,
+      "y": 1536
+    },
+    "simplymore:gold_great_spear": {
+      "page": 0,
+      "x": 896,
+      "y": 1536
+    },
+    "simplymore:diamond_great_spear": {
+      "page": 0,
+      "x": 960,
+      "y": 1536
+    },
+    "simplymore:netherite_great_spear": {
+      "page": 0,
+      "x": 1024,
+      "y": 1536
+    },
+    "simplymore:runic_great_spear": {
+      "page": 0,
+      "x": 1088,
+      "y": 1536
+    },
+    "simplymore:iron_deer_horns": {
+      "page": 0,
+      "x": 1152,
+      "y": 1536
+    },
+    "simplymore:gold_deer_horns": {
+      "page": 0,
+      "x": 1216,
+      "y": 1536
+    },
+    "simplymore:diamond_deer_horns": {
+      "page": 0,
+      "x": 1280,
+      "y": 1536
+    },
+    "simplymore:netherite_deer_horns": {
+      "page": 0,
+      "x": 1344,
+      "y": 1536
+    },
+    "simplymore:runic_deer_horns": {
+      "page": 0,
+      "x": 1408,
+      "y": 1536
+    },
+    "simplymore:great_slither": {
+      "page": 0,
+      "x": 1472,
+      "y": 1536
+    },
+    "simplymore:molten_flare": {
+      "page": 0,
+      "x": 1536,
+      "y": 1536
+    },
+    "simplymore:grandfrost": {
+      "page": 0,
+      "x": 1600,
+      "y": 1536
+    },
+    "simplymore:glimmerstep": {
+      "page": 0,
+      "x": 1664,
+      "y": 1536
+    },
+    "simplymore:the_blood_harvester": {
+      "page": 0,
+      "x": 1728,
+      "y": 1536
+    },
+    "simplymore:jester_penetrate": {
+      "page": 0,
+      "x": 1792,
+      "y": 1536
+    },
+    "simplymore:myrmedge": {
+      "page": 0,
+      "x": 1856,
+      "y": 1536
+    },
+    "simplymore:black_pearl": {
+      "page": 0,
+      "x": 1920,
+      "y": 1536
+    },
+    "simplymore:the_pan": {
+      "page": 0,
+      "x": 1984,
+      "y": 1536
+    },
+    "simplymore:the_vessel_breach": {
+      "page": 0,
+      "x": 0,
+      "y": 1600
+    },
+    "simplymore:blade_of_the_grotesque": {
+      "page": 0,
+      "x": 64,
+      "y": 1600
+    },
+    "simplymore:vipers_call": {
+      "page": 0,
+      "x": 128,
+      "y": 1600
+    },
+    "simplymore:timekeeper": {
+      "page": 0,
+      "x": 192,
+      "y": 1600
+    },
+    "simplymore:matterbane": {
+      "page": 0,
+      "x": 256,
+      "y": 1600
+    },
+    "simplymore:smouldering_ruin": {
+      "page": 0,
+      "x": 320,
+      "y": 1600
+    },
+    "simplymore:stasis": {
+      "page": 0,
+      "x": 384,
+      "y": 1600
+    },
+    "simplymore:tidebreaker": {
+      "page": 0,
+      "x": 448,
+      "y": 1600
+    },
+    "simplymore:ruyi_jingu_bang": {
+      "page": 0,
+      "x": 512,
+      "y": 1600
+    },
+    "simplymore:ruptured_idol": {
+      "page": 0,
+      "x": 576,
+      "y": 1600
+    },
+    "simplymore:ascended_idol": {
+      "page": 0,
+      "x": 640,
+      "y": 1600
+    },
+    "simplymore:tarnished_idol": {
+      "page": 0,
+      "x": 704,
+      "y": 1600
+    },
+    "simplymore:holylight": {
+      "page": 0,
+      "x": 768,
+      "y": 1600
+    },
+    "simplymore:darksent": {
+      "page": 0,
+      "x": 832,
+      "y": 1600
+    },
+    "simplymore:boas_fang": {
+      "page": 0,
+      "x": 896,
+      "y": 1600
+    },
+    "simplymore:earthshatter": {
+      "page": 0,
+      "x": 960,
+      "y": 1600
+    },
+    "simplymore:soul_foreseer": {
+      "page": 0,
+      "x": 1024,
+      "y": 1600
+    },
+    "simplymore:serpentine_valour": {
+      "page": 0,
+      "x": 1088,
+      "y": 1600
+    },
+    "simplymore:lustrous_moxie": {
+      "page": 0,
+      "x": 1152,
+      "y": 1600
+    },
+    "simplymore:brassturn": {
+      "page": 0,
+      "x": 1216,
+      "y": 1600
+    },
+    "simplymore:cindergorge": {
+      "page": 0,
+      "x": 1280,
+      "y": 1600
+    },
+    "simplymore:deaths_eyrie": {
+      "page": 0,
+      "x": 1344,
+      "y": 1600
+    },
+    "simplymore:perforiscus": {
+      "page": 0,
+      "x": 1408,
+      "y": 1600
+    },
+    "simplymore:revvengine": {
+      "page": 0,
+      "x": 1472,
+      "y": 1600
+    },
+    "simplymore:exedrill": {
+      "page": 0,
+      "x": 1536,
+      "y": 1600
+    },
+    "simplymore:culterex": {
+      "page": 0,
+      "x": 1600,
+      "y": 1600
+    },
+    "simplymore:mimicry_longsword": {
+      "page": 0,
+      "x": 1664,
+      "y": 1600
+    },
+    "justdirethings:ferricore_sword": {
+      "page": 0,
+      "x": 1728,
+      "y": 1600
+    },
+    "justdirethings:blazegold_sword": {
+      "page": 0,
+      "x": 1792,
+      "y": 1600
+    },
+    "justdirethings:celestigem_sword": {
+      "page": 0,
+      "x": 1856,
+      "y": 1600
+    },
+    "justdirethings:eclipsealloy_sword": {
+      "page": 0,
+      "x": 1920,
+      "y": 1600
+    },
+    "hazennstuff:fireblossom_rapier": {
+      "page": 0,
+      "x": 1984,
+      "y": 1600
+    },
+    "hazennstuff:draconic_splitter": {
+      "page": 0,
+      "x": 0,
+      "y": 1664
+    },
+    "hazennstuff:ravens_bane": {
+      "page": 0,
+      "x": 64,
+      "y": 1664
+    },
+    "hazennstuff:ice_pike": {
+      "page": 0,
+      "x": 128,
+      "y": 1664
+    },
+    "hazennstuff:o_fortuna": {
+      "page": 0,
+      "x": 192,
+      "y": 1664
+    },
+    "hazennstuff:ionic_splitter": {
+      "page": 0,
+      "x": 256,
+      "y": 1664
+    },
+    "hazennstuff:umbranova": {
+      "page": 0,
+      "x": 320,
+      "y": 1664
+    },
+    "hazennstuff:devastator": {
+      "page": 0,
+      "x": 384,
+      "y": 1664
+    },
+    "hazennstuff:provocation": {
+      "page": 0,
+      "x": 448,
+      "y": 1664
+    },
+    "hazennstuff:excalibur": {
+      "page": 0,
+      "x": 512,
+      "y": 1664
+    },
+    "hazennstuff:the_devourer": {
+      "page": 0,
+      "x": 576,
+      "y": 1664
+    },
+    "hazennstuff:legionnaire_warlock_axe": {
+      "page": 0,
+      "x": 640,
+      "y": 1664
+    },
+    "create:cardboard_sword": {
+      "page": 0,
+      "x": 704,
+      "y": 1664
+    },
+    "fromtheshadows:devil_splitter": {
+      "page": 0,
+      "x": 768,
+      "y": 1664
+    },
+    "fromtheshadows:crystallized_dagger": {
+      "page": 0,
+      "x": 832,
+      "y": 1664
+    },
+    "fromtheshadows:thirst_for_blood": {
+      "page": 0,
+      "x": 896,
+      "y": 1664
+    },
+    "enigmaticaddons:astral_spear": {
+      "page": 0,
+      "x": 960,
+      "y": 1664
+    },
+    "enigmaticaddons:the_bless": {
+      "page": 0,
+      "x": 1024,
+      "y": 1664
+    },
+    "enigmaticaddons:evil_dagger": {
+      "page": 0,
+      "x": 1088,
+      "y": 1664
+    },
+    "enigmaticaddons:disaster_sword": {
+      "page": 0,
+      "x": 1152,
+      "y": 1664
+    },
+    "enigmaticaddons:unknown_sword": {
+      "page": 0,
+      "x": 1216,
+      "y": 1664
+    },
+    "enigmaticaddons:annihilating_sword": {
+      "page": 0,
+      "x": 1280,
+      "y": 1664
+    },
+    "enigmaticdelicacy:etherium_machete": {
+      "page": 0,
+      "x": 1344,
+      "y": 1664
+    },
+    "enigmaticdelicacy:curse_blade": {
+      "page": 0,
+      "x": 1408,
+      "y": 1664
+    },
+    "enigmaticdelicacy:curse_crystal_knife": {
+      "page": 0,
+      "x": 1472,
+      "y": 1664
+    },
+    "animus:spear_iron": {
+      "page": 0,
+      "x": 1536,
+      "y": 1664
+    },
+    "animus:spear_diamond": {
+      "page": 0,
+      "x": 1600,
+      "y": 1664
+    },
+    "animus:spear_bound": {
+      "page": 0,
+      "x": 1664,
+      "y": 1664
+    },
+    "animus:spear_sentient": {
+      "page": 0,
+      "x": 1728,
+      "y": 1664
+    },
+    "animus:hand_of_death": {
+      "page": 0,
+      "x": 1792,
+      "y": 1664
+    },
+    "alexscaves:galena_gauntlet": {
+      "page": 0,
+      "x": 1856,
+      "y": 1664
+    },
+    "alexscaves:resistor_shield": {
+      "page": 0,
+      "x": 1920,
+      "y": 1664
+    },
+    "alexscaves:primitive_club": {
+      "page": 0,
+      "x": 1984,
+      "y": 1664
+    },
+    "alexscaves:limestone_spear": {
+      "page": 0,
+      "x": 0,
+      "y": 1728
+    },
+    "alexscaves:extinction_spear": {
+      "page": 0,
+      "x": 64,
+      "y": 1728
+    },
+    "alexscaves:raygun": {
+      "page": 0,
+      "x": 128,
+      "y": 1728
+    },
+    "alexscaves:magic_conch": {
+      "page": 0,
+      "x": 192,
+      "y": 1728
+    },
+    "alexscaves:sea_staff": {
+      "page": 0,
+      "x": 256,
+      "y": 1728
+    },
+    "alexscaves:ortholance": {
+      "page": 0,
+      "x": 320,
+      "y": 1728
+    },
+    "alexscaves:totem_of_possession": {
+      "page": 0,
+      "x": 384,
+      "y": 1728
+    },
+    "alexscaves:desolate_dagger": {
+      "page": 0,
+      "x": 448,
+      "y": 1728
+    },
+    "alexscaves:sharpened_candy_cane": {
+      "page": 0,
+      "x": 512,
+      "y": 1728
+    },
+    "alexscaves:frostmint_spear": {
+      "page": 0,
+      "x": 576,
+      "y": 1728
+    },
+    "mahoutsukai:dagger": {
+      "page": 0,
+      "x": 640,
+      "y": 1728
+    },
+    "mahoutsukai:caliburn": {
+      "page": 0,
+      "x": 704,
+      "y": 1728
+    },
+    "mahoutsukai:clarent": {
+      "page": 0,
+      "x": 768,
+      "y": 1728
+    },
+    "mahoutsukai:morgan": {
+      "page": 0,
+      "x": 832,
+      "y": 1728
+    },
+    "mahoutsukai:theripper": {
+      "page": 0,
+      "x": 896,
+      "y": 1728
+    },
+    "mahoutsukai:rule_breaker": {
+      "page": 0,
+      "x": 960,
+      "y": 1728
+    },
+    "legendary_monsters:chorus_blade": {
+      "page": 0,
+      "x": 1024,
+      "y": 1728
+    },
+    "legendary_monsters:the_great_frost": {
+      "page": 0,
+      "x": 1088,
+      "y": 1728
+    },
+    "legendary_monsters:dinosaur_bone_club": {
+      "page": 0,
+      "x": 1152,
+      "y": 1728
+    },
+    "legendary_monsters:void_sword": {
+      "page": 0,
+      "x": 1216,
+      "y": 1728
+    },
+    "legendary_monsters:monstrous_anchor": {
+      "page": 0,
+      "x": 1280,
+      "y": 1728
+    },
+    "legendary_monsters:sharp_battle_axe": {
+      "page": 0,
+      "x": 1344,
+      "y": 1728
+    },
+    "legendary_monsters:sharp_sai": {
+      "page": 0,
+      "x": 1408,
+      "y": 1728
+    },
+    "legendary_monsters:anchor_handle": {
+      "page": 0,
+      "x": 1472,
+      "y": 1728
+    },
+    "legendary_monsters:wand_of_clouds": {
+      "page": 0,
+      "x": 1536,
+      "y": 1728
+    },
+    "legendary_monsters:axe_of_lightning": {
+      "page": 0,
+      "x": 1600,
+      "y": 1728
+    },
+    "legendary_monsters:golden_halbert": {
+      "page": 0,
+      "x": 1664,
+      "y": 1728
+    },
+    "legendary_monsters:soul_great_sword": {
+      "page": 0,
+      "x": 1728,
+      "y": 1728
+    },
+    "legendary_monsters:knights_sword": {
+      "page": 0,
+      "x": 1792,
+      "y": 1728
+    },
+    "legendary_monsters:enderitium_sword": {
+      "page": 0,
+      "x": 1856,
+      "y": 1728
+    },
+    "legendary_monsters:enderitium_sickle": {
+      "page": 0,
+      "x": 1920,
+      "y": 1728
+    },
+    "legendary_monsters:the_tesseract": {
+      "page": 0,
+      "x": 1984,
+      "y": 1728
+    },
+    "legendary_monsters:somber_key": {
+      "page": 0,
+      "x": 0,
+      "y": 1792
+    },
+    "legendary_monsters:shattered_greatsword": {
+      "page": 0,
+      "x": 64,
+      "y": 1792
+    },
+    "legendary_monsters:resurrected_javelin": {
+      "page": 0,
+      "x": 128,
+      "y": 1792
+    },
+    "mysticalagriculture:soulium_dagger": {
+      "page": 0,
+      "x": 192,
+      "y": 1792
+    },
+    "mysticalagriculture:passive_soulium_dagger": {
+      "page": 0,
+      "x": 256,
+      "y": 1792
+    },
+    "mysticalagriculture:hostile_soulium_dagger": {
+      "page": 0,
+      "x": 320,
+      "y": 1792
+    },
+    "mysticalagriculture:inferium_sword": {
+      "page": 0,
+      "x": 384,
+      "y": 1792
+    },
+    "mysticalagriculture:prudentium_sword": {
+      "page": 0,
+      "x": 448,
+      "y": 1792
+    },
+    "mysticalagriculture:tertium_sword": {
+      "page": 0,
+      "x": 512,
+      "y": 1792
+    },
+    "mysticalagriculture:imperium_sword": {
+      "page": 0,
+      "x": 576,
+      "y": 1792
+    },
+    "mysticalagriculture:supremium_sword": {
+      "page": 0,
+      "x": 640,
+      "y": 1792
+    },
+    "mysticalagriculture:awakened_supremium_sword": {
+      "page": 0,
+      "x": 704,
+      "y": 1792
+    },
+    "linggango_tweaks:emerald_sword": {
+      "page": 0,
+      "x": 768,
+      "y": 1792
+    },
+    "linggango_tweaks:emerald_axe": {
+      "page": 0,
+      "x": 832,
+      "y": 1792
+    },
+    "linggango_tweaks:swampbuster": {
+      "page": 0,
+      "x": 896,
+      "y": 1792
+    },
+    "minecraft:leather_chestplate": {
+      "page": 0,
+      "x": 960,
+      "y": 1792
+    },
+    "minecraft:chainmail_chestplate": {
+      "page": 0,
+      "x": 1024,
+      "y": 1792
+    },
+    "minecraft:iron_chestplate": {
+      "page": 0,
+      "x": 1088,
+      "y": 1792
+    },
+    "minecraft:diamond_chestplate": {
+      "page": 0,
+      "x": 1152,
+      "y": 1792
+    },
+    "minecraft:golden_chestplate": {
+      "page": 0,
+      "x": 1216,
+      "y": 1792
+    },
+    "minecraft:netherite_chestplate": {
+      "page": 0,
+      "x": 1280,
+      "y": 1792
+    },
+    "celestial_core:guardian_ocean_chestplate": {
+      "page": 0,
+      "x": 1344,
+      "y": 1792
+    },
+    "celestial_core:sakura_chestplate": {
+      "page": 0,
+      "x": 1408,
+      "y": 1792
+    },
+    "celestial_core:virtual_gold_chestplate": {
+      "page": 0,
+      "x": 1472,
+      "y": 1792
+    },
+    "naturesaura:infused_iron_chest": {
+      "page": 0,
+      "x": 1536,
+      "y": 1792
+    },
+    "naturesaura:sky_chest": {
+      "page": 0,
+      "x": 1600,
+      "y": 1792
+    },
+    "naturesaura:depth_chest": {
+      "page": 0,
+      "x": 1664,
+      "y": 1792
+    },
+    "mutantmonsters:mutant_skeleton_chestplate": {
+      "page": 0,
+      "x": 1728,
+      "y": 1792
+    },
+    "dungeonnowloading:spawner_chestplate": {
+      "page": 0,
+      "x": 1792,
+      "y": 1792
+    },
+    "block_factorys_bosses:dragon_bones_chestplate": {
+      "page": 0,
+      "x": 1856,
+      "y": 1792
+    },
+    "block_factorys_bosses:knight_chestplate": {
+      "page": 0,
+      "x": 1920,
+      "y": 1792
+    },
+    "primitive_mobs:camouflage_chestplate": {
+      "page": 0,
+      "x": 1984,
+      "y": 1792
+    },
+    "traveloptics:abyssal_hide_armor_robe": {
+      "page": 0,
+      "x": 0,
+      "y": 1856
+    },
+    "traveloptics:primordial_crest_armor_chestplate": {
+      "page": 0,
+      "x": 64,
+      "y": 1856
+    },
+    "traveloptics:tectonic_crest_armor_chestplate": {
+      "page": 0,
+      "x": 128,
+      "y": 1856
+    },
+    "traveloptics:cursed_wraithguard_chestplate": {
+      "page": 0,
+      "x": 192,
+      "y": 1856
+    },
+    "traveloptics:deepling_mage_armor_robe": {
+      "page": 0,
+      "x": 256,
+      "y": 1856
+    },
+    "traveloptics:mechanized_exoskeleton_chestplate": {
+      "page": 0,
+      "x": 320,
+      "y": 1856
+    },
+    "traveloptics:forlorn_harbinger_robe": {
+      "page": 0,
+      "x": 384,
+      "y": 1856
+    },
+    "traveloptics:riptide_sovereign_fincloak": {
+      "page": 0,
+      "x": 448,
+      "y": 1856
+    },
+    "experienceobelisk:cognitive_chestplate": {
+      "page": 0,
+      "x": 512,
+      "y": 1856
+    },
+    "mythsandlegends:ironshade_chestplate": {
+      "page": 0,
+      "x": 576,
+      "y": 1856
+    },
+    "mythsandlegends:soulpiercer_chestplate": {
+      "page": 0,
+      "x": 640,
+      "y": 1856
+    },
+    "mythsandlegends:infernum_warplate_chestplate": {
+      "page": 0,
+      "x": 704,
+      "y": 1856
+    },
+    "mythsandlegends:frosthowl_chestplate": {
+      "page": 0,
+      "x": 768,
+      "y": 1856
+    },
+    "ad_astra:space_suit": {
+      "page": 0,
+      "x": 832,
+      "y": 1856
+    },
+    "ad_astra:netherite_space_suit": {
+      "page": 0,
+      "x": 896,
+      "y": 1856
+    },
+    "ad_astra:jet_suit": {
+      "page": 0,
+      "x": 960,
+      "y": 1856
+    },
+    "eeeabsmobs:ghost_warrior_chestplate": {
+      "page": 0,
+      "x": 1024,
+      "y": 1856
+    },
+    "born_in_chaos_v1:dark_metal_armor_chestplate": {
+      "page": 0,
+      "x": 1088,
+      "y": 1856
+    },
+    "born_in_chaos_v1:nightmare_mantleofthe_night_chestplate": {
+      "page": 0,
+      "x": 1152,
+      "y": 1856
+    },
+    "born_in_chaos_v1:spiny_shell_armor_chestplate": {
+      "page": 0,
+      "x": 1216,
+      "y": 1856
+    },
+    "dodosmobs:chimera_armor_chestplate": {
+      "page": 0,
+      "x": 1280,
+      "y": 1856
+    },
+    "cataclysm:bone_reptile_chestplate": {
+      "page": 0,
+      "x": 1344,
+      "y": 1856
+    },
+    "cataclysm:ignitium_chestplate": {
+      "page": 0,
+      "x": 1408,
+      "y": 1856
+    },
+    "cataclysm:ignitium_elytra_chestplate": {
+      "page": 0,
+      "x": 1472,
+      "y": 1856
+    },
+    "cataclysm:cursium_chestplate": {
+      "page": 0,
+      "x": 1536,
+      "y": 1856
+    },
+    "cataclysm:bloom_stone_pauldrons": {
+      "page": 0,
+      "x": 1600,
+      "y": 1856
+    },
+    "saintsdragons:draconian_chestplate": {
+      "page": 0,
+      "x": 1664,
+      "y": 1856
+    },
+    "undergarden:masticated_chestplate": {
+      "page": 0,
+      "x": 1728,
+      "y": 1856
+    },
+    "undergarden:cloggrum_chestplate": {
+      "page": 0,
+      "x": 1792,
+      "y": 1856
+    },
+    "undergarden:froststeel_chestplate": {
+      "page": 0,
+      "x": 1856,
+      "y": 1856
+    },
+    "undergarden:utherium_chestplate": {
+      "page": 0,
+      "x": 1920,
+      "y": 1856
+    },
+    "undergarden:ancient_chestplate": {
+      "page": 0,
+      "x": 1984,
+      "y": 1856
+    },
+    "soulsweapons:arkenplate": {
+      "page": 0,
+      "x": 0,
+      "y": 1920
+    },
+    "soulsweapons:enhanced_arkenplate": {
+      "page": 0,
+      "x": 64,
+      "y": 1920
+    },
+    "soulsweapons:withered_chest": {
+      "page": 0,
+      "x": 128,
+      "y": 1920
+    },
+    "soulsweapons:enhanced_withered_chest": {
+      "page": 0,
+      "x": 192,
+      "y": 1920
+    },
+    "soulsweapons:chaos_robes": {
+      "page": 0,
+      "x": 256,
+      "y": 1920
+    },
+    "soulsweapons:soul_ingot_chestplate": {
+      "page": 0,
+      "x": 320,
+      "y": 1920
+    },
+    "soulsweapons:soul_robes_chestplate": {
+      "page": 0,
+      "x": 384,
+      "y": 1920
+    },
+    "soulsweapons:forlorn_chestplate": {
+      "page": 0,
+      "x": 448,
+      "y": 1920
+    },
+    "armageddon_mod:gilded_armor_chestplate": {
+      "page": 0,
+      "x": 512,
+      "y": 1920
+    },
+    "armageddon_mod:novice_builder_armor_chestplate": {
+      "page": 0,
+      "x": 576,
+      "y": 1920
+    },
+    "armageddon_mod:apprentice_builder_armor_chestplate": {
+      "page": 0,
+      "x": 640,
+      "y": 1920
+    },
+    "armageddon_mod:elvenite_armor_chestplate": {
+      "page": 0,
+      "x": 704,
+      "y": 1920
+    },
+    "armageddon_mod:voiderite_armor_chestplate": {
+      "page": 0,
+      "x": 768,
+      "y": 1920
+    },
+    "armageddon_mod:expert_builder_armor_chestplate": {
+      "page": 0,
+      "x": 832,
+      "y": 1920
+    },
+    "armageddon_mod:bloody_armor_chestplate": {
+      "page": 0,
+      "x": 896,
+      "y": 1920
+    },
+    "armageddon_mod:helionite_armor_chestplate": {
+      "page": 0,
+      "x": 960,
+      "y": 1920
+    },
+    "armageddon_mod:calamitous_armor_chestplate": {
+      "page": 0,
+      "x": 1024,
+      "y": 1920
+    },
+    "l2complements:totemic_gold_chestplate": {
+      "page": 0,
+      "x": 1088,
+      "y": 1920
+    },
+    "l2complements:poseidite_chestplate": {
+      "page": 0,
+      "x": 1152,
+      "y": 1920
+    },
+    "l2complements:shulkerate_chestplate": {
+      "page": 0,
+      "x": 1216,
+      "y": 1920
+    },
+    "l2complements:sculkium_chestplate": {
+      "page": 0,
+      "x": 1280,
+      "y": 1920
+    },
+    "l2complements:eternium_chestplate": {
+      "page": 0,
+      "x": 1344,
+      "y": 1920
+    },
+    "saintsdragons:blood_tempest_chestplate": {
+      "page": 0,
+      "x": 1408,
+      "y": 1920
+    },
+    "irons_spellbooks:wandering_magician_chestplate": {
+      "page": 0,
+      "x": 1472,
+      "y": 1920
+    },
+    "irons_spellbooks:pumpkin_chestplate": {
+      "page": 0,
+      "x": 1536,
+      "y": 1920
+    },
+    "irons_spellbooks:pyromancer_chestplate": {
+      "page": 0,
+      "x": 1600,
+      "y": 1920
+    },
+    "irons_spellbooks:electromancer_chestplate": {
+      "page": 0,
+      "x": 1664,
+      "y": 1920
+    },
+    "irons_spellbooks:archevoker_chestplate": {
+      "page": 0,
+      "x": 1728,
+      "y": 1920
+    },
+    "irons_spellbooks:cultist_chestplate": {
+      "page": 0,
+      "x": 1792,
+      "y": 1920
+    },
+    "irons_spellbooks:cryomancer_chestplate": {
+      "page": 0,
+      "x": 1856,
+      "y": 1920
+    },
+    "irons_spellbooks:shadowwalker_chestplate": {
+      "page": 0,
+      "x": 1920,
+      "y": 1920
+    },
+    "irons_spellbooks:priest_chestplate": {
+      "page": 0,
+      "x": 1984,
+      "y": 1920
+    },
+    "irons_spellbooks:plagued_chestplate": {
+      "page": 0,
+      "x": 0,
+      "y": 1984
+    },
+    "irons_spellbooks:netherite_mage_chestplate": {
+      "page": 0,
+      "x": 64,
+      "y": 1984
+    },
+    "irons_spellbooks:wizard_chestplate": {
+      "page": 0,
+      "x": 128,
+      "y": 1984
+    },
+    "irons_spellbooks:paladin_chestplate": {
+      "page": 0,
+      "x": 192,
+      "y": 1984
+    },
+    "irons_spellbooks:infernal_sorcerer_chestplate": {
+      "page": 0,
+      "x": 256,
+      "y": 1984
+    },
+    "goety:cursed_knight_chestplate": {
+      "page": 0,
+      "x": 320,
+      "y": 1984
+    },
+    "goety:cursed_paladin_chestplate": {
+      "page": 0,
+      "x": 384,
+      "y": 1984
+    },
+    "goety:black_iron_chestplate": {
+      "page": 0,
+      "x": 448,
+      "y": 1984
+    },
+    "goety:dark_chestplate": {
+      "page": 0,
+      "x": 512,
+      "y": 1984
+    },
+    "immersive_armors:bone_chestplate": {
+      "page": 0,
+      "x": 576,
+      "y": 1984
+    },
+    "immersive_armors:wither_chestplate": {
+      "page": 0,
+      "x": 640,
+      "y": 1984
+    },
+    "immersive_armors:warrior_chestplate": {
+      "page": 0,
+      "x": 704,
+      "y": 1984
+    },
+    "immersive_armors:heavy_chestplate": {
+      "page": 0,
+      "x": 768,
+      "y": 1984
+    },
+    "immersive_armors:robe_chestplate": {
+      "page": 0,
+      "x": 832,
+      "y": 1984
+    },
+    "immersive_armors:slime_chestplate": {
+      "page": 0,
+      "x": 896,
+      "y": 1984
+    },
+    "immersive_armors:divine_chestplate": {
+      "page": 0,
+      "x": 960,
+      "y": 1984
+    },
+    "immersive_armors:prismarine_chestplate": {
+      "page": 0,
+      "x": 1024,
+      "y": 1984
+    },
+    "immersive_armors:wooden_chestplate": {
+      "page": 0,
+      "x": 1088,
+      "y": 1984
+    },
+    "immersive_armors:steampunk_chestplate": {
+      "page": 0,
+      "x": 1152,
+      "y": 1984
+    },
+    "terramity:ruby_armor_chestplate": {
+      "page": 0,
+      "x": 1216,
+      "y": 1984
+    },
+    "terramity:sapphire_armor_chestplate": {
+      "page": 0,
+      "x": 1280,
+      "y": 1984
+    },
+    "terramity:topaz_armor_chestplate": {
+      "page": 0,
+      "x": 1344,
+      "y": 1984
+    },
+    "terramity:onyx_armor_chestplate": {
+      "page": 0,
+      "x": 1408,
+      "y": 1984
+    },
+    "terramity:dimlite_chestplate": {
+      "page": 0,
+      "x": 1472,
+      "y": 1984
+    },
+    "terramity:cosmilite_armor_chestplate": {
+      "page": 0,
+      "x": 1536,
+      "y": 1984
+    },
+    "terramity:evil_king_armor_chestplate": {
+      "page": 0,
+      "x": 1600,
+      "y": 1984
+    },
+    "terramity:hellspec_chestplate": {
+      "page": 0,
+      "x": 1664,
+      "y": 1984
+    },
+    "terramity:exodium_warlock_chestplate": {
+      "page": 0,
+      "x": 1728,
+      "y": 1984
+    },
+    "terramity:conductite_armor_chestplate": {
+      "page": 0,
+      "x": 1792,
+      "y": 1984
+    },
+    "terramity:void_mage_chestplate": {
+      "page": 0,
+      "x": 1856,
+      "y": 1984
+    },
+    "terramity:iridium_armor_chestplate": {
+      "page": 0,
+      "x": 1920,
+      "y": 1984
+    },
+    "terramity:nyxium_knight_chestplate": {
+      "page": 0,
+      "x": 1984,
+      "y": 1984
+    },
+    "terramity:virentium_armor_chestplate": {
+      "page": 1,
+      "x": 0,
+      "y": 0
+    },
+    "terramity:conjuror_chestplate": {
+      "page": 1,
+      "x": 64,
+      "y": 0
+    },
+    "terramity:reverium_paladin_chestplate": {
+      "page": 1,
+      "x": 128,
+      "y": 0
+    },
+    "celestisynth:solar_crystal_chestplate": {
+      "page": 1,
+      "x": 192,
+      "y": 0
+    },
+    "celestisynth:lunar_stone_chestplate": {
+      "page": 1,
+      "x": 256,
+      "y": 0
+    },
+    "mowziesmobs:geomancer_robe": {
+      "page": 1,
+      "x": 320,
+      "y": 0
+    },
+    "mekanism:jetpack_armored": {
+      "page": 1,
+      "x": 384,
+      "y": 0
+    },
+    "mekanism:mekasuit_bodyarmor": {
+      "page": 1,
+      "x": 448,
+      "y": 0
+    },
+    "evolvedmekanism:better_gold_chestplate": {
+      "page": 1,
+      "x": 512,
+      "y": 0
+    },
+    "evolvedmekanism:plaslitherite_chestplate": {
+      "page": 1,
+      "x": 576,
+      "y": 0
+    },
+    "evolvedmekanism:refined_redstone_chestplate": {
+      "page": 1,
+      "x": 640,
+      "y": 0
+    },
+    "somakespells:dark_metal_battlemage_chestplate": {
+      "page": 1,
+      "x": 704,
+      "y": 0
+    },
+    "somakespells:ceranium_chestplate": {
+      "page": 1,
+      "x": 768,
+      "y": 0
+    },
+    "somakespells:abyssium_chestplate": {
+      "page": 1,
+      "x": 832,
+      "y": 0
+    },
+    "somakespells:aquamancer_chestplate": {
+      "page": 1,
+      "x": 896,
+      "y": 0
+    },
+    "darkermagic:warden_mage_chestplate": {
+      "page": 1,
+      "x": 960,
+      "y": 0
+    },
+    "thermal:beekeeper_chestplate": {
+      "page": 1,
+      "x": 1024,
+      "y": 0
+    },
+    "thermal:diving_chestplate": {
+      "page": 1,
+      "x": 1088,
+      "y": 0
+    },
+    "thermal:hazmat_chestplate": {
+      "page": 1,
+      "x": 1152,
+      "y": 0
+    },
+    "opposing_force:deepwoven_tunic": {
+      "page": 1,
+      "x": 1216,
+      "y": 0
+    },
+    "immersiveengineering:armor_steel_chestplate": {
+      "page": 1,
+      "x": 1280,
+      "y": 0
+    },
+    "immersiveengineering:armor_faraday_chestplate": {
+      "page": 1,
+      "x": 1344,
+      "y": 0
+    },
+    "macabre:blood_clot_armor_chestplate": {
+      "page": 1,
+      "x": 1408,
+      "y": 0
+    },
+    "macabre:plasma_armor_chestplate": {
+      "page": 1,
+      "x": 1472,
+      "y": 0
+    },
+    "macabre:ferrum_armor_chestplate": {
+      "page": 1,
+      "x": 1536,
+      "y": 0
+    },
+    "macabre:abhorrent_armor_chestplate": {
+      "page": 1,
+      "x": 1600,
+      "y": 0
+    },
+    "macabre:symbiotic_armor_chestplate": {
+      "page": 1,
+      "x": 1664,
+      "y": 0
+    },
+    "macabre:baal_armor_chestplate": {
+      "page": 1,
+      "x": 1728,
+      "y": 0
+    },
+    "macabre:gomoria_armor_chestplate": {
+      "page": 1,
+      "x": 1792,
+      "y": 0
+    },
+    "macabre:valamon_armor_chestplate": {
+      "page": 1,
+      "x": 1856,
+      "y": 0
+    },
+    "macabre:gargamaw_armor_chestplate": {
+      "page": 1,
+      "x": 1920,
+      "y": 0
+    },
+    "macabre:skinsuit_chestplate": {
+      "page": 1,
+      "x": 1984,
+      "y": 0
+    },
+    "macabre:morphegor_armor_chestplate": {
+      "page": 1,
+      "x": 0,
+      "y": 64
+    },
+    "hexerei:witch_chestplate": {
+      "page": 1,
+      "x": 64,
+      "y": 64
+    },
+    "brutality:noir_chestplate": {
+      "page": 1,
+      "x": 128,
+      "y": 64
+    },
+    "brutality:terra_chestplate": {
+      "page": 1,
+      "x": 192,
+      "y": 64
+    },
+    "ars_nouveau:sorcerer_robes": {
+      "page": 1,
+      "x": 256,
+      "y": 64
+    },
+    "ars_nouveau:arcanist_robes": {
+      "page": 1,
+      "x": 320,
+      "y": 64
+    },
+    "ars_nouveau:battlemage_robes": {
+      "page": 1,
+      "x": 384,
+      "y": 64
+    },
+    "ars_elemental:fire_robes": {
+      "page": 1,
+      "x": 448,
+      "y": 64
+    },
+    "ars_elemental:air_robes": {
+      "page": 1,
+      "x": 512,
+      "y": 64
+    },
+    "ars_elemental:earth_robes": {
+      "page": 1,
+      "x": 576,
+      "y": 64
+    },
+    "ars_elemental:aqua_robes": {
+      "page": 1,
+      "x": 640,
+      "y": 64
+    },
+    "crittersandcompanions:diamond_dragonfly_armor": {
+      "page": 1,
+      "x": 704,
+      "y": 64
+    },
+    "crittersandcompanions:gold_dragonfly_armor": {
+      "page": 1,
+      "x": 768,
+      "y": 64
+    },
+    "crittersandcompanions:iron_dragonfly_armor": {
+      "page": 1,
+      "x": 832,
+      "y": 64
+    },
+    "alexsmobs:crocodile_chestplate": {
+      "page": 1,
+      "x": 896,
+      "y": 64
+    },
+    "alexsmobs:tarantula_hawk_elytra": {
+      "page": 1,
+      "x": 960,
+      "y": 64
+    },
+    "alexsmobs:rocky_chestplate": {
+      "page": 1,
+      "x": 1024,
+      "y": 64
+    },
+    "alexsmobs:unsettling_kimono": {
+      "page": 1,
+      "x": 1088,
+      "y": 64
+    },
+    "lethality:battle_maid_chestplate": {
+      "page": 1,
+      "x": 1152,
+      "y": 64
+    },
+    "lethality:hf_battle_maid_chestplate": {
+      "page": 1,
+      "x": 1216,
+      "y": 64
+    },
+    "composite_material:etherite_chestplate": {
+      "page": 1,
+      "x": 1280,
+      "y": 64
+    },
+    "composite_material:allay_steel_chestplate": {
+      "page": 1,
+      "x": 1344,
+      "y": 64
+    },
+    "composite_material:obsidian_chestplate": {
+      "page": 1,
+      "x": 1408,
+      "y": 64
+    },
+    "composite_material:copper_chestplate": {
+      "page": 1,
+      "x": 1472,
+      "y": 64
+    },
+    "composite_material:amethyst_chestplate": {
+      "page": 1,
+      "x": 1536,
+      "y": 64
+    },
+    "composite_material:echoium_chestplate": {
+      "page": 1,
+      "x": 1600,
+      "y": 64
+    },
+    "composite_material:primitive_chestplate": {
+      "page": 1,
+      "x": 1664,
+      "y": 64
+    },
+    "adamsarsplus:cade_robes": {
+      "page": 1,
+      "x": 1728,
+      "y": 64
+    },
+    "adamsarsplus:cade_robes_a": {
+      "page": 1,
+      "x": 1792,
+      "y": 64
+    },
+    "adamsarsplus:ryan_robes": {
+      "page": 1,
+      "x": 1856,
+      "y": 64
+    },
+    "adamsarsplus:ryan_robes_a": {
+      "page": 1,
+      "x": 1920,
+      "y": 64
+    },
+    "adamsarsplus:nick_robes": {
+      "page": 1,
+      "x": 1984,
+      "y": 64
+    },
+    "adamsarsplus:nick_robes_a": {
+      "page": 1,
+      "x": 0,
+      "y": 128
+    },
+    "adamsarsplus:camr_robes": {
+      "page": 1,
+      "x": 64,
+      "y": 128
+    },
+    "adamsarsplus:camr_robes_a": {
+      "page": 1,
+      "x": 128,
+      "y": 128
+    },
+    "adamsarsplus:matt_robes": {
+      "page": 1,
+      "x": 192,
+      "y": 128
+    },
+    "adamsarsplus:matt_robes_a": {
+      "page": 1,
+      "x": 256,
+      "y": 128
+    },
+    "adamsarsplus:adam_robes": {
+      "page": 1,
+      "x": 320,
+      "y": 128
+    },
+    "adamsarsplus:adam_robes_a": {
+      "page": 1,
+      "x": 384,
+      "y": 128
+    },
+    "goety_revelation:apocalyptium_chestplate": {
+      "page": 1,
+      "x": 448,
+      "y": 128
+    },
+    "goety_revelation:spider_chestplate": {
+      "page": 1,
+      "x": 512,
+      "y": 128
+    },
+    "goety_revelation:spectre_chestplate": {
+      "page": 1,
+      "x": 576,
+      "y": 128
+    },
+    "goety_revelation:spider_darkmage_chestplate": {
+      "page": 1,
+      "x": 640,
+      "y": 128
+    },
+    "goety_revelation:spectre_darkmage_chestplate": {
+      "page": 1,
+      "x": 704,
+      "y": 128
+    },
+    "enigmaticlegacy:etherium_chestplate": {
+      "page": 1,
+      "x": 768,
+      "y": 128
+    },
+    "mekanismtools:bronze_chestplate": {
+      "page": 1,
+      "x": 832,
+      "y": 128
+    },
+    "mekanismtools:lapis_lazuli_chestplate": {
+      "page": 1,
+      "x": 896,
+      "y": 128
+    },
+    "mekanismtools:osmium_chestplate": {
+      "page": 1,
+      "x": 960,
+      "y": 128
+    },
+    "mekanismtools:refined_glowstone_chestplate": {
+      "page": 1,
+      "x": 1024,
+      "y": 128
+    },
+    "mekanismtools:refined_obsidian_chestplate": {
+      "page": 1,
+      "x": 1088,
+      "y": 128
+    },
+    "mekanismtools:steel_chestplate": {
+      "page": 1,
+      "x": 1152,
+      "y": 128
+    },
+    "deeperdarker:soul_elytra": {
+      "page": 1,
+      "x": 1216,
+      "y": 128
+    },
+    "deeperdarker:resonarium_chestplate": {
+      "page": 1,
+      "x": 1280,
+      "y": 128
+    },
+    "deeperdarker:warden_chestplate": {
+      "page": 1,
+      "x": 1344,
+      "y": 128
+    },
+    "justdirethings:ferricore_chestplate": {
+      "page": 1,
+      "x": 1408,
+      "y": 128
+    },
+    "justdirethings:blazegold_chestplate": {
+      "page": 1,
+      "x": 1472,
+      "y": 128
+    },
+    "justdirethings:celestigem_chestplate": {
+      "page": 1,
+      "x": 1536,
+      "y": 128
+    },
+    "justdirethings:eclipsealloy_chestplate": {
+      "page": 1,
+      "x": 1600,
+      "y": 128
+    },
+    "hazennstuff:hazel_chestplate": {
+      "page": 1,
+      "x": 1664,
+      "y": 128
+    },
+    "hazennstuff:how_did_you_find_the_hazel_chestplate": {
+      "page": 1,
+      "x": 1728,
+      "y": 128
+    },
+    "hazennstuff:blazeborne_chestplate": {
+      "page": 1,
+      "x": 1792,
+      "y": 128
+    },
+    "hazennstuff:cryogenic_ruler_chestplate": {
+      "page": 1,
+      "x": 1856,
+      "y": 128
+    },
+    "hazennstuff:creaking_sorcerer_chestplate": {
+      "page": 1,
+      "x": 1920,
+      "y": 128
+    },
+    "hazennstuff:thunder_prowler_chestplate": {
+      "page": 1,
+      "x": 1984,
+      "y": 128
+    },
+    "hazennstuff:ender_dragon_chestplate": {
+      "page": 1,
+      "x": 0,
+      "y": 192
+    },
+    "hazennstuff:flesh_mass_chestplate": {
+      "page": 1,
+      "x": 64,
+      "y": 192
+    },
+    "hazennstuff:alchemist_supreme_chestplate": {
+      "page": 1,
+      "x": 128,
+      "y": 192
+    },
+    "hazennstuff:seraph_chestplate": {
+      "page": 1,
+      "x": 192,
+      "y": 192
+    },
+    "hazennstuff:infestation_chestplate": {
+      "page": 1,
+      "x": 256,
+      "y": 192
+    },
+    "hazennstuff:pyrium_chestplate": {
+      "page": 1,
+      "x": 320,
+      "y": 192
+    },
+    "hazennstuff:pyrium_battlemage_chestplate": {
+      "page": 1,
+      "x": 384,
+      "y": 192
+    },
+    "hazennstuff:legionnaire_ruler_chestplate": {
+      "page": 1,
+      "x": 448,
+      "y": 192
+    },
+    "hazennstuff:legionnaire_commander_chestplate": {
+      "page": 1,
+      "x": 512,
+      "y": 192
+    },
+    "hazennstuff:mithril_battlemage_chestplate": {
+      "page": 1,
+      "x": 576,
+      "y": 192
+    },
+    "hazennstuff:fireblossom_battlemage_chestplate": {
+      "page": 1,
+      "x": 640,
+      "y": 192
+    },
+    "hazennstuff:atlas_chestplate": {
+      "page": 1,
+      "x": 704,
+      "y": 192
+    },
+    "create:copper_backtank": {
+      "page": 1,
+      "x": 768,
+      "y": 192
+    },
+    "create:netherite_backtank": {
+      "page": 1,
+      "x": 832,
+      "y": 192
+    },
+    "create:cardboard_chestplate": {
+      "page": 1,
+      "x": 896,
+      "y": 192
+    },
+    "saintsdragons:dragonlord_chestplate": {
+      "page": 1,
+      "x": 960,
+      "y": 192
+    },
+    "legendary_spellbooks:oblivionmancer_robe": {
+      "page": 1,
+      "x": 1024,
+      "y": 192
+    },
+    "legendary_spellbooks:stormmancer_robe": {
+      "page": 1,
+      "x": 1088,
+      "y": 192
+    },
+    "fromtheshadows:diabolium_chest": {
+      "page": 1,
+      "x": 1152,
+      "y": 192
+    },
+    "fromtheshadows:crust_chest": {
+      "page": 1,
+      "x": 1216,
+      "y": 192
+    },
+    "bloodmagic:livingplate": {
+      "page": 1,
+      "x": 1280,
+      "y": 192
+    },
+    "tomeofblood:living_mage_robes": {
+      "page": 1,
+      "x": 1344,
+      "y": 192
+    },
+    "alexscaves:primordial_tunic": {
+      "page": 1,
+      "x": 1408,
+      "y": 192
+    },
+    "alexscaves:hazmat_chestplate": {
+      "page": 1,
+      "x": 1472,
+      "y": 192
+    },
+    "alexscaves:diving_chestplate": {
+      "page": 1,
+      "x": 1536,
+      "y": 192
+    },
+    "alexscaves:cloak_of_darkness": {
+      "page": 1,
+      "x": 1600,
+      "y": 192
+    },
+    "alexscaves:gingerbread_chestplate": {
+      "page": 1,
+      "x": 1664,
+      "y": 192
+    },
+    "legendary_monsters:mossy_chestplate": {
+      "page": 1,
+      "x": 1728,
+      "y": 192
+    },
+    "legendary_monsters:withered_ribcage": {
+      "page": 1,
+      "x": 1792,
+      "y": 192
+    },
+    "legendary_monsters:annihilator_chestplate": {
+      "page": 1,
+      "x": 1856,
+      "y": 192
+    },
+    "mysticalagriculture:inferium_chestplate": {
+      "page": 1,
+      "x": 1920,
+      "y": 192
+    },
+    "mysticalagriculture:prudentium_chestplate": {
+      "page": 1,
+      "x": 1984,
+      "y": 192
+    },
+    "mysticalagriculture:tertium_chestplate": {
+      "page": 1,
+      "x": 0,
+      "y": 256
+    },
+    "mysticalagriculture:imperium_chestplate": {
+      "page": 1,
+      "x": 64,
+      "y": 256
+    },
+    "mysticalagriculture:supremium_chestplate": {
+      "page": 1,
+      "x": 128,
+      "y": 256
+    },
+    "mysticalagriculture:awakened_supremium_chestplate": {
+      "page": 1,
+      "x": 192,
+      "y": 256
+    },
+    "linggango_tweaks:emerald_chestplate": {
+      "page": 1,
+      "x": 256,
+      "y": 256
+    },
+    "summonity:sniffer_chestplate": {
+      "page": 1,
+      "x": 320,
+      "y": 256
+    },
+    "summonity:spider_chestplate": {
+      "page": 1,
+      "x": 384,
+      "y": 256
+    },
+    "summonity:obsidian_chestplate": {
+      "page": 1,
+      "x": 448,
+      "y": 256
+    },
+    "summonity:virentium_summoner_chestplate": {
+      "page": 1,
+      "x": 512,
+      "y": 256
+    },
+    "crittersandcompanions:netherite_dragonfly_armor": {
+      "page": 1,
+      "x": 576,
+      "y": 256
+    }
+  },
+  "skipped": [],
+  "failed": []
+}

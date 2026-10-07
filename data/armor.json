@@ -1,0 +1,723 @@
+{
+  "type": "armor",
+  "edges": [
+    {
+      "output": "ad_astra:jet_suit",
+      "ingredient": "ad_astra:netherite_space_suit",
+      "recipeId": "ad_astra:jet_suit"
+    },
+    {
+      "output": "ad_astra:netherite_space_suit",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "ad_astra:netherite_space_suit"
+    },
+    {
+      "output": "adamsarsplus:adam_robes",
+      "ingredient": "adamsarsplus:camr_robes_a",
+      "recipeId": "jei:/adamsarsplus/adam_robes"
+    },
+    {
+      "output": "adamsarsplus:adam_robes",
+      "ingredient": "adamsarsplus:matt_robes_a",
+      "recipeId": "jei:/adamsarsplus/adam_robes"
+    },
+    {
+      "output": "adamsarsplus:adam_robes_a",
+      "ingredient": "adamsarsplus:adam_robes",
+      "recipeId": "jei:/adamsarsplus/adam_robes_a"
+    },
+    {
+      "output": "adamsarsplus:cade_robes",
+      "ingredient": "ars_nouveau:arcanist_robes",
+      "recipeId": "jei:/adamsarsplus/cade_robes"
+    },
+    {
+      "output": "adamsarsplus:cade_robes",
+      "ingredient": "ars_nouveau:battlemage_robes",
+      "recipeId": "jei:/adamsarsplus/cade_robes"
+    },
+    {
+      "output": "adamsarsplus:cade_robes",
+      "ingredient": "ars_nouveau:sorcerer_robes",
+      "recipeId": "jei:/adamsarsplus/cade_robes"
+    },
+    {
+      "output": "adamsarsplus:cade_robes_a",
+      "ingredient": "adamsarsplus:cade_robes",
+      "recipeId": "jei:/adamsarsplus/cade_robes_a"
+    },
+    {
+      "output": "adamsarsplus:camr_robes",
+      "ingredient": "adamsarsplus:cade_robes_a",
+      "recipeId": "jei:/adamsarsplus/camr_robes"
+    },
+    {
+      "output": "adamsarsplus:camr_robes",
+      "ingredient": "adamsarsplus:nick_robes_a",
+      "recipeId": "jei:/adamsarsplus/camr_robes"
+    },
+    {
+      "output": "adamsarsplus:camr_robes",
+      "ingredient": "adamsarsplus:ryan_robes_a",
+      "recipeId": "jei:/adamsarsplus/camr_robes"
+    },
+    {
+      "output": "adamsarsplus:camr_robes_a",
+      "ingredient": "adamsarsplus:camr_robes",
+      "recipeId": "jei:/adamsarsplus/camr_robes_a"
+    },
+    {
+      "output": "adamsarsplus:matt_robes",
+      "ingredient": "adamsarsplus:cade_robes_a",
+      "recipeId": "jei:/adamsarsplus/matt_robes"
+    },
+    {
+      "output": "adamsarsplus:matt_robes",
+      "ingredient": "adamsarsplus:nick_robes_a",
+      "recipeId": "jei:/adamsarsplus/matt_robes"
+    },
+    {
+      "output": "adamsarsplus:matt_robes",
+      "ingredient": "adamsarsplus:ryan_robes_a",
+      "recipeId": "jei:/adamsarsplus/matt_robes"
+    },
+    {
+      "output": "adamsarsplus:matt_robes_a",
+      "ingredient": "adamsarsplus:matt_robes",
+      "recipeId": "jei:/adamsarsplus/matt_robes_a"
+    },
+    {
+      "output": "adamsarsplus:nick_robes",
+      "ingredient": "ars_nouveau:arcanist_robes",
+      "recipeId": "jei:/adamsarsplus/nick_robes"
+    },
+    {
+      "output": "adamsarsplus:nick_robes",
+      "ingredient": "ars_nouveau:battlemage_robes",
+      "recipeId": "jei:/adamsarsplus/nick_robes"
+    },
+    {
+      "output": "adamsarsplus:nick_robes",
+      "ingredient": "ars_nouveau:sorcerer_robes",
+      "recipeId": "jei:/adamsarsplus/nick_robes"
+    },
+    {
+      "output": "adamsarsplus:nick_robes_a",
+      "ingredient": "adamsarsplus:nick_robes",
+      "recipeId": "jei:/adamsarsplus/nick_robes_a"
+    },
+    {
+      "output": "adamsarsplus:ryan_robes",
+      "ingredient": "ars_nouveau:arcanist_robes",
+      "recipeId": "jei:/adamsarsplus/ryan_robes"
+    },
+    {
+      "output": "adamsarsplus:ryan_robes",
+      "ingredient": "ars_nouveau:battlemage_robes",
+      "recipeId": "jei:/adamsarsplus/ryan_robes"
+    },
+    {
+      "output": "adamsarsplus:ryan_robes",
+      "ingredient": "ars_nouveau:sorcerer_robes",
+      "recipeId": "jei:/adamsarsplus/ryan_robes"
+    },
+    {
+      "output": "adamsarsplus:ryan_robes_a",
+      "ingredient": "adamsarsplus:ryan_robes",
+      "recipeId": "jei:/adamsarsplus/ryan_robes_a"
+    },
+    {
+      "output": "armageddon_mod:apprentice_builder_armor_chestplate",
+      "ingredient": "armageddon_mod:novice_builder_armor_chestplate",
+      "recipeId": "armageddon_mod:apprenticebuilderheadbandrecipe"
+    },
+    {
+      "output": "armageddon_mod:calamitous_armor_chestplate",
+      "ingredient": "armageddon_mod:elvenite_armor_chestplate",
+      "recipeId": "armageddon_mod:calamitous_chestplate_recipe"
+    },
+    {
+      "output": "armageddon_mod:expert_builder_armor_chestplate",
+      "ingredient": "armageddon_mod:apprentice_builder_armor_chestplate",
+      "recipeId": "armageddon_mod:expert_builder_chestplate_recipe"
+    },
+    {
+      "output": "armageddon_mod:gilded_armor_chestplate",
+      "ingredient": "minecraft:golden_chestplate",
+      "recipeId": "armageddon_mod:gilded_chestplaterecipe"
+    },
+    {
+      "output": "armageddon_mod:helionite_armor_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "armageddon_mod:helionite_chesplate_recipe"
+    },
+    {
+      "output": "ars_elemental:air_robes",
+      "ingredient": "ars_nouveau:arcanist_robes",
+      "recipeId": "jei:/ars_elemental/air_robes"
+    },
+    {
+      "output": "ars_elemental:air_robes",
+      "ingredient": "ars_nouveau:battlemage_robes",
+      "recipeId": "jei:/ars_elemental/air_robes"
+    },
+    {
+      "output": "ars_elemental:air_robes",
+      "ingredient": "ars_nouveau:sorcerer_robes",
+      "recipeId": "jei:/ars_elemental/air_robes"
+    },
+    {
+      "output": "ars_elemental:aqua_robes",
+      "ingredient": "ars_nouveau:arcanist_robes",
+      "recipeId": "jei:/ars_elemental/aqua_robes"
+    },
+    {
+      "output": "ars_elemental:aqua_robes",
+      "ingredient": "ars_nouveau:battlemage_robes",
+      "recipeId": "jei:/ars_elemental/aqua_robes"
+    },
+    {
+      "output": "ars_elemental:aqua_robes",
+      "ingredient": "ars_nouveau:sorcerer_robes",
+      "recipeId": "jei:/ars_elemental/aqua_robes"
+    },
+    {
+      "output": "ars_elemental:earth_robes",
+      "ingredient": "ars_nouveau:arcanist_robes",
+      "recipeId": "jei:/ars_elemental/earth_robes"
+    },
+    {
+      "output": "ars_elemental:earth_robes",
+      "ingredient": "ars_nouveau:battlemage_robes",
+      "recipeId": "jei:/ars_elemental/earth_robes"
+    },
+    {
+      "output": "ars_elemental:earth_robes",
+      "ingredient": "ars_nouveau:sorcerer_robes",
+      "recipeId": "jei:/ars_elemental/earth_robes"
+    },
+    {
+      "output": "ars_elemental:fire_robes",
+      "ingredient": "ars_nouveau:arcanist_robes",
+      "recipeId": "jei:/ars_elemental/fire_robes"
+    },
+    {
+      "output": "ars_elemental:fire_robes",
+      "ingredient": "ars_nouveau:battlemage_robes",
+      "recipeId": "jei:/ars_elemental/fire_robes"
+    },
+    {
+      "output": "ars_elemental:fire_robes",
+      "ingredient": "ars_nouveau:sorcerer_robes",
+      "recipeId": "jei:/ars_elemental/fire_robes"
+    },
+    {
+      "output": "ars_nouveau:arcanist_robes",
+      "ingredient": "minecraft:iron_chestplate",
+      "recipeId": "jei:/ars_nouveau/arcanist_robes"
+    },
+    {
+      "output": "ars_nouveau:battlemage_robes",
+      "ingredient": "minecraft:diamond_chestplate",
+      "recipeId": "jei:/ars_nouveau/battlemage_robes"
+    },
+    {
+      "output": "ars_nouveau:sorcerer_robes",
+      "ingredient": "minecraft:golden_chestplate",
+      "recipeId": "jei:/ars_nouveau/sorcerer_robes"
+    },
+    {
+      "output": "bloodmagic:livingplate",
+      "ingredient": "minecraft:iron_chestplate",
+      "recipeId": "jei:/bloodmagic/array/living_plate"
+    },
+    {
+      "output": "born_in_chaos_v1:dark_metal_armor_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "born_in_chaos_v1:armor_plate_from_dark_metal_k_3"
+    },
+    {
+      "output": "brutality:noir_chestplate",
+      "ingredient": "minecraft:leather_chestplate",
+      "recipeId": "brutality:noir_chestplate"
+    },
+    {
+      "output": "cataclysm:cursium_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "cataclysm:smithing/cursium_chestplate"
+    },
+    {
+      "output": "cataclysm:ignitium_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "cataclysm:smithing/ignitium_chestplate"
+    },
+    {
+      "output": "cataclysm:ignitium_elytra_chestplate",
+      "ingredient": "cataclysm:ignitium_chestplate",
+      "recipeId": "jei:/cataclysm/weapon_infusion/ignitium_elytra_chestplate"
+    },
+    {
+      "output": "composite_material:allay_steel_chestplate",
+      "ingredient": "composite_material:obsidian_chestplate",
+      "recipeId": "minecraft:kjs/composite_material_allay_steel_chestplate"
+    },
+    {
+      "output": "composite_material:echoium_chestplate",
+      "ingredient": "composite_material:allay_steel_chestplate",
+      "recipeId": "minecraft:kjs/composite_material_echoium_chestplate"
+    },
+    {
+      "output": "composite_material:echoium_chestplate",
+      "ingredient": "deeperdarker:warden_chestplate",
+      "recipeId": "minecraft:kjs/composite_material_echoium_chestplate"
+    },
+    {
+      "output": "composite_material:etherite_chestplate",
+      "ingredient": "composite_material:echoium_chestplate",
+      "recipeId": "minecraft:kjs/composite_material_etherite_chestplate"
+    },
+    {
+      "output": "composite_material:etherite_chestplate",
+      "ingredient": "goety_revelation:apocalyptium_chestplate",
+      "recipeId": "minecraft:kjs/composite_material_etherite_chestplate"
+    },
+    {
+      "output": "composite_material:obsidian_chestplate",
+      "ingredient": "composite_material:amethyst_chestplate",
+      "recipeId": "composite_material:obsidian_chestplate"
+    },
+    {
+      "output": "composite_material:obsidian_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "composite_material:obsidian_chestplate"
+    },
+    {
+      "output": "composite_material:primitive_chestplate",
+      "ingredient": "minecraft:leather_chestplate",
+      "recipeId": "composite_material:primitive_chestplate"
+    },
+    {
+      "output": "create:cardboard_chestplate",
+      "ingredient": "create:copper_backtank"
+    },
+    {
+      "output": "create:cardboard_chestplate",
+      "ingredient": "create:netherite_backtank"
+    },
+    {
+      "output": "create:netherite_backtank",
+      "ingredient": "create:copper_backtank",
+      "recipeId": "create:crafting/appliances/netherite_backtank_from_netherite"
+    },
+    {
+      "output": "create:netherite_backtank",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "create:crafting/appliances/netherite_backtank_from_netherite"
+    },
+    {
+      "output": "crittersandcompanions:netherite_dragonfly_armor",
+      "ingredient": "crittersandcompanions:diamond_dragonfly_armor",
+      "recipeId": "crittersandcompanions:netherite_dragonfly_armor_smithing"
+    },
+    {
+      "output": "darkermagic:warden_mage_chestplate",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "darkermagic:warden_mage_chestplate"
+    },
+    {
+      "output": "deeperdarker:resonarium_chestplate",
+      "ingredient": "minecraft:iron_chestplate",
+      "recipeId": "deeperdarker:resonarium_chestplate_smithing"
+    },
+    {
+      "output": "deeperdarker:warden_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "deeperdarker:warden_chestplate_smithing"
+    },
+    {
+      "output": "eeeabsmobs:ghost_warrior_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "minecraft:ghost_warrior_chestplate_smithing"
+    },
+    {
+      "output": "experienceobelisk:cognitive_chestplate",
+      "ingredient": "minecraft:iron_chestplate",
+      "recipeId": "experienceobelisk:cognitive_chestplate"
+    },
+    {
+      "output": "goety:black_iron_chestplate",
+      "ingredient": "minecraft:iron_chestplate",
+      "recipeId": "jei:/goety/black_iron/black_iron_chestplate"
+    },
+    {
+      "output": "goety:dark_chestplate",
+      "ingredient": "goety:black_iron_chestplate",
+      "recipeId": "jei:/goety/dark/dark_chestplate"
+    },
+    {
+      "output": "goety_revelation:apocalyptium_chestplate",
+      "ingredient": "goety:dark_chestplate",
+      "recipeId": "goety_revelation:apocalyptium_chestplate"
+    },
+    {
+      "output": "goety_revelation:spectre_chestplate",
+      "ingredient": "goety:black_iron_chestplate",
+      "recipeId": "jei:/goety_revelation/spectre_chestplate"
+    },
+    {
+      "output": "goety_revelation:spectre_darkmage_chestplate",
+      "ingredient": "goety_revelation:spectre_chestplate",
+      "recipeId": "jei:/goety_revelation/irons_spellbooks/spectre_darkmage_chestplate"
+    },
+    {
+      "output": "goety_revelation:spider_chestplate",
+      "ingredient": "goety:black_iron_chestplate",
+      "recipeId": "jei:/goety_revelation/spider_chestplate"
+    },
+    {
+      "output": "goety_revelation:spider_darkmage_chestplate",
+      "ingredient": "goety_revelation:spider_chestplate",
+      "recipeId": "jei:/goety_revelation/irons_spellbooks/spider_darkmage_chestplate"
+    },
+    {
+      "output": "hazennstuff:alchemist_supreme_chestplate",
+      "ingredient": "irons_spellbooks:archevoker_chestplate",
+      "recipeId": "hazennstuff:alchemist_supreme_chestplate"
+    },
+    {
+      "output": "hazennstuff:atlas_chestplate",
+      "ingredient": "hazennstuff:alchemist_supreme_chestplate",
+      "recipeId": "minecraft:atlas_chestplate"
+    },
+    {
+      "output": "hazennstuff:atlas_chestplate",
+      "ingredient": "hazennstuff:creaking_sorcerer_chestplate",
+      "recipeId": "minecraft:atlas_chestplate"
+    },
+    {
+      "output": "hazennstuff:blazeborne_chestplate",
+      "ingredient": "irons_spellbooks:pyromancer_chestplate",
+      "recipeId": "hazennstuff:blazeborne_chestplate"
+    },
+    {
+      "output": "hazennstuff:creaking_sorcerer_chestplate",
+      "ingredient": "irons_spellbooks:plagued_chestplate",
+      "recipeId": "hazennstuff:creaking_sorcerer_chestplate"
+    },
+    {
+      "output": "hazennstuff:cryogenic_ruler_chestplate",
+      "ingredient": "irons_spellbooks:cryomancer_chestplate",
+      "recipeId": "hazennstuff:cryogenic_ruler_chestplate"
+    },
+    {
+      "output": "hazennstuff:ender_dragon_chestplate",
+      "ingredient": "irons_spellbooks:shadowwalker_chestplate",
+      "recipeId": "hazennstuff:ender_dragon_chestplate"
+    },
+    {
+      "output": "hazennstuff:fireblossom_battlemage_chestplate",
+      "ingredient": "hazennstuff:blazeborne_chestplate",
+      "recipeId": "minecraft:fireblossom_battlemage_chestplate"
+    },
+    {
+      "output": "hazennstuff:fireblossom_battlemage_chestplate",
+      "ingredient": "hazennstuff:creaking_sorcerer_chestplate",
+      "recipeId": "minecraft:fireblossom_battlemage_chestplate"
+    },
+    {
+      "output": "hazennstuff:flesh_mass_chestplate",
+      "ingredient": "irons_spellbooks:cultist_chestplate",
+      "recipeId": "hazennstuff:flesh_mass_chestplate"
+    },
+    {
+      "output": "hazennstuff:hazel_chestplate",
+      "ingredient": "hazennstuff:blazeborne_chestplate",
+      "recipeId": "minecraft:hazel_chestplate"
+    },
+    {
+      "output": "hazennstuff:how_did_you_find_the_hazel_chestplate",
+      "ingredient": "hazennstuff:hazel_chestplate",
+      "recipeId": "minecraft:how_did_you_find_the_hazel_chestplate"
+    },
+    {
+      "output": "hazennstuff:infestation_chestplate",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "hazennstuff:infestation_chestplate"
+    },
+    {
+      "output": "hazennstuff:legionnaire_commander_chestplate",
+      "ingredient": "hazennstuff:pyrium_chestplate",
+      "recipeId": "minecraft:legionnaire_commander_chestplate"
+    },
+    {
+      "output": "hazennstuff:legionnaire_ruler_chestplate",
+      "ingredient": "hazennstuff:pyrium_chestplate",
+      "recipeId": "minecraft:legionnaire_ruler_chestplate"
+    },
+    {
+      "output": "hazennstuff:mithril_battlemage_chestplate",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "minecraft:mithril_battlemage_chestplate"
+    },
+    {
+      "output": "hazennstuff:pyrium_battlemage_chestplate",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "minecraft:pyrium_battlemage_chestplate"
+    },
+    {
+      "output": "hazennstuff:pyrium_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "minecraft:pyrium_chestplate"
+    },
+    {
+      "output": "hazennstuff:seraph_chestplate",
+      "ingredient": "irons_spellbooks:priest_chestplate",
+      "recipeId": "hazennstuff:seraph_chestplate"
+    },
+    {
+      "output": "hazennstuff:thunder_prowler_chestplate",
+      "ingredient": "irons_spellbooks:electromancer_chestplate",
+      "recipeId": "hazennstuff:thunder_prowler_chestplate"
+    },
+    {
+      "output": "immersive_armors:divine_chestplate",
+      "ingredient": "immersive_armors:robe_chestplate",
+      "recipeId": "immersive_armors:divine_chestplate"
+    },
+    {
+      "output": "immersive_armors:warrior_chestplate",
+      "ingredient": "minecraft:leather_chestplate",
+      "recipeId": "immersive_armors:warrior_chestplate"
+    },
+    {
+      "output": "immersive_armors:wither_chestplate",
+      "ingredient": "immersive_armors:bone_chestplate",
+      "recipeId": "immersive_armors:wither_chestplate"
+    },
+    {
+      "output": "irons_spellbooks:archevoker_chestplate",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "irons_spellbooks:archevoker_chestplate_crafting"
+    },
+    {
+      "output": "irons_spellbooks:cryomancer_chestplate",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "irons_spellbooks:cryomancer_chestplate_crafting"
+    },
+    {
+      "output": "irons_spellbooks:cultist_chestplate",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "irons_spellbooks:cultist_chestplate_crafting"
+    },
+    {
+      "output": "irons_spellbooks:electromancer_chestplate",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "irons_spellbooks:electromancer_chestplate_crafting"
+    },
+    {
+      "output": "irons_spellbooks:infernal_sorcerer_chestplate",
+      "ingredient": "irons_spellbooks:pyromancer_chestplate",
+      "recipeId": "irons_spellbooks:infernal_sorcerer_chestplate"
+    },
+    {
+      "output": "irons_spellbooks:netherite_mage_chestplate",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "irons_spellbooks:netherite_mage_chestplate"
+    },
+    {
+      "output": "irons_spellbooks:paladin_chestplate",
+      "ingredient": "irons_spellbooks:priest_chestplate",
+      "recipeId": "irons_spellbooks:paladin_chestplate"
+    },
+    {
+      "output": "irons_spellbooks:plagued_chestplate",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "irons_spellbooks:plagued_chestplate_crafting"
+    },
+    {
+      "output": "irons_spellbooks:priest_chestplate",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "irons_spellbooks:priest_chestplate_crafting"
+    },
+    {
+      "output": "irons_spellbooks:pyromancer_chestplate",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "irons_spellbooks:pyromancer_chestplate_crafting"
+    },
+    {
+      "output": "irons_spellbooks:shadowwalker_chestplate",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "irons_spellbooks:shadowwalker_chestplate_crafting"
+    },
+    {
+      "output": "irons_spellbooks:wandering_magician_chestplate",
+      "ingredient": "minecraft:leather_chestplate",
+      "recipeId": "irons_spellbooks:wandering_magician_chestplate"
+    },
+    {
+      "output": "l2complements:eternium_chestplate",
+      "ingredient": "minecraft:iron_chestplate",
+      "recipeId": "l2complements:generated_tools/eternium/craft/eternium_chestplate"
+    },
+    {
+      "output": "l2complements:sculkium_chestplate",
+      "ingredient": "deeperdarker:warden_chestplate",
+      "recipeId": "minecraft:kjs/l2complements_sculkium_chestplate"
+    },
+    {
+      "output": "legendary_monsters:annihilator_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "legendary_monsters:annihilator_chestplate"
+    },
+    {
+      "output": "legendary_spellbooks:oblivionmancer_robe",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "legendary_spellbooks:oblivionmancer_robe"
+    },
+    {
+      "output": "legendary_spellbooks:stormmancer_robe",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "minecraft:stormmancer_robe_smithing"
+    },
+    {
+      "output": "lethality:hf_battle_maid_chestplate",
+      "ingredient": "lethality:battle_maid_chestplate",
+      "recipeId": "lethality:hf_battle_maid_chestplate"
+    },
+    {
+      "output": "mekanism:mekasuit_bodyarmor",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "mekanism:mekasuit_bodyarmor"
+    },
+    {
+      "output": "minecraft:iron_chestplate",
+      "ingredient": "minecraft:diamond_chestplate",
+      "recipeId": "quark:tools/smithing/rune_smithing_blank"
+    },
+    {
+      "output": "minecraft:netherite_chestplate",
+      "ingredient": "minecraft:diamond_chestplate",
+      "recipeId": "minecraft:netherite_chestplate_smithing"
+    },
+    {
+      "output": "mythsandlegends:infernum_warplate_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "mythsandlegends:infernum_warplate_chestplate"
+    },
+    {
+      "output": "primitive_mobs:camouflage_chestplate",
+      "ingredient": "minecraft:leather_chestplate",
+      "recipeId": "primitive_mobs:camouflage_chestplate"
+    },
+    {
+      "output": "somakespells:abyssium_chestplate",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "somakespells:abyssium_chestplate_smithing"
+    },
+    {
+      "output": "somakespells:aquamancer_chestplate",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "somakespells:aquamancer_chestplate"
+    },
+    {
+      "output": "somakespells:ceranium_chestplate",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "somakespells:ceranium_chestplate_smithing"
+    },
+    {
+      "output": "somakespells:dark_metal_battlemage_chestplate",
+      "ingredient": "born_in_chaos_v1:dark_metal_armor_chestplate",
+      "recipeId": "somakespells:dark_metal_battlemage_chestplate_smithing"
+    },
+    {
+      "output": "somakespells:dark_metal_battlemage_chestplate",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "somakespells:dark_metal_battlemage_chestplate_smithing"
+    },
+    {
+      "output": "soulsweapons:enhanced_arkenplate",
+      "ingredient": "soulsweapons:arkenplate",
+      "recipeId": "soulsweapons:enhanced_arkenplate"
+    },
+    {
+      "output": "soulsweapons:enhanced_withered_chest",
+      "ingredient": "soulsweapons:withered_chest",
+      "recipeId": "soulsweapons:enhanced_withered_chest"
+    },
+    {
+      "output": "summonity:virentium_summoner_chestplate",
+      "ingredient": "minecraft:diamond_chestplate",
+      "recipeId": "summonity:virentium_summoner_chestplate"
+    },
+    {
+      "output": "terramity:conductite_armor_chestplate",
+      "ingredient": "terramity:iridium_armor_chestplate",
+      "recipeId": "terramity:conductite_chestplate_recipe"
+    },
+    {
+      "output": "terramity:cosmilite_armor_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "terramity:cosmilite_chestplate_recipe"
+    },
+    {
+      "output": "terramity:dimlite_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "terramity:dimlite_chestplate_recipe"
+    },
+    {
+      "output": "terramity:hellspec_chestplate",
+      "ingredient": "terramity:iridium_armor_chestplate",
+      "recipeId": "terramity:hellspec_chestplate_recipe"
+    },
+    {
+      "output": "terramity:virentium_armor_chestplate",
+      "ingredient": "minecraft:netherite_chestplate",
+      "recipeId": "terramity:virentium_chestplate_recipe"
+    },
+    {
+      "output": "terramity:void_mage_chestplate",
+      "ingredient": "terramity:iridium_armor_chestplate",
+      "recipeId": "terramity:void_chestplate_recipe"
+    },
+    {
+      "output": "tomeofblood:living_mage_robes",
+      "ingredient": "bloodmagic:livingplate",
+      "recipeId": "jei:/tomeofblood/living_mage_robes"
+    },
+    {
+      "output": "traveloptics:abyssal_hide_armor_robe",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "traveloptics:smithing/abyssal_hide_armor_robe"
+    },
+    {
+      "output": "traveloptics:cursed_wraithguard_chestplate",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "traveloptics:smithing/cursed_wraithguard_chestplate"
+    },
+    {
+      "output": "traveloptics:deepling_mage_armor_robe",
+      "ingredient": "irons_spellbooks:wizard_chestplate",
+      "recipeId": "traveloptics:deepling_mage_armor_robe"
+    },
+    {
+      "output": "traveloptics:forlorn_harbinger_robe",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "traveloptics:smithing/forlorn_harbinger_robe"
+    },
+    {
+      "output": "traveloptics:mechanized_exoskeleton_chestplate",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "traveloptics:smithing/mechanized_exoskeleton_chestplate"
+    },
+    {
+      "output": "traveloptics:riptide_sovereign_fincloak",
+      "ingredient": "irons_spellbooks:netherite_mage_chestplate",
+      "recipeId": "traveloptics:smithing/riptide_sovereign_fincloak"
+    },
+    {
+      "output": "traveloptics:tectonic_crest_armor_chestplate",
+      "ingredient": "traveloptics:primordial_crest_armor_chestplate",
+      "recipeId": "traveloptics:smithing/tectonic_crest_armor_chestplate"
+    }
+  ]
+}

@@ -1,0 +1,3281 @@
+{
+  "schema": 2,
+  "generated": "2026-10-06T23:13:52.566555-05:00",
+  "armageddonTiers": [
+    {
+      "index": 0,
+      "label": "I",
+      "color": "f",
+      "headerItem": "minecraft:iron_ingot",
+      "advancement": "armageddon_mod:the_iron_keeper",
+      "title": {
+        "translate": "advancements.the_iron_keeper.title"
+      }
+    },
+    {
+      "index": 1,
+      "label": "G",
+      "color": "6",
+      "headerItem": "minecraft:gold_ingot",
+      "advancement": "armageddon_mod:the_gold_keeper",
+      "title": {
+        "translate": "advancements.the_gold_keeper.title"
+      }
+    },
+    {
+      "index": 2,
+      "label": "E",
+      "color": "a",
+      "headerItem": "minecraft:emerald",
+      "advancement": "armageddon_mod:the_emerald_keeper",
+      "title": {
+        "translate": "advancements.the_emerald_keeper.title"
+      }
+    },
+    {
+      "index": 3,
+      "label": "D",
+      "color": "b",
+      "headerItem": "minecraft:diamond",
+      "advancement": "armageddon_mod:the_diamond_keeper",
+      "title": {
+        "translate": "advancements.the_diamond_keeper.title"
+      }
+    },
+    {
+      "index": 4,
+      "label": "N",
+      "color": "8",
+      "headerItem": "minecraft:netherite_ingot",
+      "advancement": "armageddon_mod:the_netherite_keeper",
+      "title": {
+        "translate": "advancements.the_netherite_keeper.title"
+      }
+    },
+    {
+      "index": 5,
+      "label": "E",
+      "color": "e",
+      "headerItem": "armageddon_mod:elvenite_ingot",
+      "advancement": "armageddon_mod:the_elvenite_keeper",
+      "title": {
+        "translate": "advancements.the_elvenite_keeper.title"
+      }
+    },
+    {
+      "index": 6,
+      "label": "V",
+      "color": "5",
+      "headerItem": "armageddon_mod:voiderite",
+      "advancement": "armageddon_mod:the_voiderite_keeper",
+      "title": {
+        "translate": "advancements.the_voiderite_keeper.title"
+      }
+    },
+    {
+      "index": 7,
+      "label": "B",
+      "color": "4",
+      "headerItem": "armageddon_mod:bloody_ingot",
+      "advancement": "armageddon_mod:the_blood_keeper",
+      "title": {
+        "translate": "advancements.the_blood_keeper.title"
+      }
+    },
+    {
+      "index": 8,
+      "label": "H",
+      "color": "6",
+      "headerItem": "armageddon_mod:helionite_ingot",
+      "advancement": "armageddon_mod:the_sun_keeper",
+      "title": {
+        "translate": "advancements.the_sun_keeper.title"
+      }
+    }
+  ],
+  "scoring": {
+    "separateMagicArmor": true,
+    "weaponTierMultiplier": 1.6,
+    "weapon": {
+      "damage": 1.0,
+      "attackSpeed": 1.0
+    },
+    "armor": {
+      "armor": 1.0,
+      "toughness": 0.6,
+      "mana": 0.0,
+      "spellPower": 0.0,
+      "flatSpellPower": 0.0
+    },
+    "magicArmor": {
+      "armor": 0.5,
+      "toughness": 0.3,
+      "mana": 0.02,
+      "spellPower": 20.0,
+      "flatSpellPower": 2.0
+    }
+  },
+  "mods": [
+    {
+      "id": "fastvancements",
+      "name": "Fastvancements",
+      "version": "1.3"
+    },
+    {
+      "id": "betterdungeons",
+      "name": "YUNG's Better Dungeons",
+      "version": "1.20-Forge-4.0.4"
+    },
+    {
+      "id": "ftbessentials",
+      "name": "FTB Essentials",
+      "version": "2001.2.4"
+    },
+    {
+      "id": "kreno",
+      "name": "Krypton Reno",
+      "version": "26.1.1-1.20.1"
+    },
+    {
+      "id": "tinymultiblocklib",
+      "name": "Tiny Multiblock Lib",
+      "version": "4.0.0"
+    },
+    {
+      "id": "gtbcs_geomancy_plus",
+      "name": "GTBC's Geomancy Plus",
+      "version": "2.0.0-1.20.1"
+    },
+    {
+      "id": "selling_bin",
+      "name": "wd's Selling Bin",
+      "version": "1.4.3-FORGE-1.20.1"
+    },
+    {
+      "id": "neobackports",
+      "name": "NeoBackports",
+      "version": "1.4.2"
+    },
+    {
+      "id": "modernfix",
+      "name": "ModernFix",
+      "version": "5.27.83+mc1.20.1"
+    },
+    {
+      "id": "more_context_please",
+      "name": "more context please",
+      "version": "0.1"
+    },
+    {
+      "id": "yungsapi",
+      "name": "YUNG's API",
+      "version": "1.20-Forge-4.0.6"
+    },
+    {
+      "id": "bbb",
+      "name": "Building But Better",
+      "version": "2.0pre4"
+    },
+    {
+      "id": "clientcrafting",
+      "name": "clientcrafting mod",
+      "version": "1.20.1-2.1"
+    },
+    {
+      "id": "shut_up_please",
+      "name": "shut up please",
+      "version": "0.1"
+    },
+    {
+      "id": "peyroscythe",
+      "name": "Peyro's Scythe",
+      "version": "1.20.1-1.3.3"
+    },
+    {
+      "id": "ldlib",
+      "name": "LowDragLib",
+      "version": "1.0.42"
+    },
+    {
+      "id": "pickupnotifier",
+      "name": "Pick Up Notifier",
+      "version": "8.0.0"
+    },
+    {
+      "id": "fdbosses",
+      "name": "Qliphoth Awakening",
+      "version": "3.1.0.3"
+    },
+    {
+      "id": "create_new_age",
+      "name": "Create: New Age",
+      "version": "1.2.0+mc1.20.1"
+    },
+    {
+      "id": "createbetterfps",
+      "name": "CreateBetterFps",
+      "version": "1.1.3"
+    },
+    {
+      "id": "biggerstacks",
+      "name": "Bigger Stacks",
+      "version": "1.20.1-2026.06.17"
+    },
+    {
+      "id": "betterfortresses",
+      "name": "YUNG's Better Nether Fortresses",
+      "version": "1.20-Forge-2.0.6"
+    },
+    {
+      "id": "cloth_config",
+      "name": "Cloth Config v10 API",
+      "version": "11.1.136"
+    },
+    {
+      "id": "embeddium",
+      "name": "Emberbium",
+      "version": "0.3.32-beta.102-dirty+mc1.20.1"
+    },
+    {
+      "id": "rubidium",
+      "name": "Rubidium (Emberbium)",
+      "version": "0.7.1"
+    },
+    {
+      "id": "uniqueaccessories",
+      "name": "Unique Accessories",
+      "version": "1.3.3"
+    },
+    {
+      "id": "quest_additions_fix",
+      "name": "Quest Additions Null Fix",
+      "version": "1.0.0"
+    },
+    {
+      "id": "gui_scale_additions",
+      "name": "GUI Scale Additions",
+      "version": "0.1"
+    },
+    {
+      "id": "corpse",
+      "name": "Corpse",
+      "version": "1.20.1-1.0.23"
+    },
+    {
+      "id": "ftbquests_tierlists",
+      "name": "FTBQuests Tierlists",
+      "version": "1.3.0"
+    },
+    {
+      "id": "industrialforegoing",
+      "name": "Industrial Foregoing",
+      "version": "3.5.22"
+    },
+    {
+      "id": "celestial_core",
+      "name": "Celestial Core",
+      "version": "1.5.8"
+    },
+    {
+      "id": "optimized_rpc",
+      "name": "Optimized RPC",
+      "version": "1.0"
+    },
+    {
+      "id": "spark",
+      "name": "spark",
+      "version": "1.10.53"
+    },
+    {
+      "id": "create_repair",
+      "name": "Create Repair: Unofficial Create Community Patch",
+      "version": "1.3.0"
+    },
+    {
+      "id": "attributeslib",
+      "name": "Apothic Attributes",
+      "version": "1.3.7"
+    },
+    {
+      "id": "createlazytick",
+      "name": "Create:Lazy Tick",
+      "version": "2.7.30-6.0.x"
+    },
+    {
+      "id": "bettervillage",
+      "name": "Better village",
+      "version": "3.3.1"
+    },
+    {
+      "id": "naturesaura",
+      "name": "NaturesAura",
+      "version": "39.4"
+    },
+    {
+      "id": "constructionwand",
+      "name": "Construction Wand",
+      "version": "1.20.1-2.11"
+    },
+    {
+      "id": "mcwroofs",
+      "name": "Macaw's Roofs",
+      "version": "2.3.2"
+    },
+    {
+      "id": "chimes",
+      "name": "Chimes",
+      "version": "2.1.1"
+    },
+    {
+      "id": "libtooltips",
+      "name": "wd's Tooltips Library",
+      "version": "2.3-FORGE-1.20.1"
+    },
+    {
+      "id": "transition",
+      "name": "TRansition",
+      "version": "1.0.25"
+    },
+    {
+      "id": "l2library",
+      "name": "L2 Library",
+      "version": "2.5.3"
+    },
+    {
+      "id": "l2backpack",
+      "name": "L2 Backpack",
+      "version": "2.6.0"
+    },
+    {
+      "id": "toms_storage",
+      "name": "Tom's Simple Storage Mod",
+      "version": "1.7.1"
+    },
+    {
+      "id": "enchantinginfuser",
+      "name": "Enchanting Infuser",
+      "version": "8.0.3"
+    },
+    {
+      "id": "radium",
+      "name": "Radium Re-Reforged",
+      "version": "0.14.3+git.e141a47"
+    },
+    {
+      "id": "confluence",
+      "name": "Terra Curio",
+      "version": "0.1.13"
+    },
+    {
+      "id": "mutantmonsters",
+      "name": "Mutant Monsters",
+      "version": "8.0.8"
+    },
+    {
+      "id": "enigmaticdice",
+      "name": "Enigmatic Dice",
+      "version": "1.3.1-1.20.1"
+    },
+    {
+      "id": "irons_lib",
+      "name": "Iron's Lib",
+      "version": "1.20.1-1.1.0"
+    },
+    {
+      "id": "attributefix",
+      "name": "AttributeFix",
+      "version": "21.0.5"
+    },
+    {
+      "id": "integrated_dungeons_arise",
+      "name": "Integrated Dungeons Arise",
+      "version": "2.1.1"
+    },
+    {
+      "id": "flerovium",
+      "name": "Flerovium",
+      "version": "1.2.19"
+    },
+    {
+      "id": "libraryferret",
+      "name": "Library ferret",
+      "version": "4.0.0"
+    },
+    {
+      "id": "caelus",
+      "name": "Caelus API",
+      "version": "3.2.0+1.20.1"
+    },
+    {
+      "id": "worldfixer",
+      "name": "World Corruption Fixer",
+      "version": "1.0.0"
+    },
+    {
+      "id": "shading_begone",
+      "name": "Shading Begone",
+      "version": "0.4"
+    },
+    {
+      "id": "fastsounds",
+      "name": "FastSounds",
+      "version": "0.5"
+    },
+    {
+      "id": "fastasyncworldsave",
+      "name": "fastasyncworldsave mod",
+      "version": "1.20.1-2.6"
+    },
+    {
+      "id": "dungeonnowloading",
+      "name": "Dungeon Now Loading",
+      "version": "2.2"
+    },
+    {
+      "id": "integrated_api",
+      "name": "Integrated API",
+      "version": "1.7.4+1.20.1-forge"
+    },
+    {
+      "id": "immersive_optimization",
+      "name": "Immersive Optimization",
+      "version": "0.2.0"
+    },
+    {
+      "id": "cameraoverhaul_revamp",
+      "name": "CameraOverhaul Revamp",
+      "version": "1.0.0"
+    },
+    {
+      "id": "compactmachines",
+      "name": "Compact Machines",
+      "version": "6.0.3"
+    },
+    {
+      "id": "morerelics",
+      "name": "More Relics",
+      "version": "1.7.7"
+    },
+    {
+      "id": "l2screentracker",
+      "name": "L2 Screen Tracker",
+      "version": "0.1.4"
+    },
+    {
+      "id": "misanthropys_ally_mod",
+      "name": "Misanthropys Ally Mod",
+      "version": "0.2"
+    },
+    {
+      "id": "goety_cataclysm",
+      "name": "Goety Cataclysm",
+      "version": "1.20-1.7.0"
+    },
+    {
+      "id": "midnightlib",
+      "name": "MidnightLib",
+      "version": "1.4.2"
+    },
+    {
+      "id": "questsadditions",
+      "name": "Quests Additions",
+      "version": "1.4.7"
+    },
+    {
+      "id": "corpsecurioscompat",
+      "name": "corpsecurioscompat",
+      "version": "3.1.3"
+    },
+    {
+      "id": "armageddon_ai_tweaks",
+      "name": "Armageddon AI Tweaks",
+      "version": "1.1"
+    },
+    {
+      "id": "somemoreblocks",
+      "name": "Some More Blocks",
+      "version": "1.0.7-bp"
+    },
+    {
+      "id": "hearths",
+      "name": "Hearths",
+      "version": "1.0.5"
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft",
+      "version": "1.20.1"
+    },
+    {
+      "id": "block_factorys_bosses",
+      "name": "Bosses'Rises",
+      "version": "1.0.9.2."
+    },
+    {
+      "id": "fluidium",
+      "name": "Fluidium",
+      "version": "1.20.1-1.4.0"
+    },
+    {
+      "id": "terrablender",
+      "name": "TerraBlender",
+      "version": "3.0.1.10"
+    },
+    {
+      "id": "shouldersurfing",
+      "name": "Shoulder Surfing Reloaded",
+      "version": "1.20.1-5.0.11"
+    },
+    {
+      "id": "primitive_mobs",
+      "name": "Primitive Mobs",
+      "version": "1.0.4"
+    },
+    {
+      "id": "fdlib",
+      "name": "FDLib",
+      "version": "1.0.9"
+    },
+    {
+      "id": "alltheleaks",
+      "name": "All The Leaks",
+      "version": "1.1.3+1.20.1-forge"
+    },
+    {
+      "id": "corgilib",
+      "name": "CorgiLib",
+      "version": "4.0.3.5"
+    },
+    {
+      "id": "fastpaintings",
+      "name": "Fast Paintings",
+      "version": "1.20-1.2.7"
+    },
+    {
+      "id": "traveloptics",
+      "name": "T.O Magic 'n Extras",
+      "version": "6.3.0-1.20.1"
+    },
+    {
+      "id": "notenoughanimations",
+      "name": "NotEnoughAnimations",
+      "version": "1.12.6"
+    },
+    {
+      "id": "flywheel",
+      "name": "Flywheel",
+      "version": "1.0.5"
+    },
+    {
+      "id": "smoothmovement",
+      "name": "smoothmovement mod",
+      "version": "1.20.1-2.9"
+    },
+    {
+      "id": "experienceobelisk",
+      "name": "Cognition",
+      "version": "2.4.12-1.20.1"
+    },
+    {
+      "id": "almostunified",
+      "name": "AlmostUnified",
+      "version": "1.20.1-0.11.0"
+    },
+    {
+      "id": "emi",
+      "name": "EMI",
+      "version": "1.1.24+1.20.1+forge"
+    },
+    {
+      "id": "immediatelyfast",
+      "name": "ImmediatelyFast",
+      "version": "1.5.5+1.20.4"
+    },
+    {
+      "id": "fastfurnace",
+      "name": "FastFurnace",
+      "version": "8.0.2"
+    },
+    {
+      "id": "lootr",
+      "name": "Lootr",
+      "version": "0.7.35.94"
+    },
+    {
+      "id": "fastchunkgen",
+      "name": "FastChunkGen",
+      "version": "0.31"
+    },
+    {
+      "id": "skyarena",
+      "name": "Sky Arena",
+      "version": "1.3.6-1.20.1"
+    },
+    {
+      "id": "mythsandlegends",
+      "name": "Myths & Legends",
+      "version": "0.0.8.8"
+    },
+    {
+      "id": "warningscreen",
+      "name": "warningscreen",
+      "version": "0.1"
+    },
+    {
+      "id": "procedural_dungeons",
+      "name": "Procedural Dungeons",
+      "version": "1.0-SNAPSHOT"
+    },
+    {
+      "id": "relic_mod_description_crash_handler",
+      "name": "Relic Mod Description Crash Handler",
+      "version": "1.0.0"
+    },
+    {
+      "id": "cosmeticarmorreworked",
+      "name": "CosmeticArmorReworked",
+      "version": "1.20.1-v1a"
+    },
+    {
+      "id": "medieval_nether",
+      "name": "Medieval Buildings [The Nether Edition]",
+      "version": "1.0.2"
+    },
+    {
+      "id": "euphoria_patcher",
+      "name": "EuphoriaPatcher",
+      "version": "1.6.8-r5.5.1-forge"
+    },
+    {
+      "id": "oculus",
+      "name": "Emberlens",
+      "version": "1.8.3"
+    },
+    {
+      "id": "ae2ct",
+      "name": "ae2CraftingTree",
+      "version": "1.20.1-1.1.1"
+    },
+    {
+      "id": "defaultoptions",
+      "name": "Default Options",
+      "version": "18.0.5"
+    },
+    {
+      "id": "ad_astra",
+      "name": "Ad Astra",
+      "version": "1.15.21"
+    },
+    {
+      "id": "skyvillages",
+      "name": "Sky Villages",
+      "version": "1.0.4"
+    },
+    {
+      "id": "fancytabsections",
+      "name": "Fancy Tab Sections",
+      "version": "6.2.3-FORGE-1.20.1"
+    },
+    {
+      "id": "kuma_api",
+      "name": "KumaAPI",
+      "version": "20.1.12"
+    },
+    {
+      "id": "dungeons_revival",
+      "name": "Dungeons Revival",
+      "version": "1.0.5.1"
+    },
+    {
+      "id": "moreartifacts",
+      "name": "More Artifacts",
+      "version": "1.5.5"
+    },
+    {
+      "id": "sophisticatedcore",
+      "name": "Sophisticated Core",
+      "version": "1.5.4.2362"
+    },
+    {
+      "id": "gpumemleakfix",
+      "name": "Gpu memory leak fix",
+      "version": "1.20.1-1.8"
+    },
+    {
+      "id": "structureessentials",
+      "name": "Structure Essentials mod",
+      "version": "1.20.1-5.0"
+    },
+    {
+      "id": "collections_of_optimizations",
+      "name": "Collections Of Optimizations",
+      "version": "4.6"
+    },
+    {
+      "id": "placebo",
+      "name": "Placebo",
+      "version": "8.6.3"
+    },
+    {
+      "id": "darkdoppelganger",
+      "name": "DarkDoppelganger",
+      "version": "9.8.3-1.20.1"
+    },
+    {
+      "id": "bookshelf",
+      "name": "Bookshelf",
+      "version": "20.2.15"
+    },
+    {
+      "id": "sophisticatedbackpacks",
+      "name": "Sophisticated Backpacks",
+      "version": "3.26.6.2176"
+    },
+    {
+      "id": "mcwdoors",
+      "name": "Macaw's Doors",
+      "version": "1.1.5"
+    },
+    {
+      "id": "simple_zoom",
+      "name": "simple zoom",
+      "version": "1.0"
+    },
+    {
+      "id": "melody",
+      "name": "Melody",
+      "version": "1.0.2"
+    },
+    {
+      "id": "baguettelib",
+      "name": "BaguetteLib",
+      "version": "2.0.7"
+    },
+    {
+      "id": "fzzy_config",
+      "name": "Fzzy Config",
+      "version": "0.7.7+1.20.1+forge"
+    },
+    {
+      "id": "particle_core",
+      "name": "Particle Core",
+      "version": "0.3.3+1.20.1+forge"
+    },
+    {
+      "id": "l2damagetracker",
+      "name": "L2 Damage Tracker",
+      "version": "0.4.4"
+    },
+    {
+      "id": "konkrete",
+      "name": "Konkrete",
+      "version": "1.8.0"
+    },
+    {
+      "id": "create_connected",
+      "name": "Create: Connected",
+      "version": "1.2.3-mc1.20.1"
+    },
+    {
+      "id": "entity_model_features",
+      "name": "Entity Model Features",
+      "version": "3.3.10"
+    },
+    {
+      "id": "entity_texture_features",
+      "name": "Entity Texture Features",
+      "version": "7.2.5"
+    },
+    {
+      "id": "fastipping",
+      "name": "Fast IP Ping",
+      "version": "1.0.12"
+    },
+    {
+      "id": "hostilenetworks",
+      "name": "Hostile Neural Networks",
+      "version": "5.3.3"
+    },
+    {
+      "id": "projectvibrantjourneys",
+      "name": "Project: Vibrant Journeys",
+      "version": "1.20.1-6.3.0"
+    },
+    {
+      "id": "eeeabsmobs",
+      "name": "EEEAB's Mobs",
+      "version": "1.20.1-0.98.1"
+    },
+    {
+      "id": "longnbtkiller",
+      "name": "LongNbtKiller",
+      "version": "1.0.0"
+    },
+    {
+      "id": "born_in_chaos_v1",
+      "name": "Born in Chaos ",
+      "version": "1.7.5"
+    },
+    {
+      "id": "lionfishapi",
+      "name": "LionfishAPI",
+      "version": "2.8"
+    },
+    {
+      "id": "dodosmobs",
+      "name": "dodosmobs",
+      "version": "2.64"
+    },
+    {
+      "id": "cnb",
+      "name": "Creatures and Beasts: Unofficial Port",
+      "version": "1.7.10"
+    },
+    {
+      "id": "cataclysm",
+      "name": "cataclysm",
+      "version": "3.16"
+    },
+    {
+      "id": "hole_filler_mod",
+      "name": "Hole Filler Mod",
+      "version": "1.2.8"
+    },
+    {
+      "id": "ender_dragon_configuration",
+      "name": "Ender Dragon Configuration",
+      "version": "0.1"
+    },
+    {
+      "id": "cerbons_api",
+      "name": "CerbonsApi",
+      "version": "1.0.0"
+    },
+    {
+      "id": "duplicationless",
+      "name": "Duplicationless",
+      "version": "1.20.1-1.2.1"
+    },
+    {
+      "id": "saintsdragons",
+      "name": "Saint's Dragons",
+      "version": "0.9.85"
+    },
+    {
+      "id": "asynclogger",
+      "name": "Async Logger",
+      "version": "2.2.2+1.20.1-forge"
+    },
+    {
+      "id": "cupboard",
+      "name": "Cupboard utilities",
+      "version": "1.20.1-4.2"
+    },
+    {
+      "id": "photon",
+      "name": "Photon",
+      "version": "1.1.17"
+    },
+    {
+      "id": "undergarden",
+      "name": "The Undergarden",
+      "version": "0.8.14"
+    },
+    {
+      "id": "biomancy",
+      "name": "Biomancy 2",
+      "version": "2.8.19.0"
+    },
+    {
+      "id": "puffish_attributes",
+      "name": "Pufferfish's Attributes",
+      "version": "0.8.2"
+    },
+    {
+      "id": "esl",
+      "name": "ESL",
+      "version": "1.1.3"
+    },
+    {
+      "id": "soulsweapons",
+      "name": "Marium's Soulslike Weaponry",
+      "version": "1.4.8-1.20.1-forge}"
+    },
+    {
+      "id": "armageddon_mod",
+      "name": "Armageddon",
+      "version": "3.0.07"
+    },
+    {
+      "id": "copycats",
+      "name": "Create: Copycats+",
+      "version": "3.0.10+mc.1.20.1-forge"
+    },
+    {
+      "id": "enchlibathome",
+      "name": "Enchantment Library at Home",
+      "version": "1.0.2"
+    },
+    {
+      "id": "igleelib",
+      "name": "Iglee's Library",
+      "version": "1.2.7"
+    },
+    {
+      "id": "xaerolib",
+      "name": "XaeroLib",
+      "version": "1.7.3"
+    },
+    {
+      "id": "artifacts_crash_fix",
+      "name": "artifacts crash fix",
+      "version": "0.1"
+    },
+    {
+      "id": "l2complements",
+      "name": "L2 Complements",
+      "version": "2.6.1"
+    },
+    {
+      "id": "hearth_and_home",
+      "name": "Hearth & Home",
+      "version": "1.20.1-2.0.1"
+    },
+    {
+      "id": "taxfreelevels",
+      "name": "Tax Free Levels",
+      "version": "1.4.25"
+    },
+    {
+      "id": "artifacts",
+      "name": "Artifacts",
+      "version": "9.5.19"
+    },
+    {
+      "id": "subtle_gui_tweaks",
+      "name": "Subtle GUI Tweaks",
+      "version": "0.2"
+    },
+    {
+      "id": "class_api",
+      "name": "Class API",
+      "version": "1.0.1"
+    },
+    {
+      "id": "class_enhancement",
+      "name": "Class Enhancement",
+      "version": "1.0.2"
+    },
+    {
+      "id": "explorerscompass",
+      "name": "Explorer's Compass",
+      "version": "1.20.1-1.3.3-forge"
+    },
+    {
+      "id": "bosses_of_mass_destruction",
+      "name": "Bosses of Mass Destruction",
+      "version": "1.1.1"
+    },
+    {
+      "id": "ixeris",
+      "name": "Ixeris",
+      "version": "4.6.8+1.20.1-forge"
+    },
+    {
+      "id": "meetyourfight",
+      "name": "Meet Your Fight",
+      "version": "1.20.1-1.6.1"
+    },
+    {
+      "id": "mysticalagriculture",
+      "name": "Mystical Agriculture",
+      "version": "7.0.24"
+    },
+    {
+      "id": "world_setup",
+      "name": "World Setup",
+      "version": "0.3"
+    },
+    {
+      "id": "difficulty_enhancement",
+      "name": "Difficulty Enhancement",
+      "version": "2.0.11"
+    },
+    {
+      "id": "difficulty_enhancement_ftbe",
+      "name": "difficulty_enhancement_ftbe",
+      "version": "0.2"
+    },
+    {
+      "id": "nightlights",
+      "name": "Night Lights",
+      "version": "1.1"
+    },
+    {
+      "id": "hoporp",
+      "name": "HopoBetterRuinedPortals",
+      "version": "1.3.7c"
+    },
+    {
+      "id": "prettier_water",
+      "name": "Fancy Fluid",
+      "version": "0.2"
+    },
+    {
+      "id": "easy_villagers",
+      "name": "Easy Villagers",
+      "version": "1.20.1-1.1.23"
+    },
+    {
+      "id": "mes",
+      "name": "MoogsEndStructures",
+      "version": "2.1.0"
+    },
+    {
+      "id": "fastbench",
+      "name": "Fast Workbench",
+      "version": "8.0.4"
+    },
+    {
+      "id": "storagedrawers",
+      "name": "Storage Drawers",
+      "version": "12.15.1"
+    },
+    {
+      "id": "l2hostility",
+      "name": "L2 Hostility",
+      "version": "2.5.19"
+    },
+    {
+      "id": "l2_imaginebreakerdispell",
+      "name": "L2 Imagine Breaker Dispell",
+      "version": "0.1.0"
+    },
+    {
+      "id": "doespotatotick",
+      "name": "DoesPotatoTick",
+      "version": "1.20.1-5.6.3"
+    },
+    {
+      "id": "fancymenu",
+      "name": "FancyMenu",
+      "version": "3.9.14"
+    },
+    {
+      "id": "brute_force_culling_revived",
+      "name": "Brute Force Culling Revived",
+      "version": "2.2.2"
+    },
+    {
+      "id": "hit_indicator",
+      "name": "Hit Indicator",
+      "version": "1.7.3"
+    },
+    {
+      "id": "ferritecore",
+      "name": "Ferrite Core",
+      "version": "6.0.1"
+    },
+    {
+      "id": "modularrouters",
+      "name": "Modular Routers",
+      "version": "12.1.1+mc1.20.1"
+    },
+    {
+      "id": "badoptimizations",
+      "name": "BadOptimizations",
+      "version": "2.4.1"
+    },
+    {
+      "id": "overflowingbars",
+      "name": "Overflowing Bars",
+      "version": "8.0.1"
+    },
+    {
+      "id": "openloader",
+      "name": "OpenLoader",
+      "version": "19.0.5"
+    },
+    {
+      "id": "slabs",
+      "name": "Slabs",
+      "version": "0.2"
+    },
+    {
+      "id": "createaddition",
+      "name": "Create Crafts & Additions",
+      "version": "1.20.1-1.3.3"
+    },
+    {
+      "id": "smsn",
+      "name": "Save My Shit Network",
+      "version": "1.4.3-1.20.1"
+    },
+    {
+      "id": "man_of_many_planes",
+      "name": "Man of Many Planes",
+      "version": "0.2.1+1.20.1"
+    },
+    {
+      "id": "netherexp",
+      "name": "Jaden's Nether Expansion",
+      "version": "2.3.5"
+    },
+    {
+      "id": "efficient_hashing",
+      "name": "Efficient Hashing",
+      "version": "1.0.0"
+    },
+    {
+      "id": "celestial_enchantments",
+      "name": "Celestial Enchantments",
+      "version": "1.3.7"
+    },
+    {
+      "id": "armageddon_tooltip_tier",
+      "name": "Armageddon Tooltip Tier",
+      "version": "1.2"
+    },
+    {
+      "id": "playeranimator",
+      "name": "Player Animator",
+      "version": "1.0.2-rc1+1.20"
+    },
+    {
+      "id": "irons_spellbooks",
+      "name": "Iron's Spells 'n Spellbooks",
+      "version": "1.20.1-3.15.6"
+    },
+    {
+      "id": "botarium",
+      "name": "Botarium",
+      "version": "2.3.4"
+    },
+    {
+      "id": "ponder",
+      "name": "Ponder",
+      "version": "1.0.92"
+    },
+    {
+      "id": "mcwwindows",
+      "name": "Macaw's Windows",
+      "version": "2.4.2"
+    },
+    {
+      "id": "jasione",
+      "name": "Jasione",
+      "version": "1.0.9+1.20.1-forge"
+    },
+    {
+      "id": "goety",
+      "name": "Goety",
+      "version": "2.5.54.5"
+    },
+    {
+      "id": "plushie_buddies",
+      "name": "Plushie Buddies",
+      "version": "1.0.1-1.20.1"
+    },
+    {
+      "id": "powah",
+      "name": "Powah",
+      "version": "5.0.11"
+    },
+    {
+      "id": "knockback_modifications",
+      "name": "Knockback modifications",
+      "version": "1.0"
+    },
+    {
+      "id": "medievalend",
+      "name": "Medieval Buildings [The End Edition]",
+      "version": "1.0.1"
+    },
+    {
+      "id": "caster_curios_bonus",
+      "name": "Caster Curios Bonus",
+      "version": "1.20.1-1.1.1"
+    },
+    {
+      "id": "balm",
+      "name": "Balm",
+      "version": "7.3.43"
+    },
+    {
+      "id": "extrahnn",
+      "name": "Extra Hostile Neural Networks",
+      "version": "1.2.2"
+    },
+    {
+      "id": "sanguine_networks",
+      "name": "Sanguine Neural Networks",
+      "version": "2.0"
+    },
+    {
+      "id": "immersive_armors",
+      "name": "Immersive Armors",
+      "version": "1.7.2+1.20.1"
+    },
+    {
+      "id": "byepregen",
+      "name": "ByePregen",
+      "version": "1.0.2.2"
+    },
+    {
+      "id": "projectile_damage",
+      "name": "Projectile Damage Attribute",
+      "version": "3.2.2+1.20.1"
+    },
+    {
+      "id": "betterthanmending",
+      "name": "BetterThanMending",
+      "version": "1.7.2"
+    },
+    {
+      "id": "structure_layout_optimizer",
+      "name": "Structure Layout Optimizer",
+      "version": "1.0.11"
+    },
+    {
+      "id": "crash_assistant",
+      "name": "Crash Assistant",
+      "version": "1.11.12"
+    },
+    {
+      "id": "lumenite",
+      "name": "Lumenite",
+      "version": "0.5"
+    },
+    {
+      "id": "leavesbegone",
+      "name": "Leaves Be Gone",
+      "version": "8.0.0"
+    },
+    {
+      "id": "capability_fix_revived",
+      "name": "Capability Fix Revived",
+      "version": "0.3"
+    },
+    {
+      "id": "lmft",
+      "name": "Load My F***ing Tags",
+      "version": "1.0.4+1.20.1"
+    },
+    {
+      "id": "glodium",
+      "name": "Glodium",
+      "version": "1.20-1.5-forge"
+    },
+    {
+      "id": "ae2insertexportcard",
+      "name": "AE2 Insert Export Card",
+      "version": "1.20.1-1.3.0"
+    },
+    {
+      "id": "w2w2",
+      "name": "Xaero's Map - Waystones Compability",
+      "version": "1.1"
+    },
+    {
+      "id": "terramity",
+      "name": "Terramity",
+      "version": "0.9.8"
+    },
+    {
+      "id": "mr_ati_structuresfabricforge",
+      "name": "ATi Structures",
+      "version": "1.4.5"
+    },
+    {
+      "id": "torchmaster",
+      "name": "Torchmaster",
+      "version": "20.1.9"
+    },
+    {
+      "id": "let_there_be_atmosphere",
+      "name": "Let There Be Atmosphere",
+      "version": "0.51"
+    },
+    {
+      "id": "explorify",
+      "name": "Explorify",
+      "version": "1.6.5"
+    },
+    {
+      "id": "end_villager_outpost",
+      "name": "End Villager Outpost",
+      "version": "1.0.0"
+    },
+    {
+      "id": "goetydelight",
+      "name": "Goety Delight",
+      "version": "1.4.8"
+    },
+    {
+      "id": "my_favorite_item",
+      "name": "My Favorite Item",
+      "version": "1.6"
+    },
+    {
+      "id": "resourcefulconfig",
+      "name": "Resourcefulconfig",
+      "version": "2.1.3"
+    },
+    {
+      "id": "servercore",
+      "name": "ServerCore",
+      "version": "1.5.2+1.20.1"
+    },
+    {
+      "id": "mr_tidal_towns",
+      "name": "Tidal Towns",
+      "version": "2.0"
+    },
+    {
+      "id": "wdutils",
+      "name": "wd's Utils",
+      "version": "1.9.3-FORGE-1.20.1"
+    },
+    {
+      "id": "curios",
+      "name": "Curios API",
+      "version": "5.14.1+1.20.1"
+    },
+    {
+      "id": "oddaccessories",
+      "name": "Odd Accessories",
+      "version": "1.1.6"
+    },
+    {
+      "id": "searchables",
+      "name": "Searchables",
+      "version": "1.0.3"
+    },
+    {
+      "id": "threadtweak",
+      "name": "ThreadTweak",
+      "version": "1.0.0"
+    },
+    {
+      "id": "linggango_tweaks",
+      "name": "Linggango Tweaks",
+      "version": "5.85"
+    },
+    {
+      "id": "jade",
+      "name": "Beryl",
+      "version": "11.13.3"
+    },
+    {
+      "id": "conditional_mixin",
+      "name": "conditional mixin",
+      "version": "0.6.4"
+    },
+    {
+      "id": "celestisynth",
+      "name": "Celestisynth",
+      "version": "1.20.1-1.3.4"
+    },
+    {
+      "id": "codechickenlib",
+      "name": "CodeChicken Lib",
+      "version": "4.4.0.528"
+    },
+    {
+      "id": "bettermineshafts",
+      "name": "YUNG's Better Mineshafts",
+      "version": "1.20-Forge-4.0.4"
+    },
+    {
+      "id": "mezz_config",
+      "name": "MezzConfig",
+      "version": "0.6.3"
+    },
+    {
+      "id": "mowziesmobs",
+      "name": "Mowzie's Mobs",
+      "version": "1.8.2"
+    },
+    {
+      "id": "l2tabs",
+      "name": "L2 Tabs",
+      "version": "0.3.3"
+    },
+    {
+      "id": "tonsofenchants",
+      "name": "Tons Of Enchants",
+      "version": "1.0.0"
+    },
+    {
+      "id": "jei",
+      "name": "Just Enough Items",
+      "version": "15.62.0.214"
+    },
+    {
+      "id": "armageddon_jei",
+      "name": "Armageddon JEI Integration",
+      "version": "1.0.0"
+    },
+    {
+      "id": "species",
+      "name": "Species",
+      "version": "3.5"
+    },
+    {
+      "id": "pehkui",
+      "name": "Pehkui",
+      "version": "3.8.2+1.20.1-forge"
+    },
+    {
+      "id": "mekanism",
+      "name": "Mekanism",
+      "version": "10.4.16"
+    },
+    {
+      "id": "mekaweapons",
+      "name": "Mekanism: Weapons",
+      "version": "4.2.1"
+    },
+    {
+      "id": "mekanismgenerators",
+      "name": "Mekanism: Generators",
+      "version": "10.4.16"
+    },
+    {
+      "id": "evolvedmekanism",
+      "name": "Evolved Mekanism",
+      "version": "1.2.1-fix4"
+    },
+    {
+      "id": "naturescompass",
+      "name": "Nature's Compass",
+      "version": "1.20.1-1.12.0-forge"
+    },
+    {
+      "id": "somakespells",
+      "name": "SomakeSpells",
+      "version": "1.0.7"
+    },
+    {
+      "id": "localization_related_crash_fix",
+      "name": "Localization Related Crash Fix",
+      "version": "0.2"
+    },
+    {
+      "id": "darkermagic",
+      "name": "Deeper and Darker: Spellbooks",
+      "version": "1.3.1-1.20.1"
+    },
+    {
+      "id": "snuffles",
+      "name": "Snuffles",
+      "version": "1.2.0.1"
+    },
+    {
+      "id": "runiclib",
+      "name": "RunicLib",
+      "version": "4.3.7"
+    },
+    {
+      "id": "simply_swords_overhaul",
+      "name": "Simply Swords Overhaul",
+      "version": "1.0.4-1.20.1"
+    },
+    {
+      "id": "whatslaggin",
+      "name": "whatslaggin",
+      "version": "1.0.1"
+    },
+    {
+      "id": "puzzlesaccessapi",
+      "name": "Puzzles Access Api",
+      "version": "20.1.1"
+    },
+    {
+      "id": "mob_spawn_fix",
+      "name": "Mob Spawn Fix",
+      "version": "0.4"
+    },
+    {
+      "id": "dungeons_arise_seven_seas",
+      "name": "When Dungeons Arise: Seven Seas",
+      "version": "1.0.2"
+    },
+    {
+      "id": "ad_astra_more_structures",
+      "name": "Ad Astra: More Structures",
+      "version": "1.0.2"
+    },
+    {
+      "id": "forge",
+      "name": "Forge",
+      "version": "47.4.20"
+    },
+    {
+      "id": "aci",
+      "name": "AdvancedCoreInfo",
+      "version": "1.2.0"
+    },
+    {
+      "id": "cofh_core",
+      "name": "CoFH Core",
+      "version": "11.0.2"
+    },
+    {
+      "id": "thermal",
+      "name": "Thermal Series",
+      "version": "11.0.6"
+    },
+    {
+      "id": "thermal_integration",
+      "name": "Thermal Integration",
+      "version": "11.0.1"
+    },
+    {
+      "id": "thermal_cultivation",
+      "name": "Thermal Cultivation",
+      "version": "11.0.1"
+    },
+    {
+      "id": "appleskin",
+      "name": "AppleSkin",
+      "version": "2.5.1+mc1.20.1"
+    },
+    {
+      "id": "opposing_force",
+      "name": "Opposing Force",
+      "version": "1.0.0"
+    },
+    {
+      "id": "ali",
+      "name": "AdvancedLootInfo",
+      "version": "2.2.0"
+    },
+    {
+      "id": "fastali",
+      "name": "FastALI",
+      "version": "2.1"
+    },
+    {
+      "id": "thermal_innovation",
+      "name": "Thermal Innovation",
+      "version": "11.0.1"
+    },
+    {
+      "id": "thermal_foundation",
+      "name": "Thermal Foundation",
+      "version": "11.0.6"
+    },
+    {
+      "id": "thermal_dynamics",
+      "name": "Thermal Dynamics",
+      "version": "11.0.1"
+    },
+    {
+      "id": "tooltipoverhaul",
+      "name": "Tooltip Overhaul",
+      "version": "2.0.0"
+    },
+    {
+      "id": "idas",
+      "name": "Integrated Dungeons and Structures",
+      "version": "1.13.0+1.20.1"
+    },
+    {
+      "id": "drippyloadingscreen",
+      "name": "Drippy Loading Screen",
+      "version": "3.1.5"
+    },
+    {
+      "id": "simplebackups",
+      "name": "Simple Backups",
+      "version": "1.20.1-3.1.18"
+    },
+    {
+      "id": "goetyhostility",
+      "name": "Goety Hostility",
+      "version": "1.4.4"
+    },
+    {
+      "id": "mousetweaks",
+      "name": "Mouse Tweaks",
+      "version": "2.25.1"
+    },
+    {
+      "id": "bettercombat",
+      "name": "Better Combat",
+      "version": "1.9.0+1.20.1"
+    },
+    {
+      "id": "better_spellcasting",
+      "name": "Better Spellcasting",
+      "version": "1.0.0"
+    },
+    {
+      "id": "immersiveengineering",
+      "name": "Immersive Engineering",
+      "version": "1.20.1-10.2.0-183"
+    },
+    {
+      "id": "createoreexcavation",
+      "name": "Create Ore Excavation",
+      "version": "1.6.6"
+    },
+    {
+      "id": "ohthetreesyoullgrow",
+      "name": "Oh The Trees You'll Grow",
+      "version": "1.7.1"
+    },
+    {
+      "id": "macabre",
+      "name": "macabre",
+      "version": "0.8.4"
+    },
+    {
+      "id": "spectrelib",
+      "name": "SpectreLib",
+      "version": "0.13.17+1.20.1"
+    },
+    {
+      "id": "weapon",
+      "name": "Kind of Nice Weapon",
+      "version": "0.1.5"
+    },
+    {
+      "id": "kotlinforforge",
+      "name": "Kotlin For Forge",
+      "version": "4.12.0"
+    },
+    {
+      "id": "xaerominimap",
+      "name": "Xaero's Minimap",
+      "version": "26.5.0"
+    },
+    {
+      "id": "integrated_stronghold",
+      "name": "Integrated Stronghold",
+      "version": "1.1.2+1.20.1-forge"
+    },
+    {
+      "id": "polymorph",
+      "name": "Polymorph",
+      "version": "0.49.11+1.20.1"
+    },
+    {
+      "id": "zeta",
+      "name": "Zeta",
+      "version": "1.0-31"
+    },
+    {
+      "id": "ftbquestlocalizer",
+      "name": "FTB Quests Localizer",
+      "version": "3.2.3"
+    },
+    {
+      "id": "cable_facades",
+      "name": "Cable Facades",
+      "version": "2.1.3"
+    },
+    {
+      "id": "mob_weapon_api",
+      "name": "Mob Weapon API",
+      "version": "0.2.13"
+    },
+    {
+      "id": "gnetum",
+      "name": "Gnetum",
+      "version": "2.5.1+1.20.1-forge"
+    },
+    {
+      "id": "puzzleslib",
+      "name": "Puzzles Lib",
+      "version": "8.1.33"
+    },
+    {
+      "id": "awi",
+      "name": "AdvancedWorldgenInfo",
+      "version": "1.0.0"
+    },
+    {
+      "id": "mns",
+      "name": "MoogsNetherStructures",
+      "version": "3.1.0"
+    },
+    {
+      "id": "lazyyyyy",
+      "name": "Lazyyyyy",
+      "version": "0.14.19"
+    },
+    {
+      "id": "chunksending",
+      "name": "chunksending mod",
+      "version": "1.20.1-4.1"
+    },
+    {
+      "id": "deuf",
+      "name": "DEUF - Duplicate Entity UUID Fix",
+      "version": "1.20.1-1.3"
+    },
+    {
+      "id": "hexerei",
+      "name": "Hexerei",
+      "version": "1.20.1-0.4.2.3"
+    },
+    {
+      "id": "transmog",
+      "name": "Transmog",
+      "version": "1.3.0+1.20"
+    },
+    {
+      "id": "netherportalfix",
+      "name": "NetherPortalFix",
+      "version": "13.0.1"
+    },
+    {
+      "id": "geckolib",
+      "name": "GeckoLib 4",
+      "version": "4.8.4"
+    },
+    {
+      "id": "morehitboxes",
+      "name": "morehitboxes",
+      "version": "1.9.2"
+    },
+    {
+      "id": "biomeswevegone",
+      "name": "Oh The Biomes We've Gone",
+      "version": "1.8.0"
+    },
+    {
+      "id": "brutality",
+      "name": "Brutality",
+      "version": "0.8.5-1.20.1"
+    },
+    {
+      "id": "lethality_guard",
+      "name": "Lethality Guard",
+      "version": "0.0NONE"
+    },
+    {
+      "id": "ars_nouveau",
+      "name": "Ars Nouveau",
+      "version": "4.12.7"
+    },
+    {
+      "id": "ars_elemental",
+      "name": "Ars Elemental",
+      "version": "0.6.8.0"
+    },
+    {
+      "id": "not_enough_glyphs",
+      "name": "Not Enough Glyphs",
+      "version": "1.20.1-3.2.1.1"
+    },
+    {
+      "id": "summonity",
+      "name": "Summonity",
+      "version": "0.1.6"
+    },
+    {
+      "id": "recipeessentials",
+      "name": "recipeessentials mod",
+      "version": "1.20.1-4.7"
+    },
+    {
+      "id": "mos",
+      "name": "MoogsOceanStructures",
+      "version": "1.1.0"
+    },
+    {
+      "id": "l2archery",
+      "name": "L2 Archery",
+      "version": "2.5.0"
+    },
+    {
+      "id": "connectivity",
+      "name": "Connectivity Mod",
+      "version": "1.20.1-7.7"
+    },
+    {
+      "id": "immersive_aircraft",
+      "name": "Immersive Aircraft",
+      "version": "1.5.0+1.20.1"
+    },
+    {
+      "id": "xaeroworldmap",
+      "name": "Xaero's World Map",
+      "version": "1.46.0"
+    },
+    {
+      "id": "cookingforblockheads",
+      "name": "CookingForBlockheads",
+      "version": "16.0.15"
+    },
+    {
+      "id": "controlling",
+      "name": "Controlling",
+      "version": "12.0.2"
+    },
+    {
+      "id": "citadel",
+      "name": "Citadel",
+      "version": "2.6.3"
+    },
+    {
+      "id": "lightercitadel",
+      "name": "LighterCitadel",
+      "version": "1.0"
+    },
+    {
+      "id": "refined_mod",
+      "name": "Refined Mod",
+      "version": "1.20.1-1.1.4"
+    },
+    {
+      "id": "alexsmobs",
+      "name": "Alex's Mobs",
+      "version": "1.22.9"
+    },
+    {
+      "id": "domesticationinnovation",
+      "name": "Domestication Innovation",
+      "version": "1.7.1"
+    },
+    {
+      "id": "lethality",
+      "name": "Lethality",
+      "version": "0.3-1.20.1"
+    },
+    {
+      "id": "biomespy",
+      "name": "BiomeSpy",
+      "version": "1.3.3"
+    },
+    {
+      "id": "relics",
+      "name": "Relics",
+      "version": "0.8.0.13"
+    },
+    {
+      "id": "ars_n_spells",
+      "name": "Ars 'n' Spells",
+      "version": "3.2.0"
+    },
+    {
+      "id": "translations_extractor",
+      "name": "Translations Extractor",
+      "version": "1.3.1"
+    },
+    {
+      "id": "cheaplighting",
+      "name": "CheapLighting",
+      "version": "1.0"
+    },
+    {
+      "id": "attributesetter",
+      "name": "AttributeSetter",
+      "version": "2.1.1-forge"
+    },
+    {
+      "id": "dummmmmmy",
+      "name": "MmmMmmMmmMmm",
+      "version": "1.20-2.0.11"
+    },
+    {
+      "id": "mob_grinding_utils",
+      "name": "Mob Grinding Utils",
+      "version": "1.20.1-1.1.0"
+    },
+    {
+      "id": "composite_material",
+      "name": "Composite Material",
+      "version": "1.2.8"
+    },
+    {
+      "id": "better_climbing",
+      "name": "Better Climbing",
+      "version": "3"
+    },
+    {
+      "id": "arseng",
+      "name": "Ars Énergistique",
+      "version": "1.2.0"
+    },
+    {
+      "id": "crashexploitfixer",
+      "name": "CrashExploitFixer",
+      "version": "2.0.0"
+    },
+    {
+      "id": "farmersdelight",
+      "name": "Farmer's Delight",
+      "version": "1.20.1-1.2.11a"
+    },
+    {
+      "id": "dungeonsdelight",
+      "name": "Dungeon's Delight",
+      "version": "1.2.10"
+    },
+    {
+      "id": "starcatcher",
+      "name": "starcatcher",
+      "version": "3.1.4.6-FORGE-1.20.1"
+    },
+    {
+      "id": "info_on_death",
+      "name": "Info On Death",
+      "version": "1.2"
+    },
+    {
+      "id": "armageddon_boss_dimensions",
+      "name": "Armageddon Boss Dimensions",
+      "version": "2.7"
+    },
+    {
+      "id": "endrem",
+      "name": "End Remastered",
+      "version": "5.3.3-R-1.20.1"
+    },
+    {
+      "id": "mcwfences",
+      "name": "Macaw's Fences and Walls",
+      "version": "1.2.1"
+    },
+    {
+      "id": "bfendcities",
+      "name": "Big F&$%ing End Cities",
+      "version": "1.0"
+    },
+    {
+      "id": "gtbcs_spell_lib",
+      "name": "GTBC's SpellLib",
+      "version": "1.5.0-1.20.1"
+    },
+    {
+      "id": "patchouli",
+      "name": "Patchouli",
+      "version": "1.20.1-85-FORGE"
+    },
+    {
+      "id": "adamsarsplus",
+      "name": "Adam's Ars Plus",
+      "version": "1.20.1-5.0.3"
+    },
+    {
+      "id": "ars_additions",
+      "name": "Ars Additions",
+      "version": "1.20.1-1.6.7"
+    },
+    {
+      "id": "revelationfix",
+      "name": "RevelationFix",
+      "version": "4.0"
+    },
+    {
+      "id": "ending_library",
+      "name": "EndingLibraryTweaked",
+      "version": "2.1.19"
+    },
+    {
+      "id": "goety_revelation",
+      "name": "Goety: Revelation",
+      "version": "2.3"
+    },
+    {
+      "id": "thermal_expansion",
+      "name": "Thermal Expansion",
+      "version": "11.0.1"
+    },
+    {
+      "id": "xercapaint",
+      "name": "Joy of Painting",
+      "version": "1.20.1-2.0.0"
+    },
+    {
+      "id": "ftbultimine",
+      "name": "FTB Ultimine",
+      "version": "2001.1.8"
+    },
+    {
+      "id": "enigmaticlegacy",
+      "name": "Enigmatic Legacy",
+      "version": "2.30.1"
+    },
+    {
+      "id": "resourcefullib",
+      "name": "Resourceful Lib",
+      "version": "2.1.29"
+    },
+    {
+      "id": "mekanismtools",
+      "name": "Mekanism: Tools",
+      "version": "10.4.16"
+    },
+    {
+      "id": "deeperdarker",
+      "name": "Deeper and Darker",
+      "version": "1.3.3"
+    },
+    {
+      "id": "architectury",
+      "name": "Architectury",
+      "version": "9.2.14"
+    },
+    {
+      "id": "lost_architects",
+      "name": "Lost Architects",
+      "version": "1.0.4"
+    },
+    {
+      "id": "too_many_bows",
+      "name": "Too Many Bows",
+      "version": "4.1.2"
+    },
+    {
+      "id": "perception",
+      "name": "Perception",
+      "version": "0.1.4"
+    },
+    {
+      "id": "simplyswords",
+      "name": "Simply Swords",
+      "version": "1.56.0-1.20.1"
+    },
+    {
+      "id": "simplymore",
+      "name": "Simply More",
+      "version": "1.1.3"
+    },
+    {
+      "id": "ftblibrary",
+      "name": "FTB Library",
+      "version": "2001.2.13"
+    },
+    {
+      "id": "ftbteams",
+      "name": "FTB Teams",
+      "version": "2001.3.2"
+    },
+    {
+      "id": "ftbchunks",
+      "name": "FTB Chunks",
+      "version": "2001.3.8"
+    },
+    {
+      "id": "crittersandcompanions",
+      "name": "Critters and Companions",
+      "version": "2.7.1"
+    },
+    {
+      "id": "linggango_fixes",
+      "name": "Linggango Fixes",
+      "version": "1.98"
+    },
+    {
+      "id": "moogs_structures",
+      "name": "Moog's Structure Lib",
+      "version": "3.3.1"
+    },
+    {
+      "id": "inventoryessentials",
+      "name": "Inventory Essentials",
+      "version": "8.2.19"
+    },
+    {
+      "id": "despawnings",
+      "name": "Despawnings",
+      "version": "1.3"
+    },
+    {
+      "id": "justdirethings",
+      "name": "Just Dire Things",
+      "version": "1.1.7"
+    },
+    {
+      "id": "toomanyglyphs",
+      "name": "Too Many Glyphs",
+      "version": "2.3.2.12345"
+    },
+    {
+      "id": "fastjei",
+      "name": "FastJEI",
+      "version": "2.0"
+    },
+    {
+      "id": "rhino",
+      "name": "Rhino",
+      "version": "2001.2.3-build.10"
+    },
+    {
+      "id": "kubejs",
+      "name": "Linggango",
+      "version": "2001.6.5-build.26"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber Library",
+      "version": "7.0.16"
+    },
+    {
+      "id": "treasuredistance",
+      "name": "Treasure Distance mod",
+      "version": "1.20-1.2"
+    },
+    {
+      "id": "asyncparticles",
+      "name": "AsyncParticles",
+      "version": "20.1.4.0-beta.2"
+    },
+    {
+      "id": "sophisticatedstorage",
+      "name": "Sophisticated Storage",
+      "version": "1.5.0.2137"
+    },
+    {
+      "id": "snad",
+      "name": "Snad",
+      "version": "20.1.0"
+    },
+    {
+      "id": "octolib",
+      "name": "OctoLib",
+      "version": "0.5.0.1"
+    },
+    {
+      "id": "mss",
+      "name": "MoogsSoaringStructures",
+      "version": "2.1.0"
+    },
+    {
+      "id": "elysium_api",
+      "name": "Elysium",
+      "version": "1.1.3"
+    },
+    {
+      "id": "itemfilters",
+      "name": "Item Filters",
+      "version": "2001.1.0-build.59"
+    },
+    {
+      "id": "ftbquests",
+      "name": "FTB Quests",
+      "version": "2001.4.22"
+    },
+    {
+      "id": "ftbxmodcompat",
+      "name": "FTB XMod Compat",
+      "version": "2.1.3"
+    },
+    {
+      "id": "misanthropyquestadditionsomg",
+      "name": "MisanthropyQuestAdditionsomg",
+      "version": "0.3.0"
+    },
+    {
+      "id": "hazennstuff",
+      "name": "Hazen 'n Stuff",
+      "version": "1.1.2"
+    },
+    {
+      "id": "mowzies_cataclysm",
+      "name": "Mowzie's Cataclysm",
+      "version": "1.2.0"
+    },
+    {
+      "id": "bettercombatadditions",
+      "name": "BetterCombatAdditions",
+      "version": "0.5"
+    },
+    {
+      "id": "slashh",
+      "name": "Slashh",
+      "version": "2.7"
+    },
+    {
+      "id": "trender",
+      "name": "TRender",
+      "version": "1.0.17"
+    },
+    {
+      "id": "ponderjs",
+      "name": "PonderJS",
+      "version": "2.1.0"
+    },
+    {
+      "id": "create",
+      "name": "Create",
+      "version": "6.0.8"
+    },
+    {
+      "id": "kubejs_create",
+      "name": "KubeJS Create",
+      "version": "2001.3.0-build.8"
+    },
+    {
+      "id": "ars_creo",
+      "name": "Ars Creo",
+      "version": "4.3.0"
+    },
+    {
+      "id": "createfix",
+      "name": "CreateFix",
+      "version": "1.0.0"
+    },
+    {
+      "id": "sliceanddice",
+      "name": "Create Slice & Dice",
+      "version": "3.6.0"
+    },
+    {
+      "id": "create_central_kitchen",
+      "name": "Create: Central Kitchen",
+      "version": "1.4.3b"
+    },
+    {
+      "id": "waystones",
+      "name": "Waystones",
+      "version": "14.1.21"
+    },
+    {
+      "id": "structory",
+      "name": "Structory",
+      "version": "1.3.5"
+    },
+    {
+      "id": "legendary_spellbooks",
+      "name": "Legendary Spellbooks",
+      "version": "0.4.1"
+    },
+    {
+      "id": "fastsuite",
+      "name": "Fast Suite",
+      "version": "5.1.2"
+    },
+    {
+      "id": "comforts",
+      "name": "Comforts",
+      "version": "6.4.0+1.20.1"
+    },
+    {
+      "id": "fromtheshadows",
+      "name": "From the Shadows Reborn",
+      "version": "2.9"
+    },
+    {
+      "id": "bosgoety",
+      "name": "Box Of Structures: Goety",
+      "version": "1.20.1-1.1.0"
+    },
+    {
+      "id": "configured",
+      "name": "Configured",
+      "version": "2.2.3"
+    },
+    {
+      "id": "enigmaticaddons",
+      "name": "Enigmatic Addons",
+      "version": "1.2.6"
+    },
+    {
+      "id": "enigmaticdelicacy",
+      "name": "Enigmatic Delicacy",
+      "version": "1.0.1"
+    },
+    {
+      "id": "dungeoncrawl",
+      "name": "Dungeon Crawl",
+      "version": "2.3.15"
+    },
+    {
+      "id": "mtr",
+      "name": "MoogsTemplesReimagined",
+      "version": "2.0.3"
+    },
+    {
+      "id": "guideme",
+      "name": "GuideME",
+      "version": "20.1.15"
+    },
+    {
+      "id": "ae2",
+      "name": "Applied Energistics 2",
+      "version": "15.4.10"
+    },
+    {
+      "id": "aeinfinitybooster",
+      "name": "AEInfinityBooster",
+      "version": "1.20.1-1.0.0+51"
+    },
+    {
+      "id": "ae2wtlib",
+      "name": "AE2WTLib",
+      "version": "15.3.3-forge"
+    },
+    {
+      "id": "expatternprovider",
+      "name": "ExtendedAE",
+      "version": "1.20-1.4.21-forge"
+    },
+    {
+      "id": "ae2things",
+      "name": "AE2 Things",
+      "version": "1.2.1"
+    },
+    {
+      "id": "polyeng",
+      "name": "Polymorphic Energistics",
+      "version": "0.1.1-1.20.1"
+    },
+    {
+      "id": "appflux",
+      "name": "AppliedFlux",
+      "version": "1.20-1.3.7-forge"
+    },
+    {
+      "id": "merequester",
+      "name": "ME Requester",
+      "version": "1.20.1-1.2.1"
+    },
+    {
+      "id": "toms_storage_star_optimized",
+      "name": "Toms Storage Star Optimized",
+      "version": "1.0.1"
+    },
+    {
+      "id": "mahoutsukai",
+      "name": "Mahou Tsukai",
+      "version": "1.20.1-v1.34.81"
+    },
+    {
+      "id": "blockswap",
+      "name": "Block Swap",
+      "version": "5.0.0.0"
+    },
+    {
+      "id": "enderstorage",
+      "name": "EnderStorage",
+      "version": "2.11.0.188"
+    },
+    {
+      "id": "castle_dungeons",
+      "name": "Castle Dungeons",
+      "version": "4.0.0"
+    },
+    {
+      "id": "bloodmagic",
+      "name": "Blood Magic",
+      "version": "3.3.8-50"
+    },
+    {
+      "id": "covenant_of_the_seven",
+      "name": "Sanctified Legacy",
+      "version": "2.2.6-hotfix"
+    },
+    {
+      "id": "tomeofblood",
+      "name": "Tome of Blood: Rebirth",
+      "version": "0.4.5"
+    },
+    {
+      "id": "animus",
+      "name": "Animus",
+      "version": "3.0.35"
+    },
+    {
+      "id": "alexscaves",
+      "name": "Alex's Caves",
+      "version": "2.0.2"
+    },
+    {
+      "id": "tact",
+      "name": "TACT",
+      "version": "1.5.3"
+    },
+    {
+      "id": "enchdesc",
+      "name": "EnchantmentDescriptions",
+      "version": "17.1.21"
+    },
+    {
+      "id": "moonlight",
+      "name": "Moonlight Library",
+      "version": "1.20-2.16.35"
+    },
+    {
+      "id": "bf_blockpack",
+      "name": "Block Pack",
+      "version": "1.1.2"
+    },
+    {
+      "id": "titanium",
+      "name": "Titanium",
+      "version": "3.8.34"
+    },
+    {
+      "id": "mixinsquared",
+      "name": "MixinSquared",
+      "version": "0.3.7-beta.3"
+    },
+    {
+      "id": "bowenchants",
+      "name": "Advanced Bow Enchantments",
+      "version": "1.2.0"
+    },
+    {
+      "id": "integrated_seven_seas",
+      "name": "Integrated Seven Seas",
+      "version": "1.0.0"
+    },
+    {
+      "id": "textanimator",
+      "name": "Text Animator",
+      "version": "2.5.4"
+    },
+    {
+      "id": "ribbits",
+      "name": "Ribbits",
+      "version": "1.20.1-Forge-3.0.5"
+    },
+    {
+      "id": "quark",
+      "name": "Quark",
+      "version": "4.0-462"
+    },
+    {
+      "id": "supplementaries",
+      "name": "Supplementaries",
+      "version": "1.20-3.1.43"
+    },
+    {
+      "id": "amendments",
+      "name": "Amendments",
+      "version": "1.20-2.2.6"
+    },
+    {
+      "id": "brutalbosses",
+      "name": "brutalbosses mod",
+      "version": "1.20.1-8.5"
+    },
+    {
+      "id": "ranged_weapon_api",
+      "name": "RangedWeaponAPI",
+      "version": "1.1.4+1.20.1"
+    },
+    {
+      "id": "nullscape",
+      "name": "Nullscape",
+      "version": "1.2.8"
+    },
+    {
+      "id": "legendary_monsters",
+      "name": "LegendaryMonsters",
+      "version": "1.20.1"
+    },
+    {
+      "id": "boslm",
+      "name": "Box of Structures: Legendary Monsters",
+      "version": "1.20.1-1.1.0"
+    },
+    {
+      "id": "blessfulled",
+      "name": "Blessfulled",
+      "version": "0.6"
+    },
+    {
+      "id": "mekanismcardboardtooltip",
+      "name": "Mekanism Cardboard Tooltip",
+      "version": "1.4.0"
+    },
+    {
+      "id": "kerria",
+      "name": "Kerria",
+      "version": "1.3.2+1.20.1-forge"
+    },
+    {
+      "id": "tips_enhancement",
+      "name": "Tips Enhancement",
+      "version": "1.8"
+    },
+    {
+      "id": "mvs",
+      "name": "MoogsVoyagerStructures",
+      "version": "5.1.3"
+    },
+    {
+      "id": "alexsdelight",
+      "name": "Alex's Delight",
+      "version": "1.5"
+    },
+    {
+      "id": "yet_another_config_lib_v3",
+      "name": "YetAnotherConfigLib",
+      "version": "3.6.6+1.20.1-forge"
+    },
+    {
+      "id": "solcarrot",
+      "name": "Spice of Life: Carrot Edition",
+      "version": "1.15.1"
+    },
+    {
+      "id": "l2itemselector",
+      "name": "L2 Item Selector",
+      "version": "0.2.0"
+    },
+    {
+      "id": "lithoform",
+      "name": "Lithoform",
+      "version": "0.43.0"
+    },
+    {
+      "id": "appmek",
+      "name": "Applied Mekanistics",
+      "version": "1.4.3"
+    },
+    {
+      "id": "megacells",
+      "name": "MEGA Cells",
+      "version": "2.4.6-1.20.1"
+    },
+    {
+      "id": "expandability",
+      "name": "ExpandAbility",
+      "version": "9.0.4"
+    },
+    {
+      "id": "celestisynth_fix",
+      "name": "Celestisynth Fix",
+      "version": "0.1"
+    }
+  ],
+  "languages": [
+    "en_us",
+    "ru_ru"
+  ],
+  "attributes": {
+    "animus:bonus_sacrifice": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1000.0,
+      "key": "attribute.animus.bonus_sacrifice",
+      "playerBase": 0.0
+    },
+    "animus:sigil_cost_reduction": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 100.0,
+      "key": "attribute.animus.sigil_cost_reduction",
+      "playerBase": 0.0
+    },
+    "ars_nouveau:ars_nouveau.perk.mana_regen": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 2000.0,
+      "key": "ars_nouveau.perk.mana_regen",
+      "playerBase": 0.0
+    },
+    "ars_nouveau:ars_nouveau.perk.max_mana": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 10000.0,
+      "key": "ars_nouveau.perk.max_mana",
+      "playerBase": 0.0
+    },
+    "ars_nouveau:ars_nouveau.perk.spell_damage": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 10000.0,
+      "key": "ars_nouveau.perk.spell_damage",
+      "playerBase": 0.0
+    },
+    "ars_nouveau:ars_nouveau.perk.warding": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1024.0,
+      "key": "ars_nouveau.perk.warding",
+      "playerBase": 0.0
+    },
+    "attributeslib:armor_pierce": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1000.0,
+      "key": "attributeslib:armor_pierce",
+      "playerBase": 0.0
+    },
+    "attributeslib:armor_shred": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 2.0,
+      "key": "attributeslib:armor_shred",
+      "playerBase": 0.0
+    },
+    "attributeslib:arrow_damage": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 10.0,
+      "key": "attributeslib:arrow_damage",
+      "playerBase": 1.0
+    },
+    "attributeslib:cold_damage": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1000.0,
+      "key": "attributeslib:cold_damage",
+      "playerBase": 0.0
+    },
+    "attributeslib:crit_chance": {
+      "default": 0.05,
+      "min": 0.0,
+      "max": 10.0,
+      "key": "attributeslib:crit_chance",
+      "playerBase": 0.05
+    },
+    "attributeslib:crit_damage": {
+      "default": 1.5,
+      "min": 1.0,
+      "max": 100.0,
+      "key": "attributeslib:crit_damage",
+      "playerBase": 1.5
+    },
+    "attributeslib:dodge_chance": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 0.4,
+      "key": "attributeslib:dodge_chance",
+      "playerBase": 0.0
+    },
+    "attributeslib:draw_speed": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 4.0,
+      "key": "attributeslib:draw_speed",
+      "playerBase": 1.0
+    },
+    "attributeslib:elytra_flight": {
+      "default": 0.0,
+      "key": "attributeslib:elytra_flight",
+      "playerBase": 0.0
+    },
+    "attributeslib:experience_gained": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 1000.0,
+      "key": "attributeslib:experience_gained",
+      "playerBase": 1.0
+    },
+    "attributeslib:fire_damage": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1000.0,
+      "key": "attributeslib:fire_damage",
+      "playerBase": 0.0
+    },
+    "attributeslib:healing_received": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 1000.0,
+      "key": "attributeslib:healing_received",
+      "playerBase": 1.0
+    },
+    "attributeslib:life_steal": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 10.0,
+      "key": "attributeslib:life_steal",
+      "playerBase": 0.0
+    },
+    "attributeslib:mining_speed": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 10.0,
+      "key": "attributeslib:mining_speed",
+      "playerBase": 1.0
+    },
+    "attributeslib:overheal": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 10.0,
+      "key": "attributeslib:overheal",
+      "playerBase": 0.0
+    },
+    "attributeslib:prot_shred": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1.0,
+      "key": "attributeslib:prot_shred",
+      "playerBase": 0.0
+    },
+    "block_factorys_bosses:burning_stability": {
+      "default": 0.0,
+      "min": -10.0,
+      "max": 10.0,
+      "key": "attribute.block_factorys_bosses.burning_stability",
+      "playerBase": 0.0
+    },
+    "brutality:critical_strike_chance": {
+      "default": 1.0,
+      "min": 1.0,
+      "max": 2.0,
+      "key": "attribute.name.generic.critical_strike_chance",
+      "playerBase": 1.0
+    },
+    "brutality:critical_strike_damage": {
+      "default": 1.4,
+      "min": -1024.0,
+      "max": 3.0,
+      "key": "attribute.name.generic.critical_strike_damage",
+      "playerBase": 1.4
+    },
+    "brutality:damage_taken": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 1024.0,
+      "key": "attribute.name.generic.damage_taken",
+      "playerBase": 1.0
+    },
+    "brutality:entity_visibility": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 1.0,
+      "key": "attribute.name.generic.entity_visibility",
+      "playerBase": 1.0
+    },
+    "brutality:jump_height": {
+      "default": 1.2522,
+      "min": 0.0,
+      "max": 1024.0,
+      "key": "attribute.name.generic.jump_height",
+      "playerBase": 1.2522
+    },
+    "brutality:lifesteal": {
+      "default": 1.0,
+      "min": 1.0,
+      "max": 1024.0,
+      "key": "attribute.name.generic.lifesteal",
+      "playerBase": 1.0
+    },
+    "brutality:omnivamp": {
+      "default": 1.0,
+      "min": 1.0,
+      "max": 1024.0,
+      "key": "attribute.name.generic.omnivamp",
+      "playerBase": 1.0
+    },
+    "brutality:stun_chance": {
+      "default": 1.0,
+      "min": 1.0,
+      "max": 2.0,
+      "key": "attribute.name.generic.stun_chance",
+      "playerBase": 1.0
+    },
+    "caelus:fall_flying": {
+      "default": 0.1,
+      "min": 0.0,
+      "max": 1.0,
+      "key": "caelus.fallFlying",
+      "playerBase": 0.1
+    },
+    "celestisynth:celestial_damage": {
+      "default": 1.0,
+      "min": -1024.0,
+      "max": 1024.0,
+      "key": "attribute.celestisynth.celestial_damage",
+      "playerBase": 1.0
+    },
+    "celestisynth:celestial_damage_reduction": {
+      "default": 1.0,
+      "min": -1024.0,
+      "max": 1024.0,
+      "key": "attribute.celestisynth.celestial_damage_reduction",
+      "playerBase": 1.0
+    },
+    "ending_library:natural_regeneration_increase": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 1024.0,
+      "key": "attribute.name.ending_library.natural_regeneration_increase",
+      "playerBase": 1.0
+    },
+    "forge:block_reach": {
+      "default": 4.5,
+      "min": 0.0,
+      "max": 1024.0,
+      "key": "forge.block_reach",
+      "playerBase": 4.5
+    },
+    "forge:entity_gravity": {
+      "default": 0.08,
+      "min": -8.0,
+      "max": 8.0,
+      "key": "forge.entity_gravity",
+      "playerBase": 0.08
+    },
+    "forge:entity_reach": {
+      "default": 3.0,
+      "min": 0.0,
+      "max": 1024.0,
+      "key": "forge.entity_reach",
+      "playerBase": 3.0
+    },
+    "forge:swim_speed": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 1024.0,
+      "key": "forge.swim_speed",
+      "playerBase": 1.0
+    },
+    "goety:casting_speed": {
+      "default": 0.0,
+      "min": -1.0,
+      "max": 1.0,
+      "key": "attribute.name.goety.casting_speed",
+      "playerBase": 0.0
+    },
+    "goety:soul_discount": {
+      "default": 0.0,
+      "min": -1.0,
+      "max": 1.0,
+      "key": "attribute.name.goety.soul_discount",
+      "playerBase": 0.0
+    },
+    "goety:spell_potency": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 2048.0,
+      "key": "attribute.name.goety.spell_potency",
+      "playerBase": 0.0
+    },
+    "goety_revelation:cast_duration": {
+      "default": 1.0,
+      "min": -5.0,
+      "max": 32767.0,
+      "key": "attribute.name.goety_revelation.cast_duration",
+      "playerBase": 1.0
+    },
+    "goety_revelation:frost_power": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 32767.0,
+      "key": "attribute.name.goety_revelation.frost_power",
+      "playerBase": 0.0
+    },
+    "goety_revelation:soul_decrease_reduction": {
+      "default": 1.0,
+      "min": -32767.0,
+      "max": 2.0,
+      "key": "attribute.name.goety_revelation.soul_decrease_reduction",
+      "playerBase": 1.0
+    },
+    "goety_revelation:soul_increase_efficiency": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 32767.0,
+      "key": "attribute.name.goety_revelation.soul_increase_efficiency",
+      "playerBase": 1.0
+    },
+    "goety_revelation:spell_cooldown": {
+      "default": 1.0,
+      "min": -5.0,
+      "max": 32767.0,
+      "key": "attribute.name.goety_revelation.spell_cooldown",
+      "playerBase": 1.0
+    },
+    "goety_revelation:spell_power": {
+      "default": 0.0,
+      "min": -32767.0,
+      "max": 32767.0,
+      "key": "attribute.name.goety_revelation.spell_power",
+      "playerBase": 0.0
+    },
+    "goety_revelation:spell_power_multiplier": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 32767.0,
+      "key": "attribute.name.goety_revelation.spell_power_multiplier",
+      "playerBase": 1.0
+    },
+    "gtbcs_geomancy_plus:geo_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.gtbcs_geomancy_plus.geo_spell_power",
+      "playerBase": 1.0
+    },
+    "gtbcs_spell_lib:spell_crit_chance": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1.0,
+      "key": "attribute.gtbcs_spell_lib.spell_crit_chance",
+      "playerBase": 0.0
+    },
+    "gtbcs_spell_lib:spell_crit_damage": {
+      "default": 1.0,
+      "min": 1.0,
+      "max": 10.0,
+      "key": "attribute.gtbcs_spell_lib.spell_crit_damage",
+      "playerBase": 1.0
+    },
+    "irons_lib:healing_received": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 1024.0,
+      "key": "attribute.name.irons_lib.healing_received",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:blood_magic_resist": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.blood_magic_resist",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:blood_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.blood_spell_power",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:cast_time_reduction": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.cast_time_reduction",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:casting_movespeed": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.casting_movespeed",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:cooldown_reduction": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.cooldown_reduction",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:eldritch_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.eldritch_spell_power",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:ender_magic_resist": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.ender_magic_resist",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:ender_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.ender_spell_power",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:evocation_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.evocation_spell_power",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:fire_magic_resist": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.fire_magic_resist",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:fire_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.fire_spell_power",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:holy_magic_resist": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.holy_magic_resist",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:holy_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.holy_spell_power",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:ice_magic_resist": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.ice_magic_resist",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:ice_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.ice_spell_power",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:lightning_magic_resist": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.lightning_magic_resist",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:lightning_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.lightning_spell_power",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:mana_regen": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.mana_regen",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:max_mana": {
+      "default": 100.0,
+      "min": 0.0,
+      "max": 1000000.0,
+      "key": "attribute.irons_spellbooks.max_mana",
+      "playerBase": 100.0
+    },
+    "irons_spellbooks:nature_magic_resist": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.nature_magic_resist",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:nature_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.nature_spell_power",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.spell_power",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:spell_resist": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.spell_resist",
+      "playerBase": 1.0
+    },
+    "irons_spellbooks:summon_damage": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.irons_spellbooks.summon_damage",
+      "playerBase": 1.0
+    },
+    "legendary_spellbooks:annihilation_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.legendary_spellbooks.annihilation_spell_power",
+      "playerBase": 1.0
+    },
+    "linggango_tweaks:dodge_damage": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 10.0,
+      "key": "attribute.name.linggango_tweaks.dodge_damage",
+      "playerBase": 1.0
+    },
+    "linggango_tweaks:dodge_window": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 10.0,
+      "key": "attribute.name.linggango_tweaks.dodge_window",
+      "playerBase": 0.0
+    },
+    "linggango_tweaks:gun_damage": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1024.0,
+      "key": "attribute.name.linggango_tweaks.gun_damage",
+      "playerBase": 0.0
+    },
+    "linggango_tweaks:parry_window": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 10.0,
+      "key": "attribute.name.linggango_tweaks.parry_window",
+      "playerBase": 0.0
+    },
+    "linggango_tweaks:roll_count": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 20.0,
+      "key": "attribute.name.linggango_tweaks.roll_count",
+      "playerBase": 1.0
+    },
+    "linggango_tweaks:stun_duration": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 10.0,
+      "key": "attribute.name.linggango_tweaks.stun_duration",
+      "playerBase": 1.0
+    },
+    "minecraft:generic.armor": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1000000.0,
+      "key": "attribute.name.generic.armor",
+      "playerBase": 0.0
+    },
+    "minecraft:generic.armor_toughness": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1000000.0,
+      "key": "attribute.name.generic.armor_toughness",
+      "playerBase": 0.0
+    },
+    "minecraft:generic.attack_damage": {
+      "default": 2.0,
+      "min": 0.0,
+      "max": 1000000.0,
+      "key": "attribute.name.generic.attack_damage",
+      "playerBase": 1.0
+    },
+    "minecraft:generic.attack_knockback": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1000000.0,
+      "key": "attribute.name.generic.attack_knockback",
+      "playerBase": 0.0
+    },
+    "minecraft:generic.attack_speed": {
+      "default": 4.0,
+      "min": 0.0,
+      "max": 1024.0,
+      "key": "attribute.name.generic.attack_speed",
+      "playerBase": 4.0
+    },
+    "minecraft:generic.knockback_resistance": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1.0,
+      "key": "attribute.name.generic.knockback_resistance",
+      "playerBase": 0.0
+    },
+    "minecraft:generic.luck": {
+      "default": 0.0,
+      "min": -1024.0,
+      "max": 1024.0,
+      "key": "attribute.name.generic.luck",
+      "playerBase": 0.0
+    },
+    "minecraft:generic.max_health": {
+      "default": 20.0,
+      "min": 1.0,
+      "max": 1000000.0,
+      "key": "attribute.name.generic.max_health",
+      "playerBase": 20.0
+    },
+    "minecraft:generic.movement_speed": {
+      "default": 0.699999988079071,
+      "min": 0.0,
+      "max": 1024.0,
+      "key": "attribute.name.generic.movement_speed",
+      "playerBase": 0.10000000149011612
+    },
+    "opposing_force:stealth": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1.0,
+      "key": "attribute.opposing_force.name.generic.stealth"
+    },
+    "saintsdragons:blast_resistance": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 100.0,
+      "key": "attribute.name.saintsdragons.blast_resistance",
+      "playerBase": 0.0
+    },
+    "saintsdragons:fire_resistance": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 100.0,
+      "key": "attribute.name.saintsdragons.fire_resistance",
+      "playerBase": 0.0
+    },
+    "soulsweapons:base_posture_increase": {
+      "default": 0.0,
+      "min": -10000.0,
+      "max": 10000.0,
+      "key": "attribute.soulsweapons.base_posture_increase",
+      "playerBase": 0.0
+    },
+    "soulsweapons:bleed_buildup_resistance": {
+      "default": 0.0,
+      "min": -10000.0,
+      "max": 10000.0,
+      "key": "attribute.soulsweapons.bleed_buildup_resistance",
+      "playerBase": 0.0
+    },
+    "soulsweapons:bleed_damage_resistance": {
+      "default": 0.0,
+      "min": -10000.0,
+      "max": 10000.0,
+      "key": "attribute.soulsweapons.bleed_damage_resistance",
+      "playerBase": 0.0
+    },
+    "soulsweapons:posture_buildup_resistance": {
+      "default": 0.0,
+      "min": -10000.0,
+      "max": 10000.0,
+      "key": "attribute.soulsweapons.posture_buildup_resistance",
+      "playerBase": 0.0
+    },
+    "summonity:minion_slots": {
+      "default": 1.0,
+      "min": 0.0,
+      "max": 100.0,
+      "key": "attribute.summonity.minion_slots",
+      "playerBase": 1.0
+    },
+    "too_many_bows:bow_crit_chance": {
+      "default": 0.0,
+      "min": 0.0,
+      "max": 1.0,
+      "key": "attribute.too_many_bows.bow_crit_chance",
+      "playerBase": 0.0
+    },
+    "too_many_bows:bow_draw_speed": {
+      "default": 1.0,
+      "min": 0.05,
+      "max": 10.0,
+      "key": "attribute.too_many_bows.bow_draw_speed",
+      "playerBase": 1.0
+    },
+    "traveloptics:aqua_spell_power": {
+      "default": 1.0,
+      "min": -100.0,
+      "max": 100.0,
+      "key": "attribute.traveloptics.aqua_spell_power",
+      "playerBase": 1.0
+    }
+  }
+}

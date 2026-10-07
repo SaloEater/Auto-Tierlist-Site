@@ -1,0 +1,1297 @@
+{
+  "type": "weapons",
+  "edges": [
+    {
+      "output": "ae2:fluix_sword",
+      "ingredient": "ae2:certus_quartz_sword"
+    },
+    {
+      "output": "ae2:fluix_sword",
+      "ingredient": "ae2:nether_quartz_sword"
+    },
+    {
+      "output": "alexscaves:extinction_spear",
+      "ingredient": "alexscaves:limestone_spear"
+    },
+    {
+      "output": "animus:spear_bound",
+      "ingredient": "animus:spear_diamond"
+    },
+    {
+      "output": "animus:spear_sentient",
+      "ingredient": "animus:spear_diamond"
+    },
+    {
+      "output": "armageddon_mod:bloody_paxel",
+      "ingredient": "armageddon_mod:bloody_axe"
+    },
+    {
+      "output": "armageddon_mod:broken_sword_ofthe_elements",
+      "ingredient": "armageddon_mod:broken_sword_of_the_element_schulk"
+    },
+    {
+      "output": "armageddon_mod:broken_sword_ofthe_elements",
+      "ingredient": "armageddon_mod:broken_sword_of_the_elements_fire"
+    },
+    {
+      "output": "armageddon_mod:broken_sword_ofthe_elements",
+      "ingredient": "armageddon_mod:broken_sword_of_the_elements_grass"
+    },
+    {
+      "output": "armageddon_mod:broken_sword_ofthe_elements",
+      "ingredient": "armageddon_mod:broken_sword_of_the_elements_ice"
+    },
+    {
+      "output": "armageddon_mod:broken_sword_ofthe_elements",
+      "ingredient": "armageddon_mod:broken_sword_of_the_elements_lightning"
+    },
+    {
+      "output": "armageddon_mod:broken_sword_ofthe_elements",
+      "ingredient": "minecraft:diamond_sword"
+    },
+    {
+      "output": "armageddon_mod:echo_of_discord",
+      "ingredient": "armageddon_mod:iron_throwing_dagger"
+    },
+    {
+      "output": "armageddon_mod:elvenite_paxel",
+      "ingredient": "armageddon_mod:elvenite_axe"
+    },
+    {
+      "output": "armageddon_mod:fork_of_lamentations",
+      "ingredient": "armageddon_mod:lament_of_khyros"
+    },
+    {
+      "output": "armageddon_mod:gilded_paxel",
+      "ingredient": "armageddon_mod:gilded_axe"
+    },
+    {
+      "output": "armageddon_mod:gilded_pike",
+      "ingredient": "armageddon_mod:golden_pike"
+    },
+    {
+      "output": "armageddon_mod:gilded_sword",
+      "ingredient": "minecraft:golden_sword"
+    },
+    {
+      "output": "armageddon_mod:helionite_paxel",
+      "ingredient": "armageddon_mod:helionite_axe"
+    },
+    {
+      "output": "armageddon_mod:helionite_sword",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "armageddon_mod:hellforged_bident",
+      "ingredient": "armageddon_mod:diamond_pike"
+    },
+    {
+      "output": "armageddon_mod:incendarius",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:netherite_throwing_dagger",
+      "ingredient": "armageddon_mod:diamond_throwing_dagger"
+    },
+    {
+      "output": "armageddon_mod:primalis",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:sanguir",
+      "ingredient": "armageddon_mod:hellforged_bident"
+    },
+    {
+      "output": "armageddon_mod:scalding_silence",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:skyfang_tempest",
+      "ingredient": "armageddon_mod:the_gale_piercer"
+    },
+    {
+      "output": "armageddon_mod:spear_of_longinus",
+      "ingredient": "armageddon_mod:fork_of_lamentations"
+    },
+    {
+      "output": "armageddon_mod:swordofthe_elements",
+      "ingredient": "armageddon_mod:broken_sword_ofthe_elements"
+    },
+    {
+      "output": "armageddon_mod:swordofthe_elements",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:swordofthe_elements",
+      "ingredient": "armageddon_mod:sword_of_the_element_schulk"
+    },
+    {
+      "output": "armageddon_mod:swordofthe_elements",
+      "ingredient": "armageddon_mod:sword_of_the_elements_fire"
+    },
+    {
+      "output": "armageddon_mod:swordofthe_elements",
+      "ingredient": "armageddon_mod:sword_of_the_elements_ice"
+    },
+    {
+      "output": "armageddon_mod:swordofthe_elements",
+      "ingredient": "armageddon_mod:sword_of_the_elements_lightning"
+    },
+    {
+      "output": "armageddon_mod:swordofthe_elements",
+      "ingredient": "armageddon_mod:sword_ofthe_elements_grass"
+    },
+    {
+      "output": "armageddon_mod:thalassar",
+      "ingredient": "armageddon_mod:the_prismatic_blade"
+    },
+    {
+      "output": "armageddon_mod:the_annihilation",
+      "ingredient": "armageddon_mod:the_chaos_saber"
+    },
+    {
+      "output": "armageddon_mod:the_annihilation",
+      "ingredient": "armageddon_mod:the_voidfang_saber"
+    },
+    {
+      "output": "armageddon_mod:the_chaos_saber",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:the_chaosphere_blade",
+      "ingredient": "armageddon_mod:the_emerald_wrath"
+    },
+    {
+      "output": "armageddon_mod:the_duskfire_blade",
+      "ingredient": "armageddon_mod:true_helionite_sword"
+    },
+    {
+      "output": "armageddon_mod:the_holy_sword",
+      "ingredient": "armageddon_mod:radiant_sanctifier"
+    },
+    {
+      "output": "armageddon_mod:the_north_star",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:the_oathbreaker_of_chaos",
+      "ingredient": "armageddon_mod:the_titans_oath"
+    },
+    {
+      "output": "armageddon_mod:the_prismatic_blade",
+      "ingredient": "armageddon_mod:prismatic_sword"
+    },
+    {
+      "output": "armageddon_mod:the_prismatic_blade",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:the_scarlet_guillotine",
+      "ingredient": "armageddon_mod:bloody_scythe"
+    },
+    {
+      "output": "armageddon_mod:the_sword_of_the_starved",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:the_vampiric_blade",
+      "ingredient": "armageddon_mod:bloody_sword"
+    },
+    {
+      "output": "armageddon_mod:the_voidfang_saber",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:the_warden_slayer",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:the_wilting_virescence",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:the_world_breaker_axe",
+      "ingredient": "armageddon_mod:the_worldshaper_axe"
+    },
+    {
+      "output": "armageddon_mod:the_world_flare_axe",
+      "ingredient": "armageddon_mod:the_world_breaker_axe"
+    },
+    {
+      "output": "armageddon_mod:true_aqua_tide",
+      "ingredient": "armageddon_mod:aqua_tide"
+    },
+    {
+      "output": "armageddon_mod:true_aqua_tide",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:true_helionite_sword",
+      "ingredient": "armageddon_mod:helionite_sword"
+    },
+    {
+      "output": "armageddon_mod:true_helionite_sword",
+      "ingredient": "armageddon_mod:rustyswordofthelegendaryhero"
+    },
+    {
+      "output": "armageddon_mod:ultimate_sword_of_the_elements",
+      "ingredient": "armageddon_mod:swordofthe_elements"
+    },
+    {
+      "output": "armageddon_mod:ultimate_sword_of_the_elements",
+      "ingredient": "armageddon_mod:ultimate_sword_of_the_element_schulk"
+    },
+    {
+      "output": "armageddon_mod:ultimate_sword_of_the_elements",
+      "ingredient": "armageddon_mod:ultimate_sword_of_the_elements_fire"
+    },
+    {
+      "output": "armageddon_mod:ultimate_sword_of_the_elements",
+      "ingredient": "armageddon_mod:ultimate_sword_of_the_elements_grass"
+    },
+    {
+      "output": "armageddon_mod:ultimate_sword_of_the_elements",
+      "ingredient": "armageddon_mod:ultimate_sword_of_the_elements_ice"
+    },
+    {
+      "output": "armageddon_mod:ultimate_sword_of_the_elements",
+      "ingredient": "armageddon_mod:ultimate_sword_of_the_elements_lightning"
+    },
+    {
+      "output": "armageddon_mod:voiderite_paxel",
+      "ingredient": "armageddon_mod:voiderite_axe"
+    },
+    {
+      "output": "ars_nouveau:enchanters_sword",
+      "ingredient": "minecraft:diamond_sword"
+    },
+    {
+      "output": "block_factorys_bosses:large_sword",
+      "ingredient": "block_factorys_bosses:warrior_sword"
+    },
+    {
+      "output": "born_in_chaos_v1:carrot_sword",
+      "ingredient": "born_in_chaos_v1:sweet_sword"
+    },
+    {
+      "output": "born_in_chaos_v1:darkwarblade",
+      "ingredient": "born_in_chaos_v1:sharpened_dark_metal_sword"
+    },
+    {
+      "output": "born_in_chaos_v1:icy_sweetness",
+      "ingredient": "born_in_chaos_v1:frostbitten_blade"
+    },
+    {
+      "output": "born_in_chaos_v1:smoked_monster_flesh",
+      "ingredient": "born_in_chaos_v1:monster_flesh"
+    },
+    {
+      "output": "brutality:blade_of_the_ruined_king",
+      "ingredient": "terramity:dimlite_sword"
+    },
+    {
+      "output": "brutality:darkin_blade",
+      "ingredient": "terramity:hellspec_sword"
+    },
+    {
+      "output": "brutality:depth_crusher",
+      "ingredient": "armageddon_mod:the_world_breaker_axe"
+    },
+    {
+      "output": "brutality:depth_crusher",
+      "ingredient": "minecraft:trident"
+    },
+    {
+      "output": "brutality:double_down",
+      "ingredient": "terramity:stratus_storm_ruler"
+    },
+    {
+      "output": "brutality:dull_knife",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "brutality:frostmourne",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "brutality:gungnir",
+      "ingredient": "terramity:stratus_storm_ruler"
+    },
+    {
+      "output": "brutality:gungnir",
+      "ingredient": "terramity:unholy_lance"
+    },
+    {
+      "output": "brutality:metal_ruler",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "brutality:rhongomyniad",
+      "ingredient": "terramity:excalibur"
+    },
+    {
+      "output": "brutality:royal_guardian_sword",
+      "ingredient": "lethality:gamblers_blade"
+    },
+    {
+      "output": "brutality:royal_guardian_sword",
+      "ingredient": "terramity:yoru"
+    },
+    {
+      "output": "brutality:royal_guardian_sword",
+      "ingredient": "weapon:greatsword"
+    },
+    {
+      "output": "brutality:seventh_star",
+      "ingredient": "terramity:cosmilite_sword"
+    },
+    {
+      "output": "brutality:shadowstep",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "brutality:supernova",
+      "ingredient": "terramity:cosmilite_sword"
+    },
+    {
+      "output": "brutality:thunderbolt",
+      "ingredient": "minecraft:trident"
+    },
+    {
+      "output": "brutality:vampire_knives",
+      "ingredient": "brutality:diamond_knife"
+    },
+    {
+      "output": "brutality:void_knife",
+      "ingredient": "brutality:diamond_knife"
+    },
+    {
+      "output": "brutality:whisperwaltz",
+      "ingredient": "terramity:reverium_sword"
+    },
+    {
+      "output": "brutality:wooden_ruler",
+      "ingredient": "composite_material:flint_sword"
+    },
+    {
+      "output": "cataclysm:gauntlet_of_bulwark",
+      "ingredient": "cataclysm:gauntlet_of_guard"
+    },
+    {
+      "output": "cataclysm:gauntlet_of_maelstrom",
+      "ingredient": "cataclysm:gauntlet_of_guard"
+    },
+    {
+      "output": "cataclysm:the_immolator",
+      "ingredient": "cataclysm:the_annihilator"
+    },
+    {
+      "output": "cataclysm:the_incinerator",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "cataclysm:void_forge",
+      "ingredient": "cataclysm:infernal_forge"
+    },
+    {
+      "output": "celestisynth:crescentia",
+      "ingredient": "minecraft:trident"
+    },
+    {
+      "output": "celestisynth:keres",
+      "ingredient": "celestisynth:aquaflora"
+    },
+    {
+      "output": "celestisynth:keres",
+      "ingredient": "celestisynth:breezebreaker"
+    },
+    {
+      "output": "celestisynth:keres",
+      "ingredient": "celestisynth:crescentia"
+    },
+    {
+      "output": "celestisynth:keres",
+      "ingredient": "celestisynth:frostbound"
+    },
+    {
+      "output": "celestisynth:keres",
+      "ingredient": "celestisynth:poltergeist"
+    },
+    {
+      "output": "celestisynth:keres",
+      "ingredient": "celestisynth:solaris"
+    },
+    {
+      "output": "celestisynth:solaris",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "composite_material:dungeon_sword_reinforced",
+      "ingredient": "composite_material:dungeon_sword"
+    },
+    {
+      "output": "composite_material:echoium_sword_reinforced",
+      "ingredient": "composite_material:echoium_sword"
+    },
+    {
+      "output": "composite_material:etherite_sword_reinforced",
+      "ingredient": "composite_material:etherite_sword"
+    },
+    {
+      "output": "composite_material:primitive_sword",
+      "ingredient": "composite_material:flint_sword"
+    },
+    {
+      "output": "deeperdarker:resonarium_sword",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "deeperdarker:warden_sword",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "eeeabsmobs:buster_gauntlet",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "eeeabsmobs:chainsword",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "enigmaticaddons:astral_spear",
+      "ingredient": "enigmaticlegacy:etherium_sword"
+    },
+    {
+      "output": "enigmaticaddons:disaster_sword",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "enigmaticaddons:the_bless",
+      "ingredient": "enigmaticlegacy:the_acknowledgment"
+    },
+    {
+      "output": "enigmaticdelicacy:curse_blade",
+      "ingredient": "enigmaticlegacy:forbidden_axe"
+    },
+    {
+      "output": "enigmaticlegacy:eldritch_pan",
+      "ingredient": "brutality:frying_pan"
+    },
+    {
+      "output": "enigmaticlegacy:eldritch_pan",
+      "ingredient": "enigmaticlegacy:the_infinitum"
+    },
+    {
+      "output": "enigmaticlegacy:the_infinitum",
+      "ingredient": "enigmaticlegacy:the_twist"
+    },
+    {
+      "output": "enigmaticlegacy:the_twist",
+      "ingredient": "enigmaticlegacy:the_acknowledgment"
+    },
+    {
+      "output": "experienceobelisk:cognitive_sword",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "fromtheshadows:crystallized_dagger",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "goety:blade_of_ender",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "goety:dark_metal_scythe",
+      "ingredient": "goety:dark_scythe"
+    },
+    {
+      "output": "goety:death_scythe",
+      "ingredient": "goety:dark_metal_scythe"
+    },
+    {
+      "output": "goety:hungry_dagger",
+      "ingredient": "goety:fanged_dagger"
+    },
+    {
+      "output": "goety_revelation:gungnir",
+      "ingredient": "minecraft:trident"
+    },
+    {
+      "output": "goety_revelation:valettein",
+      "ingredient": "goety:fell_blade"
+    },
+    {
+      "output": "hazennstuff:devastator",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "hazennstuff:draconic_splitter",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "hazennstuff:excalibur",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "hazennstuff:ice_pike",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "hazennstuff:ionic_splitter",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "hazennstuff:provocation",
+      "ingredient": "armageddon_mod:the_holy_sword"
+    },
+    {
+      "output": "hazennstuff:ravens_bane",
+      "ingredient": "irons_spellbooks:hellrazor"
+    },
+    {
+      "output": "hazennstuff:the_devourer",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "hazennstuff:umbranova",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "irons_spellbooks:hellrazor",
+      "ingredient": "irons_spellbooks:decrepit_scythe"
+    },
+    {
+      "output": "irons_spellbooks:legionnaire_flamberge",
+      "ingredient": "irons_spellbooks:keeper_flamberge"
+    },
+    {
+      "output": "l2complements:eternium_sword",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "legendary_monsters:chorus_blade",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "legendary_monsters:enderitium_sword",
+      "ingredient": "minecraft:diamond_sword"
+    },
+    {
+      "output": "legendary_monsters:monstrous_anchor",
+      "ingredient": "legendary_monsters:anchor_handle"
+    },
+    {
+      "output": "legendary_monsters:the_great_frost",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "lethality:bladecrest_oathsword",
+      "ingredient": "terramity:ruby_sword"
+    },
+    {
+      "output": "lethality:blighted_cleaver",
+      "ingredient": "lethality:caustic_edge"
+    },
+    {
+      "output": "lethality:blighted_cleaver",
+      "ingredient": "terramity:simmeredge"
+    },
+    {
+      "output": "lethality:broken_biome_blade",
+      "ingredient": "terramity:onyx_sword"
+    },
+    {
+      "output": "lethality:broken_biome_blade",
+      "ingredient": "terramity:ruby_sword"
+    },
+    {
+      "output": "lethality:broken_biome_blade",
+      "ingredient": "terramity:sapphire_sword"
+    },
+    {
+      "output": "lethality:broken_biome_blade",
+      "ingredient": "terramity:topaz_sword"
+    },
+    {
+      "output": "lethality:caustic_edge",
+      "ingredient": "lethality:tainted_blade"
+    },
+    {
+      "output": "lethality:conductite_bafpb",
+      "ingredient": "terramity:conductite_sword"
+    },
+    {
+      "output": "lethality:cosmilite_bafs",
+      "ingredient": "terramity:cosmilite_sword"
+    },
+    {
+      "output": "lethality:defiled_greatsword",
+      "ingredient": "lethality:blighted_cleaver"
+    },
+    {
+      "output": "lethality:defiled_greatsword",
+      "ingredient": "terramity:guiding_moonlight"
+    },
+    {
+      "output": "lethality:devils_devastation",
+      "ingredient": "lethality:exalted_oathblade"
+    },
+    {
+      "output": "lethality:dimlite_bafs",
+      "ingredient": "terramity:dimlite_sword"
+    },
+    {
+      "output": "lethality:exalted_oathblade",
+      "ingredient": "lethality:forbidden_oathblade"
+    },
+    {
+      "output": "lethality:exodium_bafs",
+      "ingredient": "terramity:exodium_sword"
+    },
+    {
+      "output": "lethality:forbidden_oathblade",
+      "ingredient": "lethality:bladecrest_oathsword"
+    },
+    {
+      "output": "lethality:gaels_greatsword",
+      "ingredient": "terramity:sword_of_the_imprisoned"
+    },
+    {
+      "output": "lethality:gamblers_blade",
+      "ingredient": "lethality:midas_touch"
+    },
+    {
+      "output": "lethality:gamblers_blade",
+      "ingredient": "lethality:real_knife"
+    },
+    {
+      "output": "lethality:grievance",
+      "ingredient": "terramity:exodium_sword"
+    },
+    {
+      "output": "lethality:hellspec_bafs",
+      "ingredient": "terramity:hellspec_sword"
+    },
+    {
+      "output": "lethality:hf_meowrasama",
+      "ingredient": "terramity:simmeredge"
+    },
+    {
+      "output": "lethality:midas_touch",
+      "ingredient": "brutality:jackpot"
+    },
+    {
+      "output": "lethality:midas_touch",
+      "ingredient": "terramity:duskrok_greatsword"
+    },
+    {
+      "output": "lethality:netherite_bafs",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "lethality:nightmare_sword",
+      "ingredient": "lethality:defiled_greatsword"
+    },
+    {
+      "output": "lethality:nightmare_sword",
+      "ingredient": "lethality:devils_devastation"
+    },
+    {
+      "output": "lethality:nightmare_sword",
+      "ingredient": "terramity:sword_of_the_imprisoned"
+    },
+    {
+      "output": "lethality:nyxium_bafs",
+      "ingredient": "terramity:nyxium_greatsword"
+    },
+    {
+      "output": "lethality:real_knife",
+      "ingredient": "terramity:hellspec_sword"
+    },
+    {
+      "output": "lethality:reverium_bafs",
+      "ingredient": "terramity:reverium_sword"
+    },
+    {
+      "output": "lethality:sacrifice",
+      "ingredient": "terramity:reverium_sword"
+    },
+    {
+      "output": "lethality:starlight",
+      "ingredient": "terramity:nyxium_greatsword"
+    },
+    {
+      "output": "lethality:tainted_blade",
+      "ingredient": "terramity:ruby_sword"
+    },
+    {
+      "output": "lethality:violence",
+      "ingredient": "terramity:unholy_lance"
+    },
+    {
+      "output": "lethality:virentium_bafs",
+      "ingredient": "terramity:virentium_sword"
+    },
+    {
+      "output": "lethality:void_bafs",
+      "ingredient": "terramity:void_sword"
+    },
+    {
+      "output": "macabre:chanisword",
+      "ingredient": "macabre:fearmonger"
+    },
+    {
+      "output": "macabre:hemorrhage_sword",
+      "ingredient": "macabre:rageblade"
+    },
+    {
+      "output": "macabre:shorgan",
+      "ingredient": "macabre:gauge"
+    },
+    {
+      "output": "macabre:spearplunder",
+      "ingredient": "macabre:crippler"
+    },
+    {
+      "output": "macabre:the_cleave",
+      "ingredient": "macabre:bonecrusher"
+    },
+    {
+      "output": "macabre:true_gorescythe",
+      "ingredient": "macabre:gorescythe"
+    },
+    {
+      "output": "macabre:valamon_axe",
+      "ingredient": "macabre:doubleslit"
+    },
+    {
+      "output": "macabre:valamon_sickle",
+      "ingredient": "macabre:carver"
+    },
+    {
+      "output": "mekanism:meka_tool",
+      "ingredient": "mekanism:atomic_disassembler"
+    },
+    {
+      "output": "minecraft:netherite_sword",
+      "ingredient": "legendary_monsters:enderitium_sword"
+    },
+    {
+      "output": "minecraft:netherite_sword",
+      "ingredient": "minecraft:diamond_sword"
+    },
+    {
+      "output": "minecraft:trident",
+      "ingredient": "minecraft:diamond_sword"
+    },
+    {
+      "output": "mysticalagriculture:hostile_soulium_dagger",
+      "ingredient": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "output": "mysticalagriculture:passive_soulium_dagger",
+      "ingredient": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "output": "mysticalagriculture:soulium_dagger",
+      "ingredient": "minecraft:golden_sword"
+    },
+    {
+      "output": "peyroscythe:ice_judgment",
+      "ingredient": "peyroscythe:captain_greg"
+    },
+    {
+      "output": "peyroscythe:ice_judgment",
+      "ingredient": "peyroscythe:captain_greg_pa"
+    },
+    {
+      "output": "peyroscythe:ice_judgment",
+      "ingredient": "peyroscythe:captain_greg_transformable"
+    },
+    {
+      "output": "simplymore:ascended_idol",
+      "ingredient": "simplymore:ruptured_idol"
+    },
+    {
+      "output": "simplymore:darksent",
+      "ingredient": "simplymore:tarnished_idol"
+    },
+    {
+      "output": "simplymore:diamond_grandsword",
+      "ingredient": "minecraft:diamond_sword"
+    },
+    {
+      "output": "simplymore:gold_grandsword",
+      "ingredient": "minecraft:golden_sword"
+    },
+    {
+      "output": "simplymore:holylight",
+      "ingredient": "simplymore:ascended_idol"
+    },
+    {
+      "output": "simplymore:iron_grandsword",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "simplymore:netherite_backhand_blade",
+      "ingredient": "simplymore:diamond_backhand_blade"
+    },
+    {
+      "output": "simplymore:netherite_dagger",
+      "ingredient": "simplymore:diamond_dagger"
+    },
+    {
+      "output": "simplymore:netherite_deer_horns",
+      "ingredient": "simplymore:diamond_deer_horns"
+    },
+    {
+      "output": "simplymore:netherite_grandsword",
+      "ingredient": "simplymore:diamond_grandsword"
+    },
+    {
+      "output": "simplymore:netherite_great_katana",
+      "ingredient": "simplymore:diamond_great_katana"
+    },
+    {
+      "output": "simplymore:netherite_great_spear",
+      "ingredient": "simplymore:diamond_great_spear"
+    },
+    {
+      "output": "simplymore:netherite_khopesh",
+      "ingredient": "simplymore:diamond_khopesh"
+    },
+    {
+      "output": "simplymore:netherite_lance",
+      "ingredient": "simplymore:diamond_lance"
+    },
+    {
+      "output": "simplymore:netherite_pernach",
+      "ingredient": "simplymore:diamond_pernach"
+    },
+    {
+      "output": "simplymore:netherite_quarterstaff",
+      "ingredient": "simplymore:diamond_quarterstaff"
+    },
+    {
+      "output": "simplymore:runic_backhand_blade",
+      "ingredient": "simplymore:netherite_backhand_blade"
+    },
+    {
+      "output": "simplymore:runic_dagger",
+      "ingredient": "simplymore:netherite_dagger"
+    },
+    {
+      "output": "simplymore:runic_deer_horns",
+      "ingredient": "simplymore:netherite_deer_horns"
+    },
+    {
+      "output": "simplymore:runic_grandsword",
+      "ingredient": "simplymore:netherite_grandsword"
+    },
+    {
+      "output": "simplymore:runic_great_katana",
+      "ingredient": "simplymore:netherite_great_katana"
+    },
+    {
+      "output": "simplymore:runic_great_spear",
+      "ingredient": "simplymore:netherite_great_spear"
+    },
+    {
+      "output": "simplymore:runic_khopesh",
+      "ingredient": "simplymore:netherite_khopesh"
+    },
+    {
+      "output": "simplymore:runic_lance",
+      "ingredient": "simplymore:netherite_lance"
+    },
+    {
+      "output": "simplymore:runic_pernach",
+      "ingredient": "simplymore:netherite_pernach"
+    },
+    {
+      "output": "simplymore:runic_quarterstaff",
+      "ingredient": "simplymore:netherite_quarterstaff"
+    },
+    {
+      "output": "simplymore:tarnished_idol",
+      "ingredient": "simplymore:ruptured_idol"
+    },
+    {
+      "output": "simplyswords:awakened_lichblade",
+      "ingredient": "simplyswords:waking_lichblade"
+    },
+    {
+      "output": "simplyswords:harbinger",
+      "ingredient": "simplyswords:tainted_relic"
+    },
+    {
+      "output": "simplyswords:netherite_chakram",
+      "ingredient": "simplyswords:diamond_chakram"
+    },
+    {
+      "output": "simplyswords:netherite_claymore",
+      "ingredient": "simplyswords:diamond_claymore"
+    },
+    {
+      "output": "simplyswords:netherite_cutlass",
+      "ingredient": "simplyswords:diamond_cutlass"
+    },
+    {
+      "output": "simplyswords:netherite_glaive",
+      "ingredient": "simplyswords:diamond_glaive"
+    },
+    {
+      "output": "simplyswords:netherite_greataxe",
+      "ingredient": "simplyswords:diamond_greataxe"
+    },
+    {
+      "output": "simplyswords:netherite_greathammer",
+      "ingredient": "simplyswords:diamond_greathammer"
+    },
+    {
+      "output": "simplyswords:netherite_halberd",
+      "ingredient": "simplyswords:diamond_halberd"
+    },
+    {
+      "output": "simplyswords:netherite_katana",
+      "ingredient": "simplyswords:diamond_katana"
+    },
+    {
+      "output": "simplyswords:netherite_longsword",
+      "ingredient": "simplyswords:diamond_longsword"
+    },
+    {
+      "output": "simplyswords:netherite_rapier",
+      "ingredient": "simplyswords:diamond_rapier"
+    },
+    {
+      "output": "simplyswords:netherite_sai",
+      "ingredient": "simplyswords:diamond_sai"
+    },
+    {
+      "output": "simplyswords:netherite_scythe",
+      "ingredient": "simplyswords:diamond_scythe"
+    },
+    {
+      "output": "simplyswords:netherite_spear",
+      "ingredient": "simplyswords:diamond_spear"
+    },
+    {
+      "output": "simplyswords:netherite_twinblade",
+      "ingredient": "simplyswords:diamond_twinblade"
+    },
+    {
+      "output": "simplyswords:netherite_warglaive",
+      "ingredient": "simplyswords:diamond_warglaive"
+    },
+    {
+      "output": "simplyswords:righteous_relic",
+      "ingredient": "simplyswords:dormant_relic"
+    },
+    {
+      "output": "simplyswords:runic_chakram",
+      "ingredient": "simplyswords:netherite_chakram"
+    },
+    {
+      "output": "simplyswords:runic_claymore",
+      "ingredient": "simplyswords:netherite_claymore"
+    },
+    {
+      "output": "simplyswords:runic_cutlass",
+      "ingredient": "simplyswords:netherite_cutlass"
+    },
+    {
+      "output": "simplyswords:runic_glaive",
+      "ingredient": "simplyswords:netherite_glaive"
+    },
+    {
+      "output": "simplyswords:runic_greataxe",
+      "ingredient": "simplyswords:netherite_greataxe"
+    },
+    {
+      "output": "simplyswords:runic_greathammer",
+      "ingredient": "simplyswords:netherite_greathammer"
+    },
+    {
+      "output": "simplyswords:runic_halberd",
+      "ingredient": "simplyswords:netherite_halberd"
+    },
+    {
+      "output": "simplyswords:runic_katana",
+      "ingredient": "simplyswords:netherite_katana"
+    },
+    {
+      "output": "simplyswords:runic_longsword",
+      "ingredient": "simplyswords:netherite_longsword"
+    },
+    {
+      "output": "simplyswords:runic_rapier",
+      "ingredient": "simplyswords:netherite_rapier"
+    },
+    {
+      "output": "simplyswords:runic_sai",
+      "ingredient": "simplyswords:netherite_sai"
+    },
+    {
+      "output": "simplyswords:runic_scythe",
+      "ingredient": "simplyswords:netherite_scythe"
+    },
+    {
+      "output": "simplyswords:runic_spear",
+      "ingredient": "simplyswords:netherite_spear"
+    },
+    {
+      "output": "simplyswords:runic_twinblade",
+      "ingredient": "simplyswords:netherite_twinblade"
+    },
+    {
+      "output": "simplyswords:runic_warglaive",
+      "ingredient": "simplyswords:netherite_warglaive"
+    },
+    {
+      "output": "simplyswords:sunfire",
+      "ingredient": "simplyswords:righteous_relic"
+    },
+    {
+      "output": "simplyswords:sword_on_a_stick",
+      "ingredient": "simplyswords:iron_longsword"
+    },
+    {
+      "output": "simplyswords:tainted_relic",
+      "ingredient": "simplyswords:dormant_relic"
+    },
+    {
+      "output": "simplyswords:waking_lichblade",
+      "ingredient": "simplyswords:slumbering_lichblade"
+    },
+    {
+      "output": "somakespells:core_splitter",
+      "ingredient": "somakespells:witherite_glaive"
+    },
+    {
+      "output": "somakespells:forbidden_hammer",
+      "ingredient": "born_in_chaos_v1:skullbreaker_hammer"
+    },
+    {
+      "output": "soulsweapons:crucible_sword",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "soulsweapons:darkin_blade",
+      "ingredient": "soulsweapons:bloodthirster"
+    },
+    {
+      "output": "soulsweapons:dawnbreaker",
+      "ingredient": "minecraft:golden_sword"
+    },
+    {
+      "output": "soulsweapons:draugr",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "soulsweapons:empowered_dawnbreaker",
+      "ingredient": "soulsweapons:dawnbreaker"
+    },
+    {
+      "output": "soulsweapons:holy_greatsword",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "soulsweapons:holy_moonlight_sword",
+      "ingredient": "soulsweapons:sting"
+    },
+    {
+      "output": "soulsweapons:kirkhammer",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "soulsweapons:master_sword",
+      "ingredient": "minecraft:diamond_sword"
+    },
+    {
+      "output": "soulsweapons:moonlight_greatsword",
+      "ingredient": "soulsweapons:bluemoon_greatsword"
+    },
+    {
+      "output": "soulsweapons:moonlight_shortsword",
+      "ingredient": "soulsweapons:bluemoon_shortsword"
+    },
+    {
+      "output": "soulsweapons:nightlords_sword",
+      "ingredient": "minecraft:stone_sword"
+    },
+    {
+      "output": "soulsweapons:pure_moonlight_greatsword",
+      "ingredient": "soulsweapons:moonlight_greatsword"
+    },
+    {
+      "output": "soulsweapons:pure_moonlight_greatsword",
+      "ingredient": "soulsweapons:moonlight_shortsword"
+    },
+    {
+      "output": "soulsweapons:skofnung",
+      "ingredient": "minecraft:iron_sword"
+    },
+    {
+      "output": "terramity:axe_of_unholy_divinity",
+      "ingredient": "terramity:exodium_waraxe"
+    },
+    {
+      "output": "terramity:conductite_sword",
+      "ingredient": "terramity:iridium_sword"
+    },
+    {
+      "output": "terramity:cosmilite_sword",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "terramity:crescent_moonblade",
+      "ingredient": "terramity:orders_end"
+    },
+    {
+      "output": "terramity:crescent_moonblade",
+      "ingredient": "terramity:stratus_storm_ruler"
+    },
+    {
+      "output": "terramity:crescent_moonblade",
+      "ingredient": "terramity:void_sword"
+    },
+    {
+      "output": "terramity:dimlite_sword",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "terramity:excalibur",
+      "ingredient": "lethality:skysplitter_sword"
+    },
+    {
+      "output": "terramity:excalibur",
+      "ingredient": "lethality:sword_of_acclaim"
+    },
+    {
+      "output": "terramity:excalibur",
+      "ingredient": "lethality:sword_of_majesty"
+    },
+    {
+      "output": "terramity:excalibur",
+      "ingredient": "lethality:sword_of_splendor"
+    },
+    {
+      "output": "terramity:guiding_moonlight",
+      "ingredient": "terramity:excalibur"
+    },
+    {
+      "output": "terramity:hellspec_sword",
+      "ingredient": "terramity:iridium_sword"
+    },
+    {
+      "output": "terramity:hero_sword",
+      "ingredient": "terramity:excalibur"
+    },
+    {
+      "output": "terramity:icebrand",
+      "ingredient": "terramity:iridium_sword"
+    },
+    {
+      "output": "terramity:murasama",
+      "ingredient": "terramity:hero_sword"
+    },
+    {
+      "output": "terramity:murasama",
+      "ingredient": "terramity:simmeredge"
+    },
+    {
+      "output": "terramity:orders_end",
+      "ingredient": "terramity:iridium_sword"
+    },
+    {
+      "output": "terramity:simmeredge",
+      "ingredient": "terramity:iridium_sword"
+    },
+    {
+      "output": "terramity:stratus_storm_ruler",
+      "ingredient": "terramity:iridium_sword"
+    },
+    {
+      "output": "terramity:sword_of_the_imprisoned",
+      "ingredient": "terramity:crescent_moonblade"
+    },
+    {
+      "output": "terramity:sword_of_the_imprisoned",
+      "ingredient": "terramity:guiding_moonlight"
+    },
+    {
+      "output": "terramity:sword_of_the_imprisoned",
+      "ingredient": "terramity:hero_sword"
+    },
+    {
+      "output": "terramity:sword_of_the_imprisoned",
+      "ingredient": "terramity:simmeredge"
+    },
+    {
+      "output": "terramity:sword_of_the_imprisoned",
+      "ingredient": "terramity:stratus_storm_ruler"
+    },
+    {
+      "output": "terramity:virentium_sword",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "terramity:void_sword",
+      "ingredient": "terramity:iridium_sword"
+    },
+    {
+      "output": "terramity:yoru",
+      "ingredient": "terramity:excalibur"
+    },
+    {
+      "output": "tiered:pyrekings_edict",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "traveloptics:charged_sands",
+      "ingredient": "cataclysm:ancient_spear"
+    },
+    {
+      "output": "traveloptics:charged_sands",
+      "ingredient": "cataclysm:astrape"
+    },
+    {
+      "output": "traveloptics:mechanized_wraithblade",
+      "ingredient": "traveloptics:cursed_wraithblade"
+    },
+    {
+      "output": "traveloptics:the_obliterator",
+      "ingredient": "cataclysm:the_annihilator"
+    },
+    {
+      "output": "traveloptics:the_obliterator",
+      "ingredient": "traveloptics:abyssal_tidecaller"
+    },
+    {
+      "output": "traveloptics:thorns_of_oblivion",
+      "ingredient": "traveloptics:scourge_of_the_sands"
+    },
+    {
+      "output": "traveloptics:trident_of_the_eternal_maelstrom",
+      "ingredient": "cataclysm:coral_bardiche"
+    },
+    {
+      "output": "undergarden:forgotten_battleaxe",
+      "ingredient": "undergarden:cloggrum_battleaxe"
+    },
+    {
+      "output": "undergarden:forgotten_sword",
+      "ingredient": "undergarden:cloggrum_sword"
+    },
+    {
+      "output": "weapon:greatsword",
+      "ingredient": "minecraft:netherite_sword"
+    },
+    {
+      "output": "weapon:iaikatanak",
+      "ingredient": "minecraft:netherite_sword"
+    }
+  ]
+}
